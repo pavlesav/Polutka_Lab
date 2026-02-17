@@ -33,8 +33,8 @@ wheels/
 # assets/player_photos/
 
 # Output files
-outputs/figures/*.png
-outputs/figures/*.jpg
+# outputs/figures/*.png
+# outputs/figures/*.jpg
 
 # OS files
 .DS_Store
