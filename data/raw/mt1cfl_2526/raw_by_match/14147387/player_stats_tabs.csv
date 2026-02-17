@@ -1,0 +1,1834 @@
+match_id,team_id,team_name,team_side,player_id,player_name,player_position,metric_key,category,metric,value,secondary,denominator,percentage,display
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,accuratePass,General,Accurate passes,29.0,,31.0,93.54838709677419,29/31 (94%)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,total_duels,General,Duels (won),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,aerial_duels_total,General,Aerial duels (won),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,touches,Attacking,Touches,33.0,,,,33
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,ballRecovery,Defending,Ball recoveries,6.0,,,,6
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,accuratePass,Passing,Accurate passes,29.0,,31.0,93.54838709677419,29/31 (94%)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,accurateLongBalls,Passing,Accurate long balls,5.0,,7.0,71.42857142857143,5/7 (71%)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,accurateOwnHalfPasses,Passing,Passes own half,28.0,,28.0,100.0,28/28 (100%)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,accurateOppositionHalfPasses,Passing,Passes opposition half,1.0,,3.0,33.33333333333333,1/3 (33%)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,total_duels,Duels,Duels (won),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,aerial_duels_total,Duels,Aerial duels (won),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,saves,Goalkeeping,Saves,2.0,,,,2
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),2.0,,,,2
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),1.0,0.0,,0.0,1 (0)
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,goodHighClaim,Goalkeeping,Good high claims,1.0,,,,1
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,crossNotClaimed,Goalkeeping,Crosses not claimed,0.0,,,,0
+14147387,6216,OFK Petrovac,home,188987,Marko Kordić,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,accuratePass,General,Accurate passes,40.0,,60.0,66.66666666666666,40/60 (67%)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,total_duels,General,Duels (won),12.0,5.0,,,12 (5)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,ground_duels_total,General,Ground duels (won),9.0,3.0,,,9 (3)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,aerial_duels_total,General,Aerial duels (won),3.0,2.0,,,3 (2)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,totalShots,Attacking,Shots (on target),1.0,0.0,,,1 (0)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,expectedGoals,Attacking,Expected goals,0.01,,,,0.01
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,expectedAssists,Attacking,Expected assists,0.46,,,,0.46
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,keyPass,Attacking,Key passes,5.0,,,,5
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,touches,Attacking,Touches,79.0,,,,79
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,wasFouled,Attacking,Was fouled,1.0,,,,1
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,ballRecovery,Defending,Ball recoveries,12.0,,,,12
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,totalClearance,Defending,Clearances,3.0,,,,3
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,accuratePass,Passing,Accurate passes,40.0,,60.0,66.66666666666666,40/60 (67%)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,accurateLongBalls,Passing,Accurate long balls,2.0,,13.0,15.384615384615385,2/13 (15%)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,accurateCross,Passing,Accurate crosses,4.0,,11.0,36.36363636363637,4/11 (36%)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,accurateOwnHalfPasses,Passing,Passes own half,19.0,,20.0,95.0,19/20 (95%)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,20.0,,39.0,51.28205128205128,20/39 (51%)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,keyPass,Passing,Key passes,5.0,,,,5
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,expectedAssists,Passing,Expected assists,0.46,,,,0.46
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,total_duels,Duels,Duels (won),12.0,5.0,,,12 (5)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,ground_duels_total,Duels,Ground duels (won),9.0,3.0,,,9 (3)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,aerial_duels_total,Duels,Aerial duels (won),3.0,2.0,,,3 (2)
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,wasFouled,Duels,Was fouled,1.0,,,,1
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,possessionLostCtrl,Duels,Possession lost,20.0,,,,20
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,882142,Danilo Pešukić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,accuratePass,General,Accurate passes,41.0,,45.0,91.11111111111111,41/45 (91%)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,total_duels,General,Duels (won),7.0,2.0,,,7 (2)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,ground_duels_total,General,Ground duels (won),3.0,0.0,,,3 (0)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,touches,Attacking,Touches,47.0,,,,47
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,wasFouled,Attacking,Was fouled,1.0,,,,1
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,ballRecovery,Defending,Ball recoveries,11.0,,,,11
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,totalClearance,Defending,Clearances,3.0,,,,3
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,accuratePass,Passing,Accurate passes,41.0,,45.0,91.11111111111111,41/45 (91%)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,accurateLongBalls,Passing,Accurate long balls,4.0,,5.0,80.0,4/5 (80%)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,accurateOwnHalfPasses,Passing,Passes own half,28.0,,30.0,93.33333333333333,28/30 (93%)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,13.0,,15.0,86.66666666666667,13/15 (87%)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,total_duels,Duels,Duels (won),7.0,2.0,,,7 (2)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,ground_duels_total,Duels,Ground duels (won),3.0,0.0,,,3 (0)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,wasFouled,Duels,Was fouled,1.0,,,,1
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,possessionLostCtrl,Duels,Possession lost,3.0,,,,3
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,986362,Marko Merdović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,accuratePass,General,Accurate passes,46.0,,57.0,80.7017543859649,46/57 (81%)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,total_duels,General,Duels (won),16.0,7.0,,,16 (7)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,ground_duels_total,General,Ground duels (won),12.0,4.0,,,12 (4)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,aerial_duels_total,General,Aerial duels (won),4.0,3.0,,,4 (3)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,touches,Attacking,Touches,64.0,,,,64
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,interceptionWon,Defending,Interceptions,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,ballRecovery,Defending,Ball recoveries,13.0,,,,13
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,totalClearance,Defending,Clearances,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,accuratePass,Passing,Accurate passes,46.0,,57.0,80.7017543859649,46/57 (81%)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,accurateLongBalls,Passing,Accurate long balls,6.0,,12.0,50.0,6/12 (50%)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,accurateOwnHalfPasses,Passing,Passes own half,31.0,,35.0,88.57142857142857,31/35 (89%)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,accurateOppositionHalfPasses,Passing,Passes opposition half,15.0,,22.0,68.18181818181817,15/22 (68%)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,total_duels,Duels,Duels (won),16.0,7.0,,,16 (7)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,ground_duels_total,Duels,Ground duels (won),12.0,4.0,,,12 (4)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,aerial_duels_total,Duels,Aerial duels (won),4.0,3.0,,,4 (3)
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,possessionLostCtrl,Duels,Possession lost,11.0,,,,11
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,1484679,Marko Franeta,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,goals,General,Goals,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,goalAssist,General,Assists,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,accuratePass,General,Accurate passes,35.0,,48.0,72.91666666666666,35/48 (73%)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,total_duels,General,Duels (won),20.0,12.0,,,20 (12)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,ground_duels_total,General,Ground duels (won),16.0,10.0,,,16 (10)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,goals,Attacking,Goals,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,totalShots,Attacking,Shots (on target),3.0,1.0,,,3 (1)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,expectedGoals,Attacking,Expected goals,0.11,,,,0.11
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,expectedAssists,Attacking,Expected assists,0.01,,,,0.01
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,totalContest,Attacking,Dribbles (successful),6.0,6.0,,100.0,6 (6)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,touches,Attacking,Touches,71.0,,,,71
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,wasFouled,Attacking,Was fouled,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,interceptionWon,Defending,Interceptions,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,ballRecovery,Defending,Ball recoveries,9.0,,,,9
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,accuratePass,Passing,Accurate passes,35.0,,48.0,72.91666666666666,35/48 (73%)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,accurateLongBalls,Passing,Accurate long balls,1.0,,3.0,33.33333333333333,1/3 (33%)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,accurateCross,Passing,Accurate crosses,4.0,,9.0,44.44444444444444,4/9 (44%)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,accurateOwnHalfPasses,Passing,Passes own half,12.0,,15.0,80.0,12/15 (80%)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,22.0,,32.0,68.75,22/32 (69%)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,keyPass,Passing,Key passes,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,expectedAssists,Passing,Expected assists,0.01,,,,0.01
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,total_duels,Duels,Duels (won),20.0,12.0,,,20 (12)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,ground_duels_total,Duels,Ground duels (won),16.0,10.0,,,16 (10)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,wasFouled,Duels,Was fouled,1.0,,,,1
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,possessionLostCtrl,Duels,Possession lost,14.0,,,,14
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,saves,Goalkeeping,Saves,,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,5143,OFK Petrovac,home,1000577,Andrej Pupović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,accuratePass,General,Accurate passes,38.0,,45.0,84.44444444444444,38/45 (84%)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,total_duels,General,Duels (won),13.0,6.0,,,13 (6)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,ground_duels_total,General,Ground duels (won),8.0,2.0,,,8 (2)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,aerial_duels_total,General,Aerial duels (won),5.0,4.0,,,5 (4)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,touches,Attacking,Touches,65.0,,,,65
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,wasFouled,Attacking,Was fouled,2.0,,,,2
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,interceptionWon,Defending,Interceptions,1.0,,,,1
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,ballRecovery,Defending,Ball recoveries,10.0,,,,10
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,totalClearance,Defending,Clearances,2.0,,,,2
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,accuratePass,Passing,Accurate passes,38.0,,45.0,84.44444444444444,38/45 (84%)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,accurateLongBalls,Passing,Accurate long balls,3.0,,5.0,60.0,3/5 (60%)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,accurateOwnHalfPasses,Passing,Passes own half,14.0,,15.0,93.33333333333333,14/15 (93%)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,23.0,,29.0,79.3103448275862,23/29 (79%)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,keyPass,Passing,Key passes,1.0,,,,1
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,total_duels,Duels,Duels (won),13.0,6.0,,,13 (6)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,ground_duels_total,Duels,Ground duels (won),8.0,2.0,,,8 (2)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,aerial_duels_total,Duels,Aerial duels (won),5.0,4.0,,,5 (4)
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,wasFouled,Duels,Was fouled,2.0,,,,2
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,possessionLostCtrl,Duels,Possession lost,9.0,,,,9
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,889063,Stefan Fićović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,totalTackle,General,Tackles (won),1.0,0.0,,,1 (0)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,accuratePass,General,Accurate passes,56.0,,63.0,88.88888888888889,56/63 (89%)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,total_duels,General,Duels (won),17.0,6.0,,,17 (6)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,ground_duels_total,General,Ground duels (won),14.0,6.0,,,14 (6)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,aerial_duels_total,General,Aerial duels (won),3.0,0.0,,,3 (0)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,totalShots,Attacking,Shots (on target),1.0,0.0,,,1 (0)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,totalContest,Attacking,Dribbles (successful),2.0,2.0,,100.0,2 (2)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,touches,Attacking,Touches,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,wasFouled,Attacking,Was fouled,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,totalTackle,Defending,Tackles (won),1.0,0.0,,,1 (0)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,interceptionWon,Defending,Interceptions,3.0,,,,3
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,ballRecovery,Defending,Ball recoveries,13.0,,,,13
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,dispossessed,Defending,Dispossessed,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,accuratePass,Passing,Accurate passes,56.0,,63.0,88.88888888888889,56/63 (89%)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,accurateLongBalls,Passing,Accurate long balls,8.0,,12.0,66.66666666666666,8/12 (67%)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,accurateOwnHalfPasses,Passing,Passes own half,20.0,,20.0,100.0,20/20 (100%)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,35.0,,41.0,85.36585365853658,35/41 (85%)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,total_duels,Duels,Duels (won),17.0,6.0,,,17 (6)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,ground_duels_total,Duels,Ground duels (won),14.0,6.0,,,14 (6)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,aerial_duels_total,Duels,Aerial duels (won),3.0,0.0,,,3 (0)
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,wasFouled,Duels,Was fouled,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,dispossessed,Duels,Dispossessed,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,possessionLostCtrl,Duels,Possession lost,13.0,,,,13
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,1030468,Žarko Popović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,accuratePass,General,Accurate passes,16.0,,23.0,69.56521739130434,16/23 (70%)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,total_duels,General,Duels (won),14.0,2.0,,,14 (2)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,ground_duels_total,General,Ground duels (won),11.0,1.0,,,11 (1)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,aerial_duels_total,General,Aerial duels (won),3.0,1.0,,,3 (1)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,minutesPlayed,General,Minutes played,85.0,,,,85
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,totalShots,Attacking,Shots (on target),1.0,1.0,,,1 (1)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,expectedGoals,Attacking,Expected goals,0.19,,,,0.19
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,expectedAssists,Attacking,Expected assists,0.01,,,,0.01
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,totalContest,Attacking,Dribbles (successful),1.0,0.0,,0.0,1 (0)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,touches,Attacking,Touches,34.0,,,,34
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,dispossessed,Defending,Dispossessed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,accuratePass,Passing,Accurate passes,16.0,,23.0,69.56521739130434,16/23 (70%)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,accurateLongBalls,Passing,Accurate long balls,1.0,,2.0,50.0,1/2 (50%)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,accurateCross,Passing,Accurate crosses,1.0,,1.0,100.0,1/1 (100%)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,accurateOwnHalfPasses,Passing,Passes own half,4.0,,6.0,66.66666666666666,4/6 (67%)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,12.0,,17.0,70.58823529411765,12/17 (71%)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,keyPass,Passing,Key passes,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,expectedAssists,Passing,Expected assists,0.01,,,,0.01
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,total_duels,Duels,Duels (won),14.0,2.0,,,14 (2)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,ground_duels_total,Duels,Ground duels (won),11.0,1.0,,,11 (1)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,aerial_duels_total,Duels,Aerial duels (won),3.0,1.0,,,3 (1)
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,dispossessed,Duels,Dispossessed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,possessionLostCtrl,Duels,Possession lost,13.0,,,,13
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,1381384,Nemanja Carević,M,minutesPlayed,Goalkeeping,Minutes played,85.0,,,,85
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,accuratePass,General,Accurate passes,29.0,,36.0,80.55555555555556,29/36 (81%)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,total_duels,General,Duels (won),29.0,13.0,,,29 (13)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,ground_duels_total,General,Ground duels (won),24.0,10.0,,,24 (10)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,aerial_duels_total,General,Aerial duels (won),5.0,3.0,,,5 (3)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,totalShots,Attacking,Shots (on target),4.0,0.0,,,4 (0)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,shotOffTarget,Attacking,Shots off target,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,blockedScoringAttempt,Attacking,Shots blocked,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,expectedGoals,Attacking,Expected goals,0.17,,,,0.17
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,totalContest,Attacking,Dribbles (successful),3.0,3.0,,100.0,3 (3)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,touches,Attacking,Touches,69.0,,,,69
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,wasFouled,Attacking,Was fouled,3.0,,,,3
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,ballRecovery,Defending,Ball recoveries,8.0,,,,8
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,totalClearance,Defending,Clearances,2.0,,,,2
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,dispossessed,Defending,Dispossessed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,accuratePass,Passing,Accurate passes,29.0,,36.0,80.55555555555556,29/36 (81%)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,accurateLongBalls,Passing,Accurate long balls,1.0,,1.0,100.0,1/1 (100%)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,accurateCross,Passing,Accurate crosses,1.0,,2.0,50.0,1/2 (50%)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,accurateOwnHalfPasses,Passing,Passes own half,8.0,,8.0,100.0,8/8 (100%)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,20.0,,27.0,74.07407407407408,20/27 (74%)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,total_duels,Duels,Duels (won),29.0,13.0,,,29 (13)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,ground_duels_total,Duels,Ground duels (won),24.0,10.0,,,24 (10)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,aerial_duels_total,Duels,Aerial duels (won),5.0,3.0,,,5 (3)
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,wasFouled,Duels,Was fouled,3.0,,,,3
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,dispossessed,Duels,Dispossessed,1.0,,,,1
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,possessionLostCtrl,Duels,Possession lost,12.0,,,,12
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,1046042,Savo Arambašić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,goals,General,Goals,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,goalAssist,General,Assists,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,accuratePass,General,Accurate passes,10.0,,14.0,71.42857142857143,10/14 (71%)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,total_duels,General,Duels (won),10.0,2.0,,,10 (2)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,ground_duels_total,General,Ground duels (won),8.0,2.0,,,8 (2)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,aerial_duels_total,General,Aerial duels (won),2.0,0.0,,,2 (0)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,minutesPlayed,General,Minutes played,56.0,,,,56
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,goals,Attacking,Goals,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,totalShots,Attacking,Shots (on target),2.0,0.0,,,2 (0)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,shotOffTarget,Attacking,Shots off target,2.0,,,,2
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,expectedGoals,Attacking,Expected goals,0.01,,,,0.01
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,expectedAssists,Attacking,Expected assists,0.01,,,,0.01
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,totalContest,Attacking,Dribbles (successful),3.0,1.0,,33.33333333333333,3 (1)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,touches,Attacking,Touches,28.0,,,,28
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,interceptionWon,Defending,Interceptions,1.0,,,,1
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,dispossessed,Defending,Dispossessed,1.0,,,,1
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,accuratePass,Passing,Accurate passes,10.0,,14.0,71.42857142857143,10/14 (71%)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,accurateLongBalls,Passing,Accurate long balls,0.0,,1.0,0.0,0/1 (0%)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,accurateOwnHalfPasses,Passing,Passes own half,2.0,,2.0,100.0,2/2 (100%)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,7.0,,11.0,63.63636363636363,7/11 (64%)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,keyPass,Passing,Key passes,1.0,,,,1
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,expectedAssists,Passing,Expected assists,0.01,,,,0.01
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,total_duels,Duels,Duels (won),10.0,2.0,,,10 (2)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,ground_duels_total,Duels,Ground duels (won),8.0,2.0,,,8 (2)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,aerial_duels_total,Duels,Aerial duels (won),2.0,0.0,,,2 (0)
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,dispossessed,Duels,Dispossessed,1.0,,,,1
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,possessionLostCtrl,Duels,Possession lost,5.0,,,,5
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,saves,Goalkeeping,Saves,,,,,
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,301263,OFK Petrovac,home,989177,Viktor Živojinović,M,minutesPlayed,Goalkeeping,Minutes played,56.0,,,,56
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,accuratePass,General,Accurate passes,6.0,,11.0,54.54545454545454,6/11 (55%)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,total_duels,General,Duels (won),13.0,4.0,,,13 (4)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,ground_duels_total,General,Ground duels (won),4.0,1.0,,,4 (1)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,aerial_duels_total,General,Aerial duels (won),9.0,3.0,,,9 (3)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,minutesPlayed,General,Minutes played,66.0,,,,66
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,touches,Attacking,Touches,19.0,,,,19
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,wasFouled,Attacking,Was fouled,1.0,,,,1
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,ballRecovery,Defending,Ball recoveries,6.0,,,,6
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,totalClearance,Defending,Clearances,1.0,,,,1
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,accuratePass,Passing,Accurate passes,6.0,,11.0,54.54545454545454,6/11 (55%)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,accurateLongBalls,Passing,Accurate long balls,0.0,,1.0,0.0,0/1 (0%)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,accurateOwnHalfPasses,Passing,Passes own half,2.0,,2.0,100.0,2/2 (100%)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,accurateOppositionHalfPasses,Passing,Passes opposition half,3.0,,8.0,37.5,3/8 (38%)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,total_duels,Duels,Duels (won),13.0,4.0,,,13 (4)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,ground_duels_total,Duels,Ground duels (won),4.0,1.0,,,4 (1)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,aerial_duels_total,Duels,Aerial duels (won),9.0,3.0,,,9 (3)
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,wasFouled,Duels,Was fouled,1.0,,,,1
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,possessionLostCtrl,Duels,Possession lost,15.0,,,,15
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,959868,Vladan Kordić,F,minutesPlayed,Goalkeeping,Minutes played,66.0,,,,66
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,goals,General,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,goalAssist,General,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,accuratePass,General,Accurate passes,4.0,,6.0,66.66666666666666,4/6 (67%)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,total_duels,General,Duels (won),2.0,1.0,,,2 (1)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,ground_duels_total,General,Ground duels (won),2.0,1.0,,,2 (1)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,aerial_duels_total,General,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,minutesPlayed,General,Minutes played,34.0,,,,34
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,goals,Attacking,Goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,expectedAssists,Attacking,Expected assists,0.07,,,,0.07
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,touches,Attacking,Touches,8.0,,,,8
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,accuratePass,Passing,Accurate passes,4.0,,6.0,66.66666666666666,4/6 (67%)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,accurateOwnHalfPasses,Passing,Passes own half,1.0,,1.0,100.0,1/1 (100%)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,3.0,,5.0,60.0,3/5 (60%)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,keyPass,Passing,Key passes,1.0,,,,1
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,expectedAssists,Passing,Expected assists,0.07,,,,0.07
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,total_duels,Duels,Duels (won),2.0,1.0,,,2 (1)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,ground_duels_total,Duels,Ground duels (won),2.0,1.0,,,2 (1)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,possessionLostCtrl,Duels,Possession lost,3.0,,,,3
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,791606,Adnan Bašić,M,minutesPlayed,Goalkeeping,Minutes played,34.0,,,,34
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,goals,General,Goals,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,goalAssist,General,Assists,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,accuratePass,General,Accurate passes,2.0,,6.0,33.33333333333333,2/6 (33%)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,total_duels,General,Duels (won),6.0,3.0,,,6 (3)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,ground_duels_total,General,Ground duels (won),3.0,1.0,,,3 (1)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,aerial_duels_total,General,Aerial duels (won),3.0,2.0,,,3 (2)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,minutesPlayed,General,Minutes played,24.0,,,,24
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,goals,Attacking,Goals,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,totalShots,Attacking,Shots (on target),1.0,0.0,,,1 (0)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,expectedGoals,Attacking,Expected goals,0.16,,,,0.16
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,keyPass,Attacking,Key passes,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,totalContest,Attacking,Dribbles (successful),1.0,1.0,,100.0,1 (1)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,touches,Attacking,Touches,12.0,,,,12
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,interceptionWon,Defending,Interceptions,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,ballRecovery,Defending,Ball recoveries,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,dispossessed,Defending,Dispossessed,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,accuratePass,Passing,Accurate passes,2.0,,6.0,33.33333333333333,2/6 (33%)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,accurateCross,Passing,Accurate crosses,0.0,,1.0,0.0,0/1 (0%)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,accurateOwnHalfPasses,Passing,Passes own half,,,1.0,,/1
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,5.0,40.0,2/5 (40%)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,keyPass,Passing,Key passes,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,total_duels,Duels,Duels (won),6.0,3.0,,,6 (3)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,ground_duels_total,Duels,Ground duels (won),3.0,1.0,,,3 (1)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,aerial_duels_total,Duels,Aerial duels (won),3.0,2.0,,,3 (2)
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,dispossessed,Duels,Dispossessed,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,possessionLostCtrl,Duels,Possession lost,4.0,,,,4
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,saves,Goalkeeping,Saves,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,37956,OFK Petrovac,home,1130148,Neđeljko Kovinić,F,minutesPlayed,Goalkeeping,Minutes played,24.0,,,,24
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,goals,General,Goals,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,goalAssist,General,Assists,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,accuratePass,General,Accurate passes,2.0,,3.0,66.66666666666666,2/3 (67%)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,total_duels,General,Duels (won),1.0,1.0,,,1 (1)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,aerial_duels_total,General,Aerial duels (won),1.0,1.0,,,1 (1)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,minutesPlayed,General,Minutes played,5.0,,,,5
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,goals,Attacking,Goals,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,keyPass,Attacking,Key passes,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,touches,Attacking,Touches,3.0,,,,3
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,accuratePass,Passing,Accurate passes,2.0,,3.0,66.66666666666666,2/3 (67%)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,3.0,66.66666666666666,2/3 (67%)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,keyPass,Passing,Key passes,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,total_duels,Duels,Duels (won),1.0,1.0,,,1 (1)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,aerial_duels_total,Duels,Aerial duels (won),1.0,1.0,,,1 (1)
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,saves,Goalkeeping,Saves,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,36019,OFK Petrovac,home,1214474,Nikola Vuković,M,minutesPlayed,Goalkeeping,Minutes played,5.0,,,,5
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,goals,General,Goals,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,goalAssist,General,Assists,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,totalTackle,General,Tackles (won),,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,accuratePass,General,Accurate passes,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,total_duels,General,Duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,minutesPlayed,General,Minutes played,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,goals,Attacking,Goals,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,totalShots,Attacking,Shots (on target),,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,expectedGoals,Attacking,Expected goals,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,goalAssist,Attacking,Assists,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,expectedAssists,Attacking,Expected assists,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,touches,Attacking,Touches,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,wasFouled,Attacking,Was fouled,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,totalTackle,Defending,Tackles (won),,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,totalClearance,Defending,Clearances,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,outfielderBlock,Defending,Blocks,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,ownGoals,Defending,Own goals,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,accuratePass,Passing,Accurate passes,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,accurateCross,Passing,Accurate crosses,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,expectedAssists,Passing,Expected assists,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,wasFouled,Duels,Was fouled,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,fouls,Duels,Fouls committed,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,355010,Suad Ličina,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,goals,General,Goals,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,goalAssist,General,Assists,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,totalTackle,General,Tackles (won),,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,accuratePass,General,Accurate passes,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,total_duels,General,Duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,minutesPlayed,General,Minutes played,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,goals,Attacking,Goals,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,totalShots,Attacking,Shots (on target),,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,expectedGoals,Attacking,Expected goals,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,goalAssist,Attacking,Assists,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,expectedAssists,Attacking,Expected assists,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,touches,Attacking,Touches,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,wasFouled,Attacking,Was fouled,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,totalTackle,Defending,Tackles (won),,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,totalClearance,Defending,Clearances,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,outfielderBlock,Defending,Blocks,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,ownGoals,Defending,Own goals,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,accuratePass,Passing,Accurate passes,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,accurateCross,Passing,Accurate crosses,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,expectedAssists,Passing,Expected assists,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,wasFouled,Duels,Was fouled,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,fouls,Duels,Fouls committed,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,800100,Nikola Zvrko,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,goals,General,Goals,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,goalAssist,General,Assists,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,totalTackle,General,Tackles (won),,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,accuratePass,General,Accurate passes,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,total_duels,General,Duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,minutesPlayed,General,Minutes played,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,goals,Attacking,Goals,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,totalShots,Attacking,Shots (on target),,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,expectedGoals,Attacking,Expected goals,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,goalAssist,Attacking,Assists,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,expectedAssists,Attacking,Expected assists,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,keyPass,Attacking,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,touches,Attacking,Touches,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,wasFouled,Attacking,Was fouled,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,totalTackle,Defending,Tackles (won),,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,totalClearance,Defending,Clearances,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,outfielderBlock,Defending,Blocks,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,ownGoals,Defending,Own goals,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,accuratePass,Passing,Accurate passes,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,accurateCross,Passing,Accurate crosses,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,keyPass,Passing,Key passes,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,expectedAssists,Passing,Expected assists,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,wasFouled,Duels,Was fouled,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,fouls,Duels,Fouls committed,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,saves,Goalkeeping,Saves,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,6216,OFK Petrovac,home,1218114,Strahinja Tešović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,goals,General,Goals,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,goalAssist,General,Assists,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,totalTackle,General,Tackles (won),,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,accuratePass,General,Accurate passes,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,total_duels,General,Duels (won),0.0,,,,0
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,minutesPlayed,General,Minutes played,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,goals,Attacking,Goals,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,totalShots,Attacking,Shots (on target),,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,expectedGoals,Attacking,Expected goals,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,goalAssist,Attacking,Assists,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,expectedAssists,Attacking,Expected assists,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,keyPass,Attacking,Key passes,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,touches,Attacking,Touches,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,wasFouled,Attacking,Was fouled,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,totalTackle,Defending,Tackles (won),,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,totalClearance,Defending,Clearances,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,outfielderBlock,Defending,Blocks,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,ownGoals,Defending,Own goals,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,accuratePass,Passing,Accurate passes,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,accurateCross,Passing,Accurate crosses,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,keyPass,Passing,Key passes,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,expectedAssists,Passing,Expected assists,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,wasFouled,Duels,Was fouled,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,fouls,Duels,Fouls committed,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,saves,Goalkeeping,Saves,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,829702,OFK Petrovac,home,886236,Alija Krnić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,goals,General,Goals,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,goalAssist,General,Assists,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,totalTackle,General,Tackles (won),,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,accuratePass,General,Accurate passes,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,total_duels,General,Duels (won),0.0,,,,0
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,minutesPlayed,General,Minutes played,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,goals,Attacking,Goals,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,totalShots,Attacking,Shots (on target),,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,expectedGoals,Attacking,Expected goals,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,goalAssist,Attacking,Assists,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,expectedAssists,Attacking,Expected assists,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,keyPass,Attacking,Key passes,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,touches,Attacking,Touches,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,wasFouled,Attacking,Was fouled,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,totalTackle,Defending,Tackles (won),,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,totalClearance,Defending,Clearances,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,outfielderBlock,Defending,Blocks,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,ownGoals,Defending,Own goals,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,accuratePass,Passing,Accurate passes,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,accurateCross,Passing,Accurate crosses,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,keyPass,Passing,Key passes,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,expectedAssists,Passing,Expected assists,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,wasFouled,Duels,Was fouled,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,fouls,Duels,Fouls committed,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,saves,Goalkeeping,Saves,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,241802,OFK Petrovac,home,1606688,Nikola Balević,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,accuratePass,General,Accurate passes,18.0,,29.0,62.06896551724138,18/29 (62%)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,total_duels,General,Duels (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,aerial_duels_total,General,Aerial duels (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,touches,Attacking,Touches,36.0,,,,36
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,interceptionWon,Defending,Interceptions,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,ballRecovery,Defending,Ball recoveries,7.0,,,,7
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,totalClearance,Defending,Clearances,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,accuratePass,Passing,Accurate passes,18.0,,29.0,62.06896551724138,18/29 (62%)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,accurateLongBalls,Passing,Accurate long balls,7.0,,16.0,43.75,7/16 (44%)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,accurateOwnHalfPasses,Passing,Passes own half,13.0,,18.0,72.22222222222221,13/18 (72%)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,10.0,50.0,5/10 (50%)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,total_duels,Duels,Duels (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,aerial_duels_total,Duels,Aerial duels (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,possessionLostCtrl,Duels,Possession lost,10.0,,,,10
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,saves,Goalkeeping,Saves,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),2.0,0.0,,0.0,2 (0)
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,goodHighClaim,Goalkeeping,Good high claims,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,crossNotClaimed,Goalkeeping,Crosses not claimed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,927881,Stefan Spasojević,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,totalTackle,General,Tackles (won),1.0,0.0,,,1 (0)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,accuratePass,General,Accurate passes,14.0,,19.0,73.68421052631578,14/19 (74%)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,total_duels,General,Duels (won),18.0,4.0,,,18 (4)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,ground_duels_total,General,Ground duels (won),14.0,2.0,,,14 (2)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,totalShots,Attacking,Shots (on target),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,expectedGoals,Attacking,Expected goals,0.02,,,,0.02
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,totalContest,Attacking,Dribbles (successful),1.0,1.0,,100.0,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,touches,Attacking,Touches,29.0,,,,29
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,totalTackle,Defending,Tackles (won),1.0,0.0,,,1 (0)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,ballRecovery,Defending,Ball recoveries,10.0,,,,10
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,totalClearance,Defending,Clearances,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,dispossessed,Defending,Dispossessed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,accuratePass,Passing,Accurate passes,14.0,,19.0,73.68421052631578,14/19 (74%)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,accurateLongBalls,Passing,Accurate long balls,1.0,,3.0,33.33333333333333,1/3 (33%)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,accurateCross,Passing,Accurate crosses,0.0,,1.0,0.0,0/1 (0%)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,accurateOwnHalfPasses,Passing,Passes own half,8.0,,10.0,80.0,8/10 (80%)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,accurateOppositionHalfPasses,Passing,Passes opposition half,6.0,,9.0,66.66666666666666,6/9 (67%)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,total_duels,Duels,Duels (won),18.0,4.0,,,18 (4)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,ground_duels_total,Duels,Ground duels (won),14.0,2.0,,,14 (2)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,dispossessed,Duels,Dispossessed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,possessionLostCtrl,Duels,Possession lost,7.0,,,,7
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1606668,Zarija Mugoša,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,accuratePass,General,Accurate passes,18.0,,28.0,64.28571428571429,18/28 (64%)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,total_duels,General,Duels (won),7.0,4.0,,,7 (4)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,ground_duels_total,General,Ground duels (won),5.0,3.0,,,5 (3)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,aerial_duels_total,General,Aerial duels (won),2.0,1.0,,,2 (1)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,touches,Attacking,Touches,31.0,,,,31
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,wasFouled,Attacking,Was fouled,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,interceptionWon,Defending,Interceptions,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,ballRecovery,Defending,Ball recoveries,14.0,,,,14
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,totalClearance,Defending,Clearances,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,errorLeadToAShot,Defending,Errors leading to shot,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,accuratePass,Passing,Accurate passes,18.0,,28.0,64.28571428571429,18/28 (64%)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,accurateLongBalls,Passing,Accurate long balls,3.0,,9.0,33.33333333333333,3/9 (33%)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,accurateOwnHalfPasses,Passing,Passes own half,9.0,,13.0,69.23076923076923,9/13 (69%)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,accurateOppositionHalfPasses,Passing,Passes opposition half,6.0,,12.0,50.0,6/12 (50%)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,total_duels,Duels,Duels (won),7.0,4.0,,,7 (4)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,ground_duels_total,Duels,Ground duels (won),5.0,3.0,,,5 (3)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,aerial_duels_total,Duels,Aerial duels (won),2.0,1.0,,,2 (1)
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,wasFouled,Duels,Was fouled,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,possessionLostCtrl,Duels,Possession lost,17.0,,,,17
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1103876,Drago Bumbar,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,accuratePass,General,Accurate passes,27.0,,33.0,81.81818181818183,27/33 (82%)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,total_duels,General,Duels (won),10.0,4.0,,,10 (4)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,ground_duels_total,General,Ground duels (won),5.0,0.0,,,5 (0)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,aerial_duels_total,General,Aerial duels (won),5.0,4.0,,,5 (4)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,touches,Attacking,Touches,39.0,,,,39
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,interceptionWon,Defending,Interceptions,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,ballRecovery,Defending,Ball recoveries,22.0,,,,22
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,totalClearance,Defending,Clearances,7.0,,,,7
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,outfielderBlock,Defending,Blocks,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,accuratePass,Passing,Accurate passes,27.0,,33.0,81.81818181818183,27/33 (82%)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,accurateLongBalls,Passing,Accurate long balls,4.0,,6.0,66.66666666666666,4/6 (67%)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,accurateOwnHalfPasses,Passing,Passes own half,21.0,,22.0,95.45454545454545,21/22 (95%)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,accurateOppositionHalfPasses,Passing,Passes opposition half,4.0,,7.0,57.14285714285714,4/7 (57%)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,total_duels,Duels,Duels (won),10.0,4.0,,,10 (4)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,ground_duels_total,Duels,Ground duels (won),5.0,0.0,,,5 (0)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,aerial_duels_total,Duels,Aerial duels (won),5.0,4.0,,,5 (4)
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,possessionLostCtrl,Duels,Possession lost,10.0,,,,10
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,94246,Igor Ćuković,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,accuratePass,General,Accurate passes,9.0,,21.0,42.857142857142854,9/21 (43%)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,total_duels,General,Duels (won),13.0,1.0,,,13 (1)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,ground_duels_total,General,Ground duels (won),8.0,0.0,,,8 (0)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,aerial_duels_total,General,Aerial duels (won),5.0,1.0,,,5 (1)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,touches,Attacking,Touches,29.0,,,,29
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,ballRecovery,Defending,Ball recoveries,8.0,,,,8
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,totalClearance,Defending,Clearances,4.0,,,,4
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,dispossessed,Defending,Dispossessed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,accuratePass,Passing,Accurate passes,9.0,,21.0,42.857142857142854,9/21 (43%)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,accurateLongBalls,Passing,Accurate long balls,2.0,,9.0,22.22222222222222,2/9 (22%)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,accurateOwnHalfPasses,Passing,Passes own half,8.0,,15.0,53.333333333333336,8/15 (53%)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,accurateOppositionHalfPasses,Passing,Passes opposition half,1.0,,6.0,16.666666666666664,1/6 (17%)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,total_duels,Duels,Duels (won),13.0,1.0,,,13 (1)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,ground_duels_total,Duels,Ground duels (won),8.0,0.0,,,8 (0)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,aerial_duels_total,Duels,Aerial duels (won),5.0,1.0,,,5 (1)
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,dispossessed,Duels,Dispossessed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,possessionLostCtrl,Duels,Possession lost,21.0,,,,21
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,314142,Stefan Vico,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,accuratePass,General,Accurate passes,5.0,,11.0,45.45454545454545,5/11 (45%)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,total_duels,General,Duels (won),4.0,1.0,,,4 (1)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,ground_duels_total,General,Ground duels (won),3.0,1.0,,,3 (1)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,aerial_duels_total,General,Aerial duels (won),1.0,0.0,,,1 (0)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,minutesPlayed,General,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,touches,Attacking,Touches,11.0,,,,11
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,accuratePass,Passing,Accurate passes,5.0,,11.0,45.45454545454545,5/11 (45%)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,accurateLongBalls,Passing,Accurate long balls,0.0,,1.0,0.0,0/1 (0%)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,accurateOwnHalfPasses,Passing,Passes own half,3.0,,6.0,50.0,3/6 (50%)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,5.0,40.0,2/5 (40%)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,total_duels,Duels,Duels (won),4.0,1.0,,,4 (1)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,ground_duels_total,Duels,Ground duels (won),3.0,1.0,,,3 (1)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,aerial_duels_total,Duels,Aerial duels (won),1.0,0.0,,,1 (0)
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,possessionLostCtrl,Duels,Possession lost,4.0,,,,4
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1218106,Andrija Krivokapić,D,minutesPlayed,Goalkeeping,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,totalTackle,General,Tackles (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,accuratePass,General,Accurate passes,7.0,,14.0,50.0,7/14 (50%)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,total_duels,General,Duels (won),23.0,8.0,,,23 (8)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,ground_duels_total,General,Ground duels (won),21.0,7.0,,,21 (7)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,aerial_duels_total,General,Aerial duels (won),2.0,1.0,,,2 (1)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,totalContest,Attacking,Dribbles (successful),3.0,2.0,,66.66666666666666,3 (2)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,touches,Attacking,Touches,30.0,,,,30
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,wasFouled,Attacking,Was fouled,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,totalTackle,Defending,Tackles (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,dispossessed,Defending,Dispossessed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,accuratePass,Passing,Accurate passes,7.0,,14.0,50.0,7/14 (50%)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,accurateLongBalls,Passing,Accurate long balls,1.0,,4.0,25.0,1/4 (25%)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,accurateCross,Passing,Accurate crosses,0.0,,2.0,0.0,0/2 (0%)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,accurateOwnHalfPasses,Passing,Passes own half,4.0,,4.0,100.0,4/4 (100%)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,accurateOppositionHalfPasses,Passing,Passes opposition half,3.0,,9.0,33.33333333333333,3/9 (33%)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,total_duels,Duels,Duels (won),23.0,8.0,,,23 (8)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,ground_duels_total,Duels,Ground duels (won),21.0,7.0,,,21 (7)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,aerial_duels_total,Duels,Aerial duels (won),2.0,1.0,,,2 (1)
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,wasFouled,Duels,Was fouled,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,dispossessed,Duels,Dispossessed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,possessionLostCtrl,Duels,Possession lost,8.0,,,,8
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,813112,Luka Maraš,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,accuratePass,General,Accurate passes,15.0,,22.0,68.18181818181817,15/22 (68%)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,total_duels,General,Duels (won),15.0,7.0,,,15 (7)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,ground_duels_total,General,Ground duels (won),14.0,6.0,,,14 (6)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,aerial_duels_total,General,Aerial duels (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,expectedAssists,Attacking,Expected assists,0.03,,,,0.03
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,totalContest,Attacking,Dribbles (successful),1.0,0.0,,0.0,1 (0)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,touches,Attacking,Touches,35.0,,,,35
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,wasFouled,Attacking,Was fouled,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,ballRecovery,Defending,Ball recoveries,6.0,,,,6
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,totalClearance,Defending,Clearances,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,outfielderBlock,Defending,Blocks,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,accuratePass,Passing,Accurate passes,15.0,,22.0,68.18181818181817,15/22 (68%)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,accurateLongBalls,Passing,Accurate long balls,2.0,,4.0,50.0,2/4 (50%)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,accurateOwnHalfPasses,Passing,Passes own half,7.0,,11.0,63.63636363636363,7/11 (64%)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,accurateOppositionHalfPasses,Passing,Passes opposition half,8.0,,10.0,80.0,8/10 (80%)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,keyPass,Passing,Key passes,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,expectedAssists,Passing,Expected assists,0.03,,,,0.03
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,total_duels,Duels,Duels (won),15.0,7.0,,,15 (7)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,ground_duels_total,Duels,Ground duels (won),14.0,6.0,,,14 (6)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,aerial_duels_total,Duels,Aerial duels (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,wasFouled,Duels,Was fouled,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,fouls,Duels,Fouls committed,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,possessionLostCtrl,Duels,Possession lost,9.0,,,,9
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1063210,Fatih Muković,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,accuratePass,General,Accurate passes,6.0,,19.0,31.57894736842105,6/19 (32%)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,total_duels,General,Duels (won),10.0,2.0,,,10 (2)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,ground_duels_total,General,Ground duels (won),10.0,2.0,,,10 (2)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,aerial_duels_total,General,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,minutesPlayed,General,Minutes played,60.0,,,,60
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,totalContest,Attacking,Dribbles (successful),1.0,1.0,,100.0,1 (1)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,touches,Attacking,Touches,30.0,,,,30
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,accuratePass,Passing,Accurate passes,6.0,,19.0,31.57894736842105,6/19 (32%)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,accurateLongBalls,Passing,Accurate long balls,0.0,,2.0,0.0,0/2 (0%)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,accurateCross,Passing,Accurate crosses,0.0,,1.0,0.0,0/1 (0%)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,accurateOwnHalfPasses,Passing,Passes own half,6.0,,11.0,54.54545454545454,6/11 (55%)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,7.0,,/7
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,total_duels,Duels,Duels (won),10.0,2.0,,,10 (2)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,ground_duels_total,Duels,Ground duels (won),10.0,2.0,,,10 (2)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,aerial_duels_total,Duels,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,possessionLostCtrl,Duels,Possession lost,12.0,,,,12
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,909420,Marko Čavor,M,minutesPlayed,Goalkeeping,Minutes played,60.0,,,,60
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,accuratePass,General,Accurate passes,5.0,,8.0,62.5,5/8 (62%)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,total_duels,General,Duels (won),14.0,4.0,,,14 (4)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,ground_duels_total,General,Ground duels (won),9.0,3.0,,,9 (3)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,aerial_duels_total,General,Aerial duels (won),5.0,1.0,,,5 (1)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,minutesPlayed,General,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,touches,Attacking,Touches,17.0,,,,17
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,wasFouled,Attacking,Was fouled,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,dispossessed,Defending,Dispossessed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,accuratePass,Passing,Accurate passes,5.0,,8.0,62.5,5/8 (62%)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,accurateLongBalls,Passing,Accurate long balls,0.0,,2.0,0.0,0/2 (0%)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,accurateOwnHalfPasses,Passing,Passes own half,1.0,,1.0,100.0,1/1 (100%)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,accurateOppositionHalfPasses,Passing,Passes opposition half,4.0,,7.0,57.14285714285714,4/7 (57%)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,total_duels,Duels,Duels (won),14.0,4.0,,,14 (4)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,ground_duels_total,Duels,Ground duels (won),9.0,3.0,,,9 (3)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,aerial_duels_total,Duels,Aerial duels (won),5.0,1.0,,,5 (1)
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,wasFouled,Duels,Was fouled,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,dispossessed,Duels,Dispossessed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,possessionLostCtrl,Duels,Possession lost,9.0,,,,9
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,227396,Šaleta Kordić,F,minutesPlayed,Goalkeeping,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,accuratePass,General,Accurate passes,9.0,,13.0,69.23076923076923,9/13 (69%)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,total_duels,General,Duels (won),17.0,6.0,,,17 (6)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,ground_duels_total,General,Ground duels (won),7.0,1.0,,,7 (1)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,aerial_duels_total,General,Aerial duels (won),10.0,5.0,,,10 (5)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,minutesPlayed,General,Minutes played,88.0,,,,88
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,totalShots,Attacking,Shots (on target),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,expectedGoals,Attacking,Expected goals,0.08,,,,0.08
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,touches,Attacking,Touches,22.0,,,,22
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,wasFouled,Attacking,Was fouled,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,interceptionWon,Defending,Interceptions,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,ballRecovery,Defending,Ball recoveries,4.0,,,,4
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,dispossessed,Defending,Dispossessed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,accuratePass,Passing,Accurate passes,9.0,,13.0,69.23076923076923,9/13 (69%)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,accurateOwnHalfPasses,Passing,Passes own half,3.0,,3.0,100.0,3/3 (100%)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,9.0,55.55555555555556,5/9 (56%)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,total_duels,Duels,Duels (won),17.0,6.0,,,17 (6)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,ground_duels_total,Duels,Ground duels (won),7.0,1.0,,,7 (1)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,aerial_duels_total,Duels,Aerial duels (won),10.0,5.0,,,10 (5)
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,wasFouled,Duels,Was fouled,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,dispossessed,Duels,Dispossessed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,possessionLostCtrl,Duels,Possession lost,14.0,,,,14
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1185131,Stefan Golubović,F,minutesPlayed,Goalkeeping,Minutes played,88.0,,,,88
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,accuratePass,General,Accurate passes,3.0,,5.0,60.0,3/5 (60%)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,total_duels,General,Duels (won),7.0,1.0,,,7 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,ground_duels_total,General,Ground duels (won),4.0,1.0,,,4 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,aerial_duels_total,General,Aerial duels (won),3.0,0.0,,,3 (0)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,minutesPlayed,General,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,expectedAssists,Attacking,Expected assists,0.02,,,,0.02
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,keyPass,Attacking,Key passes,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,totalContest,Attacking,Dribbles (successful),1.0,1.0,,100.0,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,touches,Attacking,Touches,11.0,,,,11
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,ballRecovery,Defending,Ball recoveries,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,accuratePass,Passing,Accurate passes,3.0,,5.0,60.0,3/5 (60%)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,accurateCross,Passing,Accurate crosses,1.0,,1.0,100.0,1/1 (100%)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,accurateOwnHalfPasses,Passing,Passes own half,1.0,,1.0,100.0,1/1 (100%)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,4.0,50.0,2/4 (50%)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,keyPass,Passing,Key passes,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,expectedAssists,Passing,Expected assists,0.02,,,,0.02
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,total_duels,Duels,Duels (won),7.0,1.0,,,7 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,ground_duels_total,Duels,Ground duels (won),4.0,1.0,,,4 (1)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,aerial_duels_total,Duels,Aerial duels (won),3.0,0.0,,,3 (0)
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,fouls,Duels,Fouls committed,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,possessionLostCtrl,Duels,Possession lost,5.0,,,,5
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1486746,Alhassan Baba Musah,M,minutesPlayed,Goalkeeping,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,accuratePass,General,Accurate passes,7.0,,12.0,58.333333333333336,7/12 (58%)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,total_duels,General,Duels (won),5.0,2.0,,,5 (2)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,ground_duels_total,General,Ground duels (won),3.0,1.0,,,3 (1)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,aerial_duels_total,General,Aerial duels (won),2.0,1.0,,,2 (1)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,minutesPlayed,General,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,touches,Attacking,Touches,17.0,,,,17
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,accuratePass,Passing,Accurate passes,7.0,,12.0,58.333333333333336,7/12 (58%)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,accurateOwnHalfPasses,Passing,Passes own half,2.0,,4.0,50.0,2/4 (50%)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,8.0,62.5,5/8 (62%)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,total_duels,Duels,Duels (won),5.0,2.0,,,5 (2)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,ground_duels_total,Duels,Ground duels (won),3.0,1.0,,,3 (1)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,aerial_duels_total,Duels,Aerial duels (won),2.0,1.0,,,2 (1)
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,possessionLostCtrl,Duels,Possession lost,9.0,,,,9
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,138949,Igor Poček,M,minutesPlayed,Goalkeeping,Minutes played,45.0,,,,45
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,accuratePass,General,Accurate passes,8.0,,10.0,80.0,8/10 (80%)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,total_duels,General,Duels (won),10.0,2.0,,,10 (2)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,ground_duels_total,General,Ground duels (won),8.0,0.0,,,8 (0)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,aerial_duels_total,General,Aerial duels (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,minutesPlayed,General,Minutes played,30.0,,,,30
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,totalShots,Attacking,Shots (on target),1.0,0.0,,,1 (0)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,expectedGoals,Attacking,Expected goals,0.03,,,,0.03
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,touches,Attacking,Touches,18.0,,,,18
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,ballRecovery,Defending,Ball recoveries,4.0,,,,4
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,totalClearance,Defending,Clearances,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,accuratePass,Passing,Accurate passes,8.0,,10.0,80.0,8/10 (80%)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,accurateOwnHalfPasses,Passing,Passes own half,4.0,,6.0,66.66666666666666,4/6 (67%)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,accurateOppositionHalfPasses,Passing,Passes opposition half,4.0,,4.0,100.0,4/4 (100%)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,total_duels,Duels,Duels (won),10.0,2.0,,,10 (2)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,ground_duels_total,Duels,Ground duels (won),8.0,0.0,,,8 (0)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,aerial_duels_total,Duels,Aerial duels (won),2.0,2.0,,,2 (2)
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,possessionLostCtrl,Duels,Possession lost,4.0,,,,4
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1031066,Vitinho,M,minutesPlayed,Goalkeeping,Minutes played,30.0,,,,30
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,goals,General,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,goalAssist,General,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,accuratePass,General,Accurate passes,2.0,,2.0,100.0,2/2 (100%)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,total_duels,General,Duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,aerial_duels_total,General,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,minutesPlayed,General,Minutes played,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,goals,Attacking,Goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,touches,Attacking,Touches,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,accuratePass,Passing,Accurate passes,2.0,,2.0,100.0,2/2 (100%)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,accurateLongBalls,Passing,Accurate long balls,1.0,,1.0,100.0,1/1 (100%)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,accurateOwnHalfPasses,Passing,Passes own half,2.0,,2.0,100.0,2/2 (100%)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,total_duels,Duels,Duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,aerial_duels_total,Duels,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,possessionLostCtrl,Duels,Possession lost,0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,1595583,Balša Radević,D,minutesPlayed,Goalkeeping,Minutes played,2.0,,,,2
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,goals,General,Goals,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,goalAssist,General,Assists,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,totalTackle,General,Tackles (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,accuratePass,General,Accurate passes,0.0,,0.0,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,total_duels,General,Duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,aerial_duels_total,General,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,minutesPlayed,General,Minutes played,1.0,,,,1
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,goals,Attacking,Goals,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,totalShots,Attacking,Shots (on target),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,expectedGoals,Attacking,Expected goals,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,goalAssist,Attacking,Assists,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,expectedAssists,Attacking,Expected assists,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,keyPass,Attacking,Key passes,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,totalContest,Attacking,Dribbles (successful),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,touches,Attacking,Touches,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,wasFouled,Attacking,Was fouled,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,totalTackle,Defending,Tackles (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,ballRecovery,Defending,Ball recoveries,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,totalClearance,Defending,Clearances,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,outfielderBlock,Defending,Blocks,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,errorLeadToAShot,Defending,Errors leading to shot,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,ownGoals,Defending,Own goals,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,accuratePass,Passing,Accurate passes,0.0,,0.0,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,accurateLongBalls,Passing,Accurate long balls,0.0,,0.0,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,accurateCross,Passing,Accurate crosses,0.0,,0.0,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,keyPass,Passing,Key passes,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,expectedAssists,Passing,Expected assists,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,total_duels,Duels,Duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,aerial_duels_total,Duels,Aerial duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,wasFouled,Duels,Was fouled,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,fouls,Duels,Fouls committed,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,possessionLostCtrl,Duels,Possession lost,0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,saves,Goalkeeping,Saves,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,241802,FK Bokelj Kotor,away,1650228,Stefan  Mrsulja,M,minutesPlayed,Goalkeeping,Minutes played,1.0,,,,1
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,goals,General,Goals,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,goalAssist,General,Assists,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,totalTackle,General,Tackles (won),,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,accuratePass,General,Accurate passes,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,total_duels,General,Duels (won),0.0,,,,0
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,minutesPlayed,General,Minutes played,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,goals,Attacking,Goals,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,totalShots,Attacking,Shots (on target),,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,expectedGoals,Attacking,Expected goals,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,goalAssist,Attacking,Assists,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,expectedAssists,Attacking,Expected assists,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,keyPass,Attacking,Key passes,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,touches,Attacking,Touches,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,wasFouled,Attacking,Was fouled,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,totalTackle,Defending,Tackles (won),,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,interceptionWon,Defending,Interceptions,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,totalClearance,Defending,Clearances,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,outfielderBlock,Defending,Blocks,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,dispossessed,Defending,Dispossessed,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,ownGoals,Defending,Own goals,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,accuratePass,Passing,Accurate passes,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,accurateCross,Passing,Accurate crosses,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,keyPass,Passing,Key passes,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,expectedAssists,Passing,Expected assists,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,wasFouled,Duels,Was fouled,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,fouls,Duels,Fouls committed,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,dispossessed,Duels,Dispossessed,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,saves,Goalkeeping,Saves,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,36019,FK Bokelj Kotor,away,1405738,Benjamin Krijestarac,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,goals,General,Goals,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,goalAssist,General,Assists,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,totalTackle,General,Tackles (won),,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,accuratePass,General,Accurate passes,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,total_duels,General,Duels (won),0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,minutesPlayed,General,Minutes played,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,goals,Attacking,Goals,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,totalShots,Attacking,Shots (on target),,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,expectedGoals,Attacking,Expected goals,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,goalAssist,Attacking,Assists,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,expectedAssists,Attacking,Expected assists,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,keyPass,Attacking,Key passes,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,touches,Attacking,Touches,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,wasFouled,Attacking,Was fouled,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,totalTackle,Defending,Tackles (won),,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,interceptionWon,Defending,Interceptions,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,totalClearance,Defending,Clearances,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,outfielderBlock,Defending,Blocks,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,dispossessed,Defending,Dispossessed,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,ownGoals,Defending,Own goals,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,accuratePass,Passing,Accurate passes,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,accurateCross,Passing,Accurate crosses,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,keyPass,Passing,Key passes,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,expectedAssists,Passing,Expected assists,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,wasFouled,Duels,Was fouled,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,fouls,Duels,Fouls committed,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,dispossessed,Duels,Dispossessed,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,saves,Goalkeeping,Saves,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,241802,FK Bokelj Kotor,away,2081152,Andrej Kumburovic,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,goals,General,Goals,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,goalAssist,General,Assists,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,totalTackle,General,Tackles (won),,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,accuratePass,General,Accurate passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,total_duels,General,Duels (won),0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,minutesPlayed,General,Minutes played,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,goals,Attacking,Goals,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,totalShots,Attacking,Shots (on target),,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,expectedGoals,Attacking,Expected goals,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,goalAssist,Attacking,Assists,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,expectedAssists,Attacking,Expected assists,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,keyPass,Attacking,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,touches,Attacking,Touches,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,wasFouled,Attacking,Was fouled,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,totalTackle,Defending,Tackles (won),,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,interceptionWon,Defending,Interceptions,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,totalClearance,Defending,Clearances,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,outfielderBlock,Defending,Blocks,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,dispossessed,Defending,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,ownGoals,Defending,Own goals,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,accuratePass,Passing,Accurate passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,accurateCross,Passing,Accurate crosses,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,keyPass,Passing,Key passes,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,expectedAssists,Passing,Expected assists,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,wasFouled,Duels,Was fouled,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,fouls,Duels,Fouls committed,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,dispossessed,Duels,Dispossessed,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,saves,Goalkeeping,Saves,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,7581,FK Bokelj Kotor,away,807177,Žarko Vilotijević,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,goals,General,Goals,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,goalAssist,General,Assists,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,totalTackle,General,Tackles (won),,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,accuratePass,General,Accurate passes,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,total_duels,General,Duels (won),0.0,,,,0
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,minutesPlayed,General,Minutes played,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,goals,Attacking,Goals,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,totalShots,Attacking,Shots (on target),,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,shotOffTarget,Attacking,Shots off target,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,expectedGoals,Attacking,Expected goals,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,goalAssist,Attacking,Assists,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,expectedAssists,Attacking,Expected assists,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,keyPass,Attacking,Key passes,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,totalContest,Attacking,Dribbles (successful),,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,touches,Attacking,Touches,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,wasFouled,Attacking,Was fouled,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,totalTackle,Defending,Tackles (won),,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,interceptionWon,Defending,Interceptions,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,ballRecovery,Defending,Ball recoveries,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,totalClearance,Defending,Clearances,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,outfielderBlock,Defending,Blocks,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,dispossessed,Defending,Dispossessed,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,ownGoals,Defending,Own goals,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,accuratePass,Passing,Accurate passes,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,accurateCross,Passing,Accurate crosses,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,keyPass,Passing,Key passes,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,expectedAssists,Passing,Expected assists,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,total_duels,Duels,Duels (won),0.0,,,,0
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,wasFouled,Duels,Was fouled,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,fouls,Duels,Fouls committed,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,dispossessed,Duels,Dispossessed,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,possessionLostCtrl,Duels,Possession lost,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,saves,Goalkeeping,Saves,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14147387,228024,FK Bokelj Kotor,away,1218295,Ayumu Nishimura,F,minutesPlayed,Goalkeeping,Minutes played,,,,,

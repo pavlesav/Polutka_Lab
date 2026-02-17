@@ -1,0 +1,11 @@
+position,team_id,team_name,played,wins,draws,losses,goals_for,goals_against,goal_diff,points
+1,6224,FK Sutjeska Nikšić,19,11,3,5,32,20,12,36
+2,36019,FK Mornar Bar,19,9,5,5,26,22,4,32
+3,6226,FK Dečić Tuzi,19,9,4,6,27,28,-1,31
+4,24312,FK Jezero,19,8,5,6,25,22,3,29
+5,6216,OFK Petrovac,19,6,8,5,27,19,8,26
+6,327162,Mladost DG,19,8,2,9,30,30,0,26
+7,5143,FK Budućnost Podgorica,19,7,4,8,21,18,3,25
+8,37956,FK Arsenal Tivat,19,4,8,7,17,25,-8,20
+9,7581,FK Bokelj Kotor,19,4,7,8,23,29,-6,19
+10,6219,FK Jedinstvo Bijelo Polje,19,3,6,10,10,25,-15,15
