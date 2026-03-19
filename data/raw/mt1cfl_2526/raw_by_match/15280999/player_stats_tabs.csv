@@ -1,0 +1,1834 @@
+match_id,team_id,team_name,team_side,player_id,player_name,player_position,metric_key,category,metric,value,secondary,denominator,percentage,display
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,931333,Petar Radulović,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1391910,Vuko Vicković,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1036138,Jovan Vujisic,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,605370,Luka Uskoković,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1381381,Matije Badnjar,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,goals,General,Goals,1.0,,,,1
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,goals,Attacking,Goals,1.0,,,,1
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1103884,Dušan Vuković,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,929719,Davor Kontić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,goals,General,Goals,0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,goalAssist,General,Assists,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,totalTackle,General,Tackles (won),,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,accuratePass,General,Accurate passes,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,goals,Attacking,Goals,0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,goalAssist,Attacking,Assists,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,keyPass,Attacking,Key passes,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,touches,Attacking,Touches,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,totalClearance,Defending,Clearances,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,keyPass,Passing,Key passes,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,wasFouled,Duels,Was fouled,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,fouls,Duels,Fouls committed,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,saves,Goalkeeping,Saves,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,315641,Mladost DG,home,1134549,Mamadou Camara,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,978475,Stephano Almeida,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,goals,General,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,goals,Attacking,Goals,0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,871881,Rodrigo Faust,F,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,goals,General,Goals,1.0,,,,1
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,goals,Attacking,Goals,1.0,,,,1
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1497156,Lazar Knezevic,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,goals,General,Goals,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,goalAssist,General,Assists,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,totalTackle,General,Tackles (won),,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,accuratePass,General,Accurate passes,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,minutesPlayed,General,Minutes played,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,goals,Attacking,Goals,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,totalShots,Attacking,Shots (on target),,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,goalAssist,Attacking,Assists,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,keyPass,Attacking,Key passes,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,touches,Attacking,Touches,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,totalClearance,Defending,Clearances,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,ownGoals,Defending,Own goals,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,keyPass,Passing,Key passes,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,wasFouled,Duels,Was fouled,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,fouls,Duels,Fouls committed,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,saves,Goalkeeping,Saves,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,282802,Mladost DG,home,1978656,Nemanja Pavićević,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,goals,General,Goals,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,minutesPlayed,General,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,goals,Attacking,Goals,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,totalShots,Attacking,Shots (on target),,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,ownGoals,Defending,Own goals,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1620437,Jagoš Roganović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,goals,General,Goals,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,minutesPlayed,General,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,goals,Attacking,Goals,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,totalShots,Attacking,Shots (on target),,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,ownGoals,Defending,Own goals,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1149286,Nikola Radusinović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,goals,General,Goals,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,minutesPlayed,General,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,goals,Attacking,Goals,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,totalShots,Attacking,Shots (on target),,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,ownGoals,Defending,Own goals,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1096990,Stefan Mijović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,goals,General,Goals,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,minutesPlayed,General,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,goals,Attacking,Goals,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,totalShots,Attacking,Shots (on target),,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,ownGoals,Defending,Own goals,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1648525,Balša  Radanović,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,goals,General,Goals,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,minutesPlayed,General,Minutes played,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,goals,Attacking,Goals,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,totalShots,Attacking,Shots (on target),,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,ownGoals,Defending,Own goals,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,1426667,Matija Vukčević,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,goals,General,Goals,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,goalAssist,General,Assists,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,totalTackle,General,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,accuratePass,General,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,minutesPlayed,General,Minutes played,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,goals,Attacking,Goals,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,totalShots,Attacking,Shots (on target),,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,goalAssist,Attacking,Assists,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,keyPass,Attacking,Key passes,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,touches,Attacking,Touches,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,totalClearance,Defending,Clearances,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,ownGoals,Defending,Own goals,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,keyPass,Passing,Key passes,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,wasFouled,Duels,Was fouled,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,fouls,Duels,Fouls committed,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,saves,Goalkeeping,Saves,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,327162,Mladost DG,home,880655,Zvonko Ceklić,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,goals,General,Goals,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,goalAssist,General,Assists,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,totalTackle,General,Tackles (won),,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,accuratePass,General,Accurate passes,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,minutesPlayed,General,Minutes played,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,goals,Attacking,Goals,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,totalShots,Attacking,Shots (on target),,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,goalAssist,Attacking,Assists,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,keyPass,Attacking,Key passes,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,touches,Attacking,Touches,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,totalClearance,Defending,Clearances,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,ownGoals,Defending,Own goals,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,keyPass,Passing,Key passes,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,wasFouled,Duels,Was fouled,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,fouls,Duels,Fouls committed,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,saves,Goalkeeping,Saves,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,241802,Mladost DG,home,2487213,Veljko Mijović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1035777,Igor Asanović,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1000154,Abdel Osmanović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1185148,Matija Bojović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1182552,Nemanja Jovičić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,812745,Ilija Tučević,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,797928,Aldin Adžović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,goals,General,Goals,0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,goalAssist,General,Assists,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,totalTackle,General,Tackles (won),,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,accuratePass,General,Accurate passes,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,goals,Attacking,Goals,0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,goalAssist,Attacking,Assists,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,keyPass,Attacking,Key passes,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,touches,Attacking,Touches,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,totalClearance,Defending,Clearances,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,keyPass,Passing,Key passes,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,wasFouled,Duels,Was fouled,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,fouls,Duels,Fouls committed,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,saves,Goalkeeping,Saves,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,6225,FK Jezero,away,1391890,Uroš Bulatović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1149284,Nenad Krivokapić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1063202,Mario Gjolaj,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,goals,General,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,goals,Attacking,Goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1408188,Petar Bogdanović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,goals,General,Goals,1.0,,,,1
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,minutesPlayed,General,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,goals,Attacking,Goals,1.0,,,,1
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,ownGoals,Defending,Own goals,0.0,,,,0
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,905970,Đorđe Maksimović,F,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,357692,Balša Boričić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1035785,Edis Redžepagić,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,196634,Ognjen Rolović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1391888,Šaban Kolić,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1648555,Meldin Kojić,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,goals,General,Goals,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,goalAssist,General,Assists,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,totalTackle,General,Tackles (won),,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,accuratePass,General,Accurate passes,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,minutesPlayed,General,Minutes played,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,goals,Attacking,Goals,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,totalShots,Attacking,Shots (on target),,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,goalAssist,Attacking,Assists,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,keyPass,Attacking,Key passes,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,touches,Attacking,Touches,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,totalClearance,Defending,Clearances,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,ownGoals,Defending,Own goals,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,keyPass,Passing,Key passes,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,wasFouled,Duels,Was fouled,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,fouls,Duels,Fouls committed,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,saves,Goalkeeping,Saves,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,241802,FK Jezero,away,2055911,Rejhan Redžić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1190522,Imran Redžepagić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1191336,Senid Vućetović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,goals,General,Goals,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,goalAssist,General,Assists,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,totalTackle,General,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,accuratePass,General,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,total_duels,General,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,minutesPlayed,General,Minutes played,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,goals,Attacking,Goals,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,totalShots,Attacking,Shots (on target),,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,shotOffTarget,Attacking,Shots off target,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,expectedGoals,Attacking,Expected goals,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,goalAssist,Attacking,Assists,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,expectedAssists,Attacking,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,keyPass,Attacking,Key passes,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,totalContest,Attacking,Dribbles (successful),,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,touches,Attacking,Touches,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,wasFouled,Attacking,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,totalTackle,Defending,Tackles (won),,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,interceptionWon,Defending,Interceptions,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,ballRecovery,Defending,Ball recoveries,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,totalClearance,Defending,Clearances,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,outfielderBlock,Defending,Blocks,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,dispossessed,Defending,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,ownGoals,Defending,Own goals,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,accuratePass,Passing,Accurate passes,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,accurateCross,Passing,Accurate crosses,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,keyPass,Passing,Key passes,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,expectedAssists,Passing,Expected assists,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,total_duels,Duels,Duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,wasFouled,Duels,Was fouled,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,fouls,Duels,Fouls committed,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,dispossessed,Duels,Dispossessed,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,saves,Goalkeeping,Saves,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15280999,24312,FK Jezero,away,1035786,Anil Julević,F,minutesPlayed,Goalkeeping,Minutes played,,,,,

@@ -1,0 +1,1834 @@
+match_id,team_id,team_name,team_side,player_id,player_name,player_position,metric_key,category,metric,value,secondary,denominator,percentage,display
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,905682,Rijad Dzafic,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1381385,Nihad Balić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1424818,Srđan Šćepanović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,807581,Miloš Nikolić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1440632,Georgios Makrydakis,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1185130,Arsenije Čepić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1536333,Stefan Radojevic,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1391891,Danis Kolić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1000576,Andrej Đukić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,goals,General,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1030476,Alden Škrijelj,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,goals,General,Goals,1.0,,,,1
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,goals,Attacking,Goals,1.0,,,,1
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,54752,Žarko Korać,F,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,874418,Mirza Idrizović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1131050,Andrej Cvijović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1382874,Aldin Mušović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1134689,Goran Aković,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,808565,Haris Banda,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,1190521,Lazar Šekularac,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444869,Pavle  Božović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,goals,General,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,goalAssist,General,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,totalTackle,General,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,accuratePass,General,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,total_duels,General,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,minutesPlayed,General,Minutes played,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,goals,Attacking,Goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,totalShots,Attacking,Shots (on target),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,goalAssist,Attacking,Assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,keyPass,Attacking,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,touches,Attacking,Touches,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,wasFouled,Attacking,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,totalTackle,Defending,Tackles (won),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,interceptionWon,Defending,Interceptions,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,totalClearance,Defending,Clearances,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,outfielderBlock,Defending,Blocks,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,dispossessed,Defending,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,ownGoals,Defending,Own goals,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,accuratePass,Passing,Accurate passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,keyPass,Passing,Key passes,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,expectedAssists,Passing,Expected assists,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,wasFouled,Duels,Was fouled,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,fouls,Duels,Fouls committed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,dispossessed,Duels,Dispossessed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,saves,Goalkeeping,Saves,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6219,FK Jedinstvo Bijelo Polje,home,2444992,Balsa Barovic,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,355010,Suad Ličina,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,882142,Danilo Pešukić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,55534,Aleksandar Kapisoda,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,986362,Marko Merdović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,57339,Dejan Boljević,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,889063,Stefan Fićović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,1218114,Strahinja Tešović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,1381384,Nemanja Carević,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,1030468,Žarko Popović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,979046,Nemanja Belaković,F,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,goals,General,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,goals,Attacking,Goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,1046042,Savo Arambašić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,goals,General,Goals,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,minutesPlayed,General,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,goals,Attacking,Goals,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,totalShots,Attacking,Shots (on target),,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,ownGoals,Defending,Own goals,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,1484679,Marko Franeta,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,goals,General,Goals,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,minutesPlayed,General,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,goals,Attacking,Goals,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,totalShots,Attacking,Shots (on target),,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,ownGoals,Defending,Own goals,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,1164363,Boban Đorđević,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,goals,General,Goals,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,minutesPlayed,General,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,goals,Attacking,Goals,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,totalShots,Attacking,Shots (on target),,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,ownGoals,Defending,Own goals,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,800100,Nikola Zvrko,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,goals,General,Goals,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,goalAssist,General,Assists,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,totalTackle,General,Tackles (won),,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,accuratePass,General,Accurate passes,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,minutesPlayed,General,Minutes played,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,goals,Attacking,Goals,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,totalShots,Attacking,Shots (on target),,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,goalAssist,Attacking,Assists,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,keyPass,Attacking,Key passes,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,touches,Attacking,Touches,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,totalClearance,Defending,Clearances,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,ownGoals,Defending,Own goals,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,keyPass,Passing,Key passes,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,wasFouled,Duels,Was fouled,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,fouls,Duels,Fouls committed,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,saves,Goalkeeping,Saves,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,241802,OFK Petrovac,away,1606688,Nikola Balević,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,goals,General,Goals,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,minutesPlayed,General,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,goals,Attacking,Goals,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,totalShots,Attacking,Shots (on target),,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,ownGoals,Defending,Own goals,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,101141,Marko Roganović,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,goals,General,Goals,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,goalAssist,General,Assists,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,totalTackle,General,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,accuratePass,General,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,total_duels,General,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,minutesPlayed,General,Minutes played,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,goals,Attacking,Goals,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,totalShots,Attacking,Shots (on target),,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,expectedGoals,Attacking,Expected goals,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,goalAssist,Attacking,Assists,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,expectedAssists,Attacking,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,keyPass,Attacking,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,touches,Attacking,Touches,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,wasFouled,Attacking,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,totalTackle,Defending,Tackles (won),,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,interceptionWon,Defending,Interceptions,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,totalClearance,Defending,Clearances,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,outfielderBlock,Defending,Blocks,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,dispossessed,Defending,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,ownGoals,Defending,Own goals,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,accuratePass,Passing,Accurate passes,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,accurateCross,Passing,Accurate crosses,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,keyPass,Passing,Key passes,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,expectedAssists,Passing,Expected assists,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,wasFouled,Duels,Was fouled,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,fouls,Duels,Fouls committed,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,dispossessed,Duels,Dispossessed,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,saves,Goalkeeping,Saves,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,6216,OFK Petrovac,away,188987,Marko Kordić,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,goals,General,Goals,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,goalAssist,General,Assists,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,totalTackle,General,Tackles (won),,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,accuratePass,General,Accurate passes,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,minutesPlayed,General,Minutes played,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,goals,Attacking,Goals,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,totalShots,Attacking,Shots (on target),,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,goalAssist,Attacking,Assists,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,keyPass,Attacking,Key passes,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,touches,Attacking,Touches,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,totalClearance,Defending,Clearances,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,ownGoals,Defending,Own goals,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,keyPass,Passing,Key passes,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,wasFouled,Duels,Was fouled,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,fouls,Duels,Fouls committed,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,saves,Goalkeeping,Saves,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,43979,OFK Petrovac,away,1149277,Janko Vukićević,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,goals,General,Goals,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,goalAssist,General,Assists,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,totalTackle,General,Tackles (won),,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,accuratePass,General,Accurate passes,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,total_duels,General,Duels (won),0.0,,,,0
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,minutesPlayed,General,Minutes played,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,goals,Attacking,Goals,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,totalShots,Attacking,Shots (on target),,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,expectedGoals,Attacking,Expected goals,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,goalAssist,Attacking,Assists,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,expectedAssists,Attacking,Expected assists,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,keyPass,Attacking,Key passes,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,touches,Attacking,Touches,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,wasFouled,Attacking,Was fouled,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,totalTackle,Defending,Tackles (won),,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,interceptionWon,Defending,Interceptions,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,totalClearance,Defending,Clearances,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,outfielderBlock,Defending,Blocks,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,dispossessed,Defending,Dispossessed,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,ownGoals,Defending,Own goals,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,accuratePass,Passing,Accurate passes,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,accurateCross,Passing,Accurate crosses,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,keyPass,Passing,Key passes,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,expectedAssists,Passing,Expected assists,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,wasFouled,Duels,Was fouled,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,fouls,Duels,Fouls committed,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,dispossessed,Duels,Dispossessed,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,saves,Goalkeeping,Saves,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,22631,OFK Petrovac,away,1976042,Đorđe Fabris,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,goals,General,Goals,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,goalAssist,General,Assists,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,totalTackle,General,Tackles (won),,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,accuratePass,General,Accurate passes,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,total_duels,General,Duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,minutesPlayed,General,Minutes played,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,goals,Attacking,Goals,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,totalShots,Attacking,Shots (on target),,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,shotOffTarget,Attacking,Shots off target,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,expectedGoals,Attacking,Expected goals,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,goalAssist,Attacking,Assists,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,expectedAssists,Attacking,Expected assists,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,keyPass,Attacking,Key passes,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,totalContest,Attacking,Dribbles (successful),,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,touches,Attacking,Touches,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,wasFouled,Attacking,Was fouled,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,totalTackle,Defending,Tackles (won),,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,interceptionWon,Defending,Interceptions,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,ballRecovery,Defending,Ball recoveries,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,totalClearance,Defending,Clearances,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,outfielderBlock,Defending,Blocks,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,dispossessed,Defending,Dispossessed,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,ownGoals,Defending,Own goals,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,accuratePass,Passing,Accurate passes,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,accurateCross,Passing,Accurate crosses,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,keyPass,Passing,Key passes,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,expectedAssists,Passing,Expected assists,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,total_duels,Duels,Duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,wasFouled,Duels,Was fouled,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,fouls,Duels,Fouls committed,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,dispossessed,Duels,Dispossessed,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,saves,Goalkeeping,Saves,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15281002,241802,OFK Petrovac,away,1981847,Luka Bastrica,M,minutesPlayed,Goalkeeping,Minutes played,,,,,

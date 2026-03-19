@@ -4,7 +4,7 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 94246,Igor Ćuković,I. Ćuković,D,191.0,Montenegro,24000.0,1993-06-06,True
 57463,Saša Balić,S. Balić,D,184.0,Montenegro,,1990-01-29,True
 909420,Marko Čavor,M. Čavor,D,175.0,Montenegro,170000.0,1999-07-05,True
-1381377,Kristijan Radunović,K. Radunović,M,184.0,Montenegro,72000.0,2004-09-08,False
+1381377,Kristijan Radunović,K. Radunović,M,184.0,Montenegro,72000.0,2004-09-08,True
 1486746,Alhassan Baba Musah,A. B. Musah,M,176.0,Ghana,72000.0,2000-03-08,True
 807177,Žarko Vilotijević,Ž. Vilotijević,M,180.0,Montenegro,73000.0,1996-01-04,False
 572018,Velizar Janketić,V. Janketić,M,175.0,Montenegro,54000.0,1996-11-15,True
@@ -18,16 +18,16 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 1063210,Fatih Muković,F. Muković,M,187.0,Montenegro,170000.0,2001-09-07,True
 1185131,Stefan Golubović,S. Golubović,F,190.0,Montenegro,72000.0,2005-09-02,False
 227396,Šaleta Kordić,Š. Kordić,F,190.0,Montenegro,81000.0,1993-04-19,True
-931333,Petar Radulović,P. Radulović,G,193.0,Montenegro,48000.0,2001-11-10,False
+931333,Petar Radulović,P. Radulović,G,193.0,Montenegro,48000.0,2001-11-10,True
 1800480,Nikola  Ukšanović,N. Ukšanović,D,,Montenegro,,2001-08-30,False
 232450,Miguel Rodrigues,M. Rodrigues,D,188.0,Portugal,45000.0,1993-03-16,True
 1036138,Jovan Vujisic,J. Vujisic,D,190.0,Montenegro,52000.0,2003-10-09,True
-1381381,Matije Badnjar,M. Badnjar,D,177.0,Montenegro,49000.0,2005-06-02,False
+1381381,Matije Badnjar,M. Badnjar,D,177.0,Montenegro,49000.0,2005-06-02,True
 1149289,Balša Mrvaljević,B. Mrvaljević,M,188.0,Montenegro,180000.0,2005-09-03,True
-1163021,Nelson Augustin Cordoba,N. A. Cordoba,M,177.0,Argentina,91000.0,1999-05-01,False
+1163021,Nelson Augustin Cordoba,N. A. Cordoba,M,177.0,Argentina,91000.0,1999-05-01,True
 929719,Davor Kontić,D. Kontić,M,170.0,Montenegro,265000.0,1999-10-30,True
 1497156,Lazar Knezevic,L. Knezevic,M,190.0,Montenegro,93000.0,2004-10-24,True
-1620437,Jagoš Roganović,J. Roganović,M,,Montenegro,,,False
+1620437,Jagoš Roganović,J. Roganović,M,,Montenegro,,,True
 1103884,Dušan Vuković,D. Vuković,M,,Montenegro,135000.0,2003-07-27,True
 605370,Luka Uskoković,L. Uskoković,D,193.0,Montenegro,260000.0,1996-04-10,True
 1149286,Nikola Radusinović,N. Radusinović,M,187.0,Montenegro,52000.0,2005-03-19,False
@@ -127,8 +127,8 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 1035787,Nikola Jovićević,N. Jovićević,D,186.0,Montenegro,135000.0,1996-01-04,True
 1182552,Nemanja Jovičić,N. Jovičić,D,190.0,Serbia,69000.0,2000-01-01,True
 1648555,Meldin Kojić,M. Kojić,D,179.0,Montenegro,49000.0,2007-05-13,False
-1218103,Hiroki Harada,H. Harada,M,172.0,Japan,92000.0,1998-05-23,False
-797928,Aldin Adžović,A. Adžović,M,188.0,Montenegro,55000.0,1994-06-18,False
+1218103,Hiroki Harada,H. Harada,M,172.0,Japan,92000.0,1998-05-23,True
+797928,Aldin Adžović,A. Adžović,M,188.0,Montenegro,55000.0,1994-06-18,True
 1149284,Nenad Krivokapić,N. Krivokapić,F,173.0,Montenegro,105000.0,2005-02-01,True
 128765,Milivoje Raičević,M. Raičević,M,184.0,Montenegro,110000.0,1993-07-21,True
 1063202,Mario Gjolaj,M. Gjolaj,M,180.0,Montenegro,115000.0,2002-04-06,True
@@ -136,9 +136,9 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 1000154,Abdel Osmanović,A. Osmanović,D,181.0,Montenegro,195000.0,2001-01-12,True
 812745,Ilija Tučević,I. Tučević,D,175.0,Montenegro,52000.0,1995-10-18,True
 1190522,Imran Redžepagić,I. Redžepagić,M,185.0,Montenegro,26000.0,2007-02-19,False
-1391890,Uroš Bulatović,U. Bulatović,M,185.0,Montenegro,,2004-12-07,False
+1391890,Uroš Bulatović,U. Bulatović,M,185.0,Montenegro,,2004-12-07,True
 1408188,Petar Bogdanović,P. Bogdanović,M,175.0,Serbia,185000.0,2002-10-26,True
-1391888,Šaban Kolić,Š. Kolić,G,185.0,Montenegro,78000.0,2004-01-18,False
+1391888,Šaban Kolić,Š. Kolić,G,185.0,Montenegro,78000.0,2004-01-18,True
 1161888,Dželal Šabović,D. Šabović,D,194.0,Montenegro,,2005-02-13,False
 1021410,Salih Husić,S. Husić,D,190.0,Bosnia & Herzegovina,27000.0,2002-08-06,True
 196634,Ognjen Rolović,O. Rolović,F,185.0,Montenegro,23000.0,1993-08-23,True
@@ -199,7 +199,7 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 205970,Julian Montenegro,J. Montenegro,M,182.0,Argentina,,1989-03-23,True
 2210662,Vasilije Kašćelan,V. Kašćelan,,,,,,False
 1134689,Goran Aković,G. Aković,G,,Montenegro,52000.0,2002-06-06,True
-1391886,Sead Dacić,S. Dacić,M,187.0,Montenegro,48000.0,1997-11-10,False
+1391886,Sead Dacić,S. Dacić,M,187.0,Montenegro,48000.0,1997-11-10,True
 808563,Momčilo Dulović,M. Dulović,D,195.0,Montenegro,48000.0,1992-05-25,True
 960227,Ognjen Obradović,O. Obradović,D,182.0,Montenegro,145000.0,2000-03-15,True
 1190521,Lazar Šekularac,L. Šekularac,D,,Montenegro,105000.0,2006-10-11,True
@@ -213,7 +213,7 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 1982085,Velid Škrijelj,V. Škrijelj,F,,Montenegro,,2006-06-18,False
 1382874,Aldin Mušović,A. Mušović,F,190.0,Montenegro,24000.0,2002-11-10,True
 1978656,Nemanja Pavićević,N. Pavićević,M,180.0,Montenegro,,2005-03-11,False
-905682,Rijad Dzafic,R. Dzafic,G,194.0,Montenegro,,2000-08-29,False
+905682,Rijad Dzafic,R. Dzafic,G,194.0,Montenegro,,2000-08-29,True
 1424818,Srđan Šćepanović,S. Šćepanović,D,186.0,Montenegro,54000.0,1994-10-20,True
 945734,Filip Šćekić,F. Šćekić,D,,Montenegro,,1999-12-28,False
 807581,Miloš Nikolić,M. Nikolić,D,198.0,Serbia,94000.0,1994-10-03,True
@@ -271,16 +271,60 @@ id,name,shortName,position,height,country_name,marketValue,dateOfBirth,has_playe
 1031066,Vitinho,Vitinho,M,174.0,Brazil,26000.0,1997-09-08,True
 1034559,Balša Ćetković,B. Ćetković,D,191.0,Montenegro,52000.0,2003-12-20,True
 49469,Pavle Velimirović,P. Velimirović,G,186.0,Montenegro,,1990-04-11,True
-2338052,Vučeta Čorić,V. Čorić,G,180.0,Montenegro,,2008-01-17,False
-1976041,Lazar Popović,L. Popović,D,,Montenegro,,2009-03-19,False
-2081029,Matija Rakcevic,M. Rakcevic,M,,Montenegro,24000.0,2009-01-26,False
+2338052,Vučeta Čorić,V. Čorić,G,180.0,Montenegro,,2008-01-17,True
+1976041,Lazar Popović,L. Popović,D,,Montenegro,,2009-03-19,True
+2081029,Matija Rakcevic,M. Rakcevic,M,,Montenegro,24000.0,2009-01-26,True
 2357411,Stefan Labović,S. Labović,F,,Montenegro,,,False
 2081152,Andrej Kumburovic,A. Kumburovic,D,,Montenegro,,2009-01-01,False
 1393483,Mihailo Ilić,M. Ilić,D,190.0,Serbia,23000.0,2000-11-02,True
 2223972,Dino Redžepagić,D. Redžepagić,G,,Montenegro,,,False
 2169941,Novak Fatić,N. Fatić,D,,Montenegro,,2008-12-29,False
-2081027,Petar Vujović,P. Vujović,M,,Montenegro,,2009-08-11,False
+2081027,Petar Vujović,P. Vujović,M,,Montenegro,,2009-08-11,True
 1843233,Andrija  Vukcevic,A. Vukcevic,G,,Montenegro,,,False
 1976287,Andrej Camaj,A. Camaj,G,,Montenegro,,2006-11-08,True
 808565,Haris Banda,H. Banda,D,176.0,Montenegro,46000.0,1993-05-14,True
 1030491,Nemanja Đurović,N. Đurović,D,189.0,Montenegro,24000.0,2000-12-18,True
+1381385,Nihad Balić,N. Balić,D,182.0,Montenegro,,2004-05-21,False
+2246412,Lucas Estabio,L. Estabio,F,167.0,Argentina,,2004-03-03,False
+1000576,Andrej Đukić,A. Đukić,M,174.0,Serbia,120000.0,2002-11-08,False
+1005595,Dejan Perovic,D. Perović,M,180.0,Montenegro,115000.0,2002-08-19,False
+357708,Nikola Vujnović,N. Vujnović,F,177.0,Montenegro,190000.0,1997-01-11,False
+925940,Armin Imamović,A. Imamovic,D,176.0,Bosnia & Herzegovina,105000.0,2000-02-17,False
+957906,Igor Vukcevic,I. Vukcevic,F,187.0,Montenegro,49000.0,1999-11-07,False
+1030480,Nikola Gluščević,N. Gluščević,F,196.0,Montenegro,,2001-06-11,False
+1486747,Vladimir Kašćelan,V. Kašćelan,M,175.0,Montenegro,46000.0,2004-03-03,False
+101141,Marko Roganović,M. Roganović,D,184.0,Montenegro,140000.0,1996-06-21,False
+979046,Nemanja Belaković,N. Belaković,F,183.0,Serbia,470000.0,1997-01-08,False
+1164363,Boban Đorđević,B. Đorđević,F,188.0,Montenegro,190000.0,1997-02-20,False
+2055911,Rejhan Redžić,R. Redžić,M,188.0,Montenegro,,2008-08-26,False
+959779,Miloš Drinčić,M. Drinčić,D,195.0,Montenegro,315000.0,1999-02-14,False
+889448,Stefan Hajdin,S. Hajdin,D,189.0,Serbia,310000.0,1994-04-14,False
+882000,Srđan Krstović,S. Krstović,M,186.0,Montenegro,260000.0,2000-08-05,False
+858877,Mihajlo Nešković,M. Nešković,M,177.0,Serbia,265000.0,2000-02-09,False
+1086387,Nemanja Nikolić,N. Nikolić,F,188.0,Serbia,465000.0,1992-10-19,False
+1939640,Stefan Đukanović,S. Đukanović,M,178.0,Montenegro,24000.0,2006-06-23,False
+841144,Vasilije Terzić,V. Terzić,M,173.0,Montenegro,170000.0,1999-05-12,False
+1513752,Nikola Medojevic,N. Medojevic,M,183.0,Montenegro,215000.0,2005-08-20,False
+1005606,Nikola Janjić,N. Janjić,M,174.0,Montenegro,285000.0,2002-07-14,False
+893161,Anto Babić,A. Babić,D,185.0,Montenegro,275000.0,2000-01-25,False
+138947,Deni Hočko,D. Hočko,M,175.0,Montenegro,185000.0,1994-04-22,False
+1005753,Marko Mrvaljević,M. Mrvaljević,F,188.0,Montenegro,210000.0,2001-06-05,False
+1149283,Milos Vracar,M. Vračar,D,175.0,Montenegro,,2006-06-10,False
+850088,Jovan Čađenović,J. Čađenović,M,184.0,Montenegro,310000.0,1995-11-13,False
+1648525,Balša  Radanović,B. Radanović,G,,Montenegro,,2007-05-02,False
+1391910,Vuko Vicković,V. Vicković,D,175.0,Montenegro,,2004-02-09,False
+1096990,Stefan Mijović,S. Mijović,F,181.0,Montenegro,,2007-04-06,False
+188997,Miloš Milović,M. Milović,D,185.0,Montenegro,475000.0,1995-12-22,False
+1149081,Bakir Nurkovic,B. Nurković,M,,Bosnia & Herzegovina,47000.0,2005-04-05,False
+877368,Bogdan Stamenković,B. Stamenković,F,182.0,Serbia,135000.0,1998-01-19,False
+1391906,Dragan Ćetković,D. Ćetković,G,,Montenegro,,2004-08-16,False
+2487213,Veljko Mijović,V. Mijović,M,,Montenegro,,2008-07-16,False
+1606675,Luka Perović,L. Perović,M,,Montenegro,,2007-10-22,False
+839271,Nemanja Vlahović,N. Vlahović,M,181.0,Montenegro,81000.0,1991-01-04,False
+1005585,Ljubomir Pejović,L. Pejović,D,190.0,Montenegro,110000.0,2003-05-26,False
+2055858,Andrija Kecojević,A. Kecojević,M,,Montenegro,,2007-03-19,False
+1153676,Petar Soskic,P. Soskic,F,190.0,Bosnia & Herzegovina,94000.0,2003-09-13,False
+1149277,Janko Vukićević,J. Vukićević,D,,Montenegro,,2005-03-28,False
+1981847,Luka Bastrica,L. Bastrica,M,,Montenegro,,2007-03-24,False
+1091929,Stefan Mršulja,S. Mršulja,D,,Montenegro,73000.0,1999-12-15,False
+1884080,Victor Hugo Coelho Vieira,V. H. C. Vieira,M,174.0,Brazil,,1997-09-08,False

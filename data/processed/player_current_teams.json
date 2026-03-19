@@ -1708,5 +1708,269 @@
     "current_team_id": 7581,
     "current_team_name": "FK Bokelj Kotor",
     "retired": false
+  },
+  "101141": {
+    "player_id": 101141,
+    "current_team_id": 6216,
+    "current_team_name": "OFK Petrovac",
+    "retired": false
+  },
+  "138947": {
+    "player_id": 138947,
+    "current_team_id": 6224,
+    "current_team_name": "FK Sutjeska Nik\u0161i\u0107",
+    "retired": false
+  },
+  "188997": {
+    "player_id": 188997,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "357708": {
+    "player_id": 357708,
+    "current_team_id": 36019,
+    "current_team_name": "FK Mornar Bar",
+    "retired": false
+  },
+  "839271": {
+    "player_id": 839271,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false
+  },
+  "841144": {
+    "player_id": 841144,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "850088": {
+    "player_id": 850088,
+    "current_team_id": 6224,
+    "current_team_name": "FK Sutjeska Nik\u0161i\u0107",
+    "retired": false
+  },
+  "858877": {
+    "player_id": 858877,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "877368": {
+    "player_id": 877368,
+    "current_team_id": 7581,
+    "current_team_name": "FK Bokelj Kotor",
+    "retired": false
+  },
+  "882000": {
+    "player_id": 882000,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "889448": {
+    "player_id": 889448,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "893161": {
+    "player_id": 893161,
+    "current_team_id": 6224,
+    "current_team_name": "FK Sutjeska Nik\u0161i\u0107",
+    "retired": false
+  },
+  "925940": {
+    "player_id": 925940,
+    "current_team_id": 37956,
+    "current_team_name": "FK Arsenal Tivat",
+    "retired": false
+  },
+  "957906": {
+    "player_id": 957906,
+    "current_team_id": 37956,
+    "current_team_name": "FK Arsenal Tivat",
+    "retired": false
+  },
+  "959779": {
+    "player_id": 959779,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "979046": {
+    "player_id": 979046,
+    "current_team_id": 6216,
+    "current_team_name": "OFK Petrovac",
+    "retired": false
+  },
+  "1000576": {
+    "player_id": 1000576,
+    "current_team_id": 6219,
+    "current_team_name": "FK Jedinstvo Bijelo Polje",
+    "retired": false
+  },
+  "1005585": {
+    "player_id": 1005585,
+    "current_team_id": 327162,
+    "current_team_name": "Mladost DG",
+    "retired": false
+  },
+  "1005595": {
+    "player_id": 1005595,
+    "current_team_id": 6226,
+    "current_team_name": "FK De\u010di\u0107 Tuzi",
+    "retired": false
+  },
+  "1005606": {
+    "player_id": 1005606,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "1005753": {
+    "player_id": 1005753,
+    "current_team_id": 6224,
+    "current_team_name": "FK Sutjeska Nik\u0161i\u0107",
+    "retired": false
+  },
+  "1030480": {
+    "player_id": 1030480,
+    "current_team_id": 37956,
+    "current_team_name": "FK Arsenal Tivat",
+    "retired": false
+  },
+  "1086387": {
+    "player_id": 1086387,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "1091929": {
+    "player_id": 1091929,
+    "current_team_id": 7581,
+    "current_team_name": "FK Bokelj Kotor",
+    "retired": false
+  },
+  "1096990": {
+    "player_id": 1096990,
+    "current_team_id": 327162,
+    "current_team_name": "Mladost DG",
+    "retired": false
+  },
+  "1149081": {
+    "player_id": 1149081,
+    "current_team_id": 7581,
+    "current_team_name": "FK Bokelj Kotor",
+    "retired": false
+  },
+  "1149277": {
+    "player_id": 1149277,
+    "current_team_id": 43979,
+    "current_team_name": "FK BASK TEK Beograd",
+    "retired": false
+  },
+  "1149283": {
+    "player_id": 1149283,
+    "current_team_id": 6224,
+    "current_team_name": "FK Sutjeska Nik\u0161i\u0107",
+    "retired": false
+  },
+  "1153676": {
+    "player_id": 1153676,
+    "current_team_id": 308777,
+    "current_team_name": "FK Torlak",
+    "retired": false
+  },
+  "1164363": {
+    "player_id": 1164363,
+    "current_team_id": 6216,
+    "current_team_name": "OFK Petrovac",
+    "retired": false
+  },
+  "1381385": {
+    "player_id": 1381385,
+    "current_team_id": 6219,
+    "current_team_name": "FK Jedinstvo Bijelo Polje",
+    "retired": false
+  },
+  "1391906": {
+    "player_id": 1391906,
+    "current_team_id": 7581,
+    "current_team_name": "FK Bokelj Kotor",
+    "retired": false
+  },
+  "1391910": {
+    "player_id": 1391910,
+    "current_team_id": 327162,
+    "current_team_name": "Mladost DG",
+    "retired": false
+  },
+  "1486747": {
+    "player_id": 1486747,
+    "current_team_id": 37956,
+    "current_team_name": "FK Arsenal Tivat",
+    "retired": false
+  },
+  "1513752": {
+    "player_id": 1513752,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "1606675": {
+    "player_id": 1606675,
+    "current_team_id": 1138707,
+    "current_team_name": "FK Mornar Bar U19",
+    "retired": false
+  },
+  "1648525": {
+    "player_id": 1648525,
+    "current_team_id": 327162,
+    "current_team_name": "Mladost DG",
+    "retired": false
+  },
+  "1884080": {
+    "player_id": 1884080,
+    "current_team_id": 37297,
+    "current_team_name": "Dinamo Batumi",
+    "retired": false
+  },
+  "1939640": {
+    "player_id": 1939640,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false
+  },
+  "1981847": {
+    "player_id": 1981847,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false
+  },
+  "2055858": {
+    "player_id": 2055858,
+    "current_team_id": 481825,
+    "current_team_name": "FK Internacional Podgorica",
+    "retired": false
+  },
+  "2055911": {
+    "player_id": 2055911,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false
+  },
+  "2246412": {
+    "player_id": 2246412,
+    "current_team_id": 6219,
+    "current_team_name": "FK Jedinstvo Bijelo Polje",
+    "retired": false
+  },
+  "2487213": {
+    "player_id": 2487213,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false
   }
 }
