@@ -1,122 +1,126 @@
-# Polutka Lab - Montenegrin First League Football Analytics
+# Polutka Lab — Montenegrin First League Football Analytics
 
-A comprehensive football analytics project analyzing the 2025-26 season of Montenegrin First League (1. CFL) using data scraped from Sofascore.
+Football analytics project analyzing the **2025-26 Montenegrin First League (1. CFL)** season. Data scraped from Sofascore, cleaned into structured datasets, and visualized as Instagram-ready posts.
 
-## 📊 Project Overview
+**Season coverage:** 19 rounds · 95+ matches · 10 teams · 285+ players
 
-This project combines web scraping, data analysis, and visualization to analyze match-level statistics, player performance, and expected goals (xG) metrics for the Montenegrin First League.
-
-### Key Features
-- **Automated data collection** from Sofascore API using Selenium
-- **Player statistics** including passes, tackles, goals, assists, and ratings
-- **Expected Goals (xG) analysis** for teams and matches
-- **Match momentum** and shot-level data
-- **Visual analytics** with custom graphics and team logos
-- **Player profile photos** (209+ players)
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 Polutka Lab/
-├── README.md                          # This file
-├── notebooks/                         # Jupyter notebooks (run in order)
-│   ├── 01_scrape.ipynb               # Data collection from Sofascore
-│   ├── 02_data_cleaning.ipynb        # Data preprocessing and cleaning
-│   ├── 03_xg_over_under.ipynb        # xG analysis and modeling
-│   └── 04_image_composition.ipynb    # Visual creation for social media
+├── notebooks/                              # Jupyter notebooks (run in order)
+│   ├── 00_image_composition.ipynb          # Compose charts onto Instagram backgrounds
+│   ├── 01_scrape.ipynb                     # Selenium scraper for Sofascore
+│   ├── 02_data_cleaning.ipynb              # Raw → processed data pipeline
+│   ├── 03_xg_over_under.ipynb              # Goals vs Expected Goals (xG) scatter
+│   ├── 04_team_age_analysis.ipynb          # Age distribution by team (weighted by minutes)
+│   ├── 05_ven_diagram.ipynb                # Venn diagrams: attacking & defensive skill overlaps
+│   ├── 06_substitute_impact.ipynb          # Goals + assists from bench players
+│   ├── 07_formations.ipynb                 # Formation usage frequency on pitch diagrams
+│   ├── 08_yellow_cards.ipynb               # Fouls per yellow card ratio
+│   ├── 09_stamina.ipynb                    # Stoppage time goals & late-game impact
+│   ├── 10_penalties_viz.ipynb              # Penalty statistics & conversion rates
+│   ├── 11_home_vs_away.ipynb               # Home vs away performance comparison
+│   ├── 12_shot_map.ipynb                   # Shot maps on pitch diagrams with xG
+│   └── 13_goal_mouth.ipynb                 # Goal-mouth placement analysis (heatmap, penalties, body part, zones)
 ├── data/
-│   ├── raw/                          # Original scraped data (do not modify)
-│   │   ├── mt1cfl_2526/             # 2025-26 season data
-│   │   │   ├── matches.csv          # Match metadata
-│   │   │   └── raw_by_match/        # Per-match detailed data
-│   │   │       └── {match_id}/      # Individual match folders
-│   │   │           ├── lineups.json             # Player stats
-│   │   │           ├── avg_positions.csv        # Position data
-│   │   │           ├── match_shots.csv          # Shot-level data with xG
-│   │   │           ├── match_momentum.csv       # Match flow
-│   │   │           ├── statistics.json          # Team statistics
-│   │   │           └── heatmaps.json           # Player heatmaps
-│   │   ├── player_photos/           # Player profile images (209 photos)
-│   │   └── team_logos/              # Team logo images
-│   └── processed/                    # Cleaned and transformed data
-│       └── players_metadata.csv     # Aggregated player statistics
+│   ├── raw/mt1cfl_2526/                    # Original scraped data (do not modify)
+│   │   ├── matches.csv                     # Match list with IDs, teams, scores
+│   │   └── raw_by_match/{match_id}/        # Per-match folders containing:
+│   │       ├── lineups.json                #   Player stats, formations, substitutions
+│   │       ├── match_shots.csv             #   Shot-level data with xG values
+│   │       ├── avg_positions.csv           #   Average player field positions
+│   │       ├── match_momentum.csv          #   Goal/event timeline
+│   │       ├── statistics.json             #   Team-level stats
+│   │       ├── heatmaps.json               #   Player movement heatmaps
+│   │       ├── player_base_stats.csv       #   Per-player match stats
+│   │       └── player_stats_tabs.csv       #   Stats by category (attacking, defending, etc.)
+│   └── processed/                          # Analysis-ready datasets
+│       ├── league_standings.csv            # League table (10 teams)
+│       ├── matches_metadata.csv            # Match info, formations, scores, datetime
+│       ├── match_player_statistics.csv     # Per-player per-match stats (~2,850 rows)
+│       ├── match_team_statistics.csv       # Per-team per-match stats (~190 rows)
+│       ├── players_metadata.csv            # Player info: DOB, position, height, nationality
+│       ├── player_season_statistics.csv    # Aggregated season stats per player
+│       ├── player_current_teams.json       # Player → team assignments
+│       ├── teams_metadata.csv              # Team info with short names
+│       ├── player_photos/                  # 209 circular player headshots (PNG)
+│       └── team_logos/                     # 10 team logos (PNG)
 └── outputs/
-    └── figures/                      # Generated visualizations and graphics
+    ├── figures/                            # Raw chart outputs + template assets
+    └── final_posts/                        # Instagram 4:5 ready posts (1080×1350px)
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
 ```bash
-pip install pandas numpy jupyter selenium webdriver-manager requests tqdm pillow
+pip install -r requirements.txt
 ```
 
-### Running the Analysis
+### Workflow
 
-1. **Data Collection**: Run `01_scrape.ipynb` to fetch latest data from Sofascore
-   - Scrapes match statistics, player data, and photos
-   - Uses Selenium for bot detection bypass
-   - ~100 matches, 285 players
+1. **Scrape** — Run `01_scrape.ipynb` to collect match data from Sofascore via Selenium (headless Chrome, rate-limited)
+2. **Clean** — Run `02_data_cleaning.ipynb` to aggregate raw JSON/CSV into 7 processed datasets
+3. **Analyze** — Run any notebook `03`–`10` for specific analyses (each is independent)
+4. **Compose** — Run `00_image_composition.ipynb` to overlay charts onto branded Instagram backgrounds
 
-2. **Data Cleaning**: Run `02_data_cleaning.ipynb` to process raw data
-   - Cleans and standardizes data formats
-   - Creates aggregated player statistics
+## Analyses
 
-3. **xG Analysis**: Run `03_xg_over_under.ipynb` for expected goals analysis
-   - Team performance vs xG
-   - Over/under predictions
+| # | Notebook | What it does |
+|---|----------|-------------|
+| 03 | xG Over/Under | Scatter plot of goals vs xG — highlights overperformers (green) and underperformers (red) with player photos |
+| 04 | Team Age | Stacked bars showing age distribution (U21, 21-24, 25-28, 29+) weighted by minutes played |
+| 05 | Venn Diagrams | Multi-skill Venn groupings for attacking (goals/assists/dribbles) and defensive (interceptions/recoveries/clearances) players |
+| 06 | Substitute Impact | Goals + assists contributed by substitutes per team |
+| 07 | Formations | Top 6 most-used formations visualized on pitch diagrams |
+| 08 | Yellow Cards | Fouls per yellow card ratio — identifies which teams get carded most harshly |
+| 09 | Stamina | Stoppage time goals (90+), late-game impact on standings, per-team breakdowns |
+| 10 | Penalties | Penalties awarded vs conceded, conversion rates, fouls by position, most fouled/aggressive players |
+| 11 | Home vs Away | Points per game, goals scored/conceded split by home and away venue |
+| 12 | Shot Map | All shots plotted on pitch diagrams — dot size = xG, colour = outcome (goal/save/miss/block) |
 
-4. **Visualization**: Run `04_image_composition.ipynb` to create graphics
-   - Social media ready visualizations
-   - Custom branded graphics
+## Data Sources
 
-## 📈 Data Sources
-
-- **Primary Source**: [Sofascore](https://www.sofascore.com/)
-- **League**: Montenegrin First League (1. CFL)
+- **Source**: [Sofascore](https://www.sofascore.com/) API via Selenium
+- **League**: Montenegrin First League (1. CFL) — Tournament ID 154
 - **Season**: 2025-26
-- **Tournament ID**: 154
 
-### Available Data
+## Tech Stack
 
-- ✅ Match lineups and player statistics
-- ✅ Average player positions
-- ✅ Shot-level data with xG values
-- ✅ Match momentum graphs
-- ✅ Team statistics (possession, passes, etc.)
-- ✅ Player heatmaps
-- ✅ Player profile photos
+- **Scraping**: Selenium, webdriver-manager, requests
+- **Data**: pandas, numpy
+- **Visualization**: matplotlib, seaborn, plotly, mplsoccer
+- **Image processing**: Pillow (circular headshots, Instagram post composition)
+- **Environment**: Jupyter notebooks
 
-## 🔧 Technical Notes
+## Future Figure Ideas
 
-### Web Scraping
-- Uses **Selenium WebDriver** with Chrome in headless mode
-- Implements rate limiting (0.3-1s between requests)
-- Screenshot-based image capture for player photos (bypasses API restrictions)
-- Handles JSON and CSV data formats
+1. **Home vs Away Performance** — Compare each team's points, goals, and xG at home vs away. Identify teams that are dominant at home but collapse on the road (or vice versa).
 
-### Data Structure
-- **Raw data**: Never modified, preserved as scraped
-- **Processed data**: Cleaned for analysis
-- **Assets**: Images and visual resources
-- **Outputs**: Generated visualizations
+2. **Player Radar Charts** — Spider/radar plots comparing top players across 6-8 metrics (goals, assists, key passes, tackles, interceptions, dribbles). Great for comparing two star players side by side.
 
-## 📝 License
+3. **Heatmap Composites** — Aggregate the per-match heatmap data you already scrape to create season-long team heatmaps showing where each team concentrates its play.
 
-This project is for educational and analytical purposes. Data is sourced from publicly available information on Sofascore.
+4. **Goal Sequence Patterns** — Analyze how goals are scored: open play vs set piece vs counter-attack vs penalty. Stacked bar per team showing attacking style profile.
 
-## 🤝 Contributing
+5. **Key Passes & Chance Creation Map** — Plot key passes on a pitch diagram for top creators. You have the positional data — this would be a compelling spatial visualization.
 
-This is a personal research project. Feel free to fork and adapt for your own analysis.
+6. **Points Gained from Losing Positions** — Track matches where teams came from behind. Which teams are the best comeback teams? Bar chart with points gained from losing vs winning positions.
 
-## 📧 Contact
+7. **Player Minutes Distribution** — Show how each team uses its squad depth: what % of total minutes go to the top 11 vs the rest? Identifies teams that rotate vs those relying on a fixed XI.
 
-For questions or collaboration: [Your contact info]
+8. **Referee Analysis** — Cross-reference yellow cards, fouls, and penalties by referee (if available in stats). Which referees give the most cards per match?
 
----
+9. **Shot Maps** — You have `match_shots.csv` with xG and coordinates. Aggregate to create shot maps (pitch diagrams with dot size = xG) per team or per top scorer.
 
-**Last Updated**: February 2026  
-**League**: 1. CFL (Montenegro)  
-**Matches Analyzed**: ~100  
-**Players Tracked**: 285
+10. **Form Curves** — Rolling 5-match average of points, xG difference, or goals per team. Line chart showing which teams are peaking vs slumping at different points in the season.
+
+## Technical Notes
+
+- Selenium uses headless Chrome with rate limiting (0.3-1s between requests)
+- Player photos are captured as circular crops via PIL
+- All visualizations use a consistent dark theme (#0a0a0a background, #d4af37 gold accents)
+- Output posts are sized 1080×1350px (Instagram 4:5 aspect ratio)
+- Raw data is preserved as-is and never modified by analysis notebooks
