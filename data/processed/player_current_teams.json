@@ -2301,5 +2301,33 @@
     "current_team_name": "No team",
     "retired": false,
     "preferredFoot": null
+  },
+  "1190518": {
+    "player_id": 1190518,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1865406": {
+    "player_id": 1865406,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2256608": {
+    "player_id": 2256608,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2523247": {
+    "player_id": 2523247,
+    "current_team_id": 327162,
+    "current_team_name": "Mladost DG",
+    "retired": false,
+    "preferredFoot": null
   }
 }
