@@ -1,0 +1,4202 @@
+{
+  "603946": {
+    "player_id": 603946,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1019333": {
+    "player_id": 1019333,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1406130": {
+    "player_id": 1406130,
+    "current_team_id": 60,
+    "current_team_name": "Bournemouth",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "227224": {
+    "player_id": 227224,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "904400": {
+    "player_id": 904400,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "155449": {
+    "player_id": 155449,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1153956": {
+    "player_id": 1153956,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "939721": {
+    "player_id": 939721,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "110701": {
+    "player_id": 110701,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "278763": {
+    "player_id": 278763,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "868268": {
+    "player_id": 868268,
+    "current_team_id": 3053,
+    "current_team_name": "Samsunspor",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "878830": {
+    "player_id": 878830,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "802665": {
+    "player_id": 802665,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "289181": {
+    "player_id": 289181,
+    "current_team_id": 3398,
+    "current_team_name": "APOEL Nicosia",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "827371": {
+    "player_id": 827371,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1825955": {
+    "player_id": 1825955,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1105074": {
+    "player_id": 1105074,
+    "current_team_id": 1678,
+    "current_team_name": "Saint-\u00c9tienne",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "867608": {
+    "player_id": 867608,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "797083": {
+    "player_id": 797083,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1939193": {
+    "player_id": 1939193,
+    "current_team_id": 1678,
+    "current_team_name": "Saint-\u00c9tienne",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1029788": {
+    "player_id": 1029788,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1146225": {
+    "player_id": 1146225,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "834186": {
+    "player_id": 834186,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "981518": {
+    "player_id": 981518,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1153911": {
+    "player_id": 1153911,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1392891": {
+    "player_id": 1392891,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1468253": {
+    "player_id": 1468253,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "188127": {
+    "player_id": 188127,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1468252": {
+    "player_id": 1468252,
+    "current_team_id": 378020,
+    "current_team_name": "FK Real Podunavci",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1435246": {
+    "player_id": 1435246,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "98458": {
+    "player_id": 98458,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "972802": {
+    "player_id": 972802,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1398997": {
+    "player_id": 1398997,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "986764": {
+    "player_id": 986764,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "943573": {
+    "player_id": 943573,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1472922": {
+    "player_id": 1472922,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "804833": {
+    "player_id": 804833,
+    "current_team_id": 203041,
+    "current_team_name": "FK Loznica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1910871": {
+    "player_id": 1910871,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1124030": {
+    "player_id": 1124030,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1065775": {
+    "player_id": 1065775,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147526": {
+    "player_id": 1147526,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "145194": {
+    "player_id": 145194,
+    "current_team_id": 5160,
+    "current_team_name": "FK Borac 1926 \u010ca\u010dak",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1500275": {
+    "player_id": 1500275,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "76394": {
+    "player_id": 76394,
+    "current_team_id": 203041,
+    "current_team_name": "FK Loznica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1126067": {
+    "player_id": 1126067,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "191640": {
+    "player_id": 191640,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147556": {
+    "player_id": 1147556,
+    "current_team_id": 334956,
+    "current_team_name": "Wieczysta Krak\u00f3w",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1000367": {
+    "player_id": 1000367,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1981973": {
+    "player_id": 1981973,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1147565": {
+    "player_id": 1147565,
+    "current_team_id": 334956,
+    "current_team_name": "Wieczysta Krak\u00f3w",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "352610": {
+    "player_id": 352610,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1176881": {
+    "player_id": 1176881,
+    "current_team_id": 3036,
+    "current_team_name": "Rio Ave",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1406091": {
+    "player_id": 1406091,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1102965": {
+    "player_id": 1102965,
+    "current_team_id": 2933,
+    "current_team_name": "SV Zulte Waregem",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "77512": {
+    "player_id": 77512,
+    "current_team_id": 324661,
+    "current_team_name": "CD Estepona",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1927332": {
+    "player_id": 1927332,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1544616": {
+    "player_id": 1544616,
+    "current_team_id": 47321,
+    "current_team_name": "CD Eldense",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1982018": {
+    "player_id": 1982018,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "94538": {
+    "player_id": 94538,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1465579": {
+    "player_id": 1465579,
+    "current_team_id": 6079,
+    "current_team_name": "FK Pelister Bitola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1841880": {
+    "player_id": 1841880,
+    "current_team_id": 203041,
+    "current_team_name": "FK Loznica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1579193": {
+    "player_id": 1579193,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1981967": {
+    "player_id": 1981967,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1104742": {
+    "player_id": 1104742,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "988477": {
+    "player_id": 988477,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1939189": {
+    "player_id": 1939189,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1049522": {
+    "player_id": 1049522,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "949370": {
+    "player_id": 949370,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1104740": {
+    "player_id": 1104740,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1489498": {
+    "player_id": 1489498,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1029785": {
+    "player_id": 1029785,
+    "current_team_id": 34060,
+    "current_team_name": "Al-Sharjah",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1101437": {
+    "player_id": 1101437,
+    "current_team_id": 58689,
+    "current_team_name": "Baniyas",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "124960": {
+    "player_id": 124960,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1157899": {
+    "player_id": 1157899,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1063371": {
+    "player_id": 1063371,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1009837": {
+    "player_id": 1009837,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1018513": {
+    "player_id": 1018513,
+    "current_team_id": 6147,
+    "current_team_name": "H\u0160K Posu\u0161je",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1186164": {
+    "player_id": 1186164,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1424448": {
+    "player_id": 1424448,
+    "current_team_id": 301263,
+    "current_team_name": "GFK Dubo\u010dica Leskovac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1649511": {
+    "player_id": 1649511,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "944503": {
+    "player_id": 944503,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1094065": {
+    "player_id": 1094065,
+    "current_team_id": 37064,
+    "current_team_name": "FK Sloga Doboj",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1131795": {
+    "player_id": 1131795,
+    "current_team_id": 2242,
+    "current_team_name": "HJK",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166185": {
+    "player_id": 1166185,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1981794": {
+    "player_id": 1981794,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "913382": {
+    "player_id": 913382,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1093730": {
+    "player_id": 1093730,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147543": {
+    "player_id": 1147543,
+    "current_team_id": 201203,
+    "current_team_name": "FK Septemvri Sofia",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "844128": {
+    "player_id": 844128,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "862782": {
+    "player_id": 862782,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1198768": {
+    "player_id": 1198768,
+    "current_team_id": 47,
+    "current_team_name": "Charlton Athletic",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795878": {
+    "player_id": 795878,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1152947": {
+    "player_id": 1152947,
+    "current_team_id": 2445,
+    "current_team_name": "BSC Young Boys",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "257071": {
+    "player_id": 257071,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "844179": {
+    "player_id": 844179,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1656621": {
+    "player_id": 1656621,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1114797": {
+    "player_id": 1114797,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1020116": {
+    "player_id": 1020116,
+    "current_team_id": 1925,
+    "current_team_name": "Ferencv\u00e1ros TC",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "842317": {
+    "player_id": 842317,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1121635": {
+    "player_id": 1121635,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "194450": {
+    "player_id": 194450,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "974434": {
+    "player_id": 974434,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "111754": {
+    "player_id": 111754,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1403053": {
+    "player_id": 1403053,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1000424": {
+    "player_id": 1000424,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1165840": {
+    "player_id": 1165840,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1085212": {
+    "player_id": 1085212,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1102771": {
+    "player_id": 1102771,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795913": {
+    "player_id": 795913,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "796365": {
+    "player_id": 796365,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "954755": {
+    "player_id": 954755,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147541": {
+    "player_id": 1147541,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1215907": {
+    "player_id": 1215907,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1406169": {
+    "player_id": 1406169,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "997182": {
+    "player_id": 997182,
+    "current_team_id": 202066,
+    "current_team_name": "FK Zvijezda 09",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1916326": {
+    "player_id": 1916326,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "938002": {
+    "player_id": 938002,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "901590": {
+    "player_id": 901590,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1130262": {
+    "player_id": 1130262,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1031603": {
+    "player_id": 1031603,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166090": {
+    "player_id": 1166090,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "804662": {
+    "player_id": 804662,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2198964": {
+    "player_id": 2198964,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "904377": {
+    "player_id": 904377,
+    "current_team_id": 203041,
+    "current_team_name": "FK Loznica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "72116": {
+    "player_id": 72116,
+    "current_team_id": 301263,
+    "current_team_name": "GFK Dubo\u010dica Leskovac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147568": {
+    "player_id": 1147568,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "954756": {
+    "player_id": 954756,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1544668": {
+    "player_id": 1544668,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166049": {
+    "player_id": 1166049,
+    "current_team_id": 35326,
+    "current_team_name": "FK In\u0111ija",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "155537": {
+    "player_id": 155537,
+    "current_team_id": 301263,
+    "current_team_name": "GFK Dubo\u010dica Leskovac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1000660": {
+    "player_id": 1000660,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1132010": {
+    "player_id": 1132010,
+    "current_team_id": 3115,
+    "current_team_name": "Widzew \u0141\u00f3d\u017a",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1584979": {
+    "player_id": 1584979,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "155961": {
+    "player_id": 155961,
+    "current_team_id": 3398,
+    "current_team_name": "APOEL Nicosia",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "190665": {
+    "player_id": 190665,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1146156": {
+    "player_id": 1146156,
+    "current_team_id": 2505,
+    "current_team_name": "Chicago Fire",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1619543": {
+    "player_id": 1619543,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "980796": {
+    "player_id": 980796,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "822743": {
+    "player_id": 822743,
+    "current_team_id": 7568,
+    "current_team_name": "Wellington Phoenix",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "947036": {
+    "player_id": 947036,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "923865": {
+    "player_id": 923865,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "589100": {
+    "player_id": 589100,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1102967": {
+    "player_id": 1102967,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "220231": {
+    "player_id": 220231,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1586205": {
+    "player_id": 1586205,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "888023": {
+    "player_id": 888023,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "879556": {
+    "player_id": 879556,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1124028": {
+    "player_id": 1124028,
+    "current_team_id": 377973,
+    "current_team_name": "Austin FC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "964814": {
+    "player_id": 964814,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1146245": {
+    "player_id": 1146245,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1406133": {
+    "player_id": 1406133,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "805915": {
+    "player_id": 805915,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1497358": {
+    "player_id": 1497358,
+    "current_team_id": 2040,
+    "current_team_name": "NK Osijek",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "990184": {
+    "player_id": 990184,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "121590": {
+    "player_id": 121590,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1165955": {
+    "player_id": 1165955,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "137702": {
+    "player_id": 137702,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "926681": {
+    "player_id": 926681,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "112321": {
+    "player_id": 112321,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1894089": {
+    "player_id": 1894089,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "889059": {
+    "player_id": 889059,
+    "current_team_id": 40263,
+    "current_team_name": "Navbahor Namangan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "965889": {
+    "player_id": 965889,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1472951": {
+    "player_id": 1472951,
+    "current_team_id": 2108,
+    "current_team_name": "Young Violets Austria Wien",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "979046": {
+    "player_id": 979046,
+    "current_team_id": 6216,
+    "current_team_name": "OFK Petrovac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1429076": {
+    "player_id": 1429076,
+    "current_team_id": 37053,
+    "current_team_name": "RSD Alcal\u00e1",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "810663": {
+    "player_id": 810663,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1099198": {
+    "player_id": 1099198,
+    "current_team_id": 295152,
+    "current_team_name": "Wuhan Three Towns",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1470370": {
+    "player_id": 1470370,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "844332": {
+    "player_id": 844332,
+    "current_team_id": 40261,
+    "current_team_name": "Lokomotiv Tashkent",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "920009": {
+    "player_id": 920009,
+    "current_team_id": 934583,
+    "current_team_name": "Al Mosul SC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2198962": {
+    "player_id": 2198962,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "804837": {
+    "player_id": 804837,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2198963": {
+    "player_id": 2198963,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "827547": {
+    "player_id": 827547,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1153961": {
+    "player_id": 1153961,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "38583": {
+    "player_id": 38583,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "193130": {
+    "player_id": 193130,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "814416": {
+    "player_id": 814416,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "69023": {
+    "player_id": 69023,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795938": {
+    "player_id": 795938,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "27863": {
+    "player_id": 27863,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1022062": {
+    "player_id": 1022062,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "126558": {
+    "player_id": 126558,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "280827": {
+    "player_id": 280827,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1835422": {
+    "player_id": 1835422,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166063": {
+    "player_id": 1166063,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "892174": {
+    "player_id": 892174,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1030454": {
+    "player_id": 1030454,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "173957": {
+    "player_id": 173957,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1595643": {
+    "player_id": 1595643,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1595520": {
+    "player_id": 1595520,
+    "current_team_id": 25733,
+    "current_team_name": "GFK Sloboda U\u017eice",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2162392": {
+    "player_id": 2162392,
+    "current_team_id": 324865,
+    "current_team_name": "FK Mladost Lu\u010dani U19",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "111313": {
+    "player_id": 111313,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1166128": {
+    "player_id": 1166128,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166098": {
+    "player_id": 1166098,
+    "current_team_id": 312342,
+    "current_team_name": "FK FAP Priboj",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795855": {
+    "player_id": 795855,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166091": {
+    "player_id": 1166091,
+    "current_team_id": 378020,
+    "current_team_name": "FK Real Podunavci",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "32668": {
+    "player_id": 32668,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1627088": {
+    "player_id": 1627088,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "595042": {
+    "player_id": 595042,
+    "current_team_id": 313716,
+    "current_team_name": "Forge FC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1894508": {
+    "player_id": 1894508,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1111990": {
+    "player_id": 1111990,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "314246": {
+    "player_id": 314246,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1957265": {
+    "player_id": 1957265,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1481264": {
+    "player_id": 1481264,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "885781": {
+    "player_id": 885781,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2059299": {
+    "player_id": 2059299,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1516067": {
+    "player_id": 1516067,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1516066": {
+    "player_id": 1516066,
+    "current_team_id": 229348,
+    "current_team_name": "FK Tekstilac Od\u017eaci",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "55005": {
+    "player_id": 55005,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "988937": {
+    "player_id": 988937,
+    "current_team_id": 1671,
+    "current_team_name": "Grenoble Foot 38",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "942359": {
+    "player_id": 942359,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "886182": {
+    "player_id": 886182,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "103157": {
+    "player_id": 103157,
+    "current_team_id": 264201,
+    "current_team_name": "FK Jedinstvo Sur\u010din",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1142784": {
+    "player_id": 1142784,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1393501": {
+    "player_id": 1393501,
+    "current_team_id": 229348,
+    "current_team_name": "FK Tekstilac Od\u017eaci",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1837599": {
+    "player_id": 1837599,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "904998": {
+    "player_id": 904998,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "844178": {
+    "player_id": 844178,
+    "current_team_id": 6149,
+    "current_team_name": "FK Radnik Bijeljina",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "792127": {
+    "player_id": 792127,
+    "current_team_id": 48614,
+    "current_team_name": "FC Sogdiana Jizzakh",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1100641": {
+    "player_id": 1100641,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "38574": {
+    "player_id": 38574,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1464578": {
+    "player_id": 1464578,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "976131": {
+    "player_id": 976131,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1008225": {
+    "player_id": 1008225,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "345141": {
+    "player_id": 345141,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1165971": {
+    "player_id": 1165971,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1981976": {
+    "player_id": 1981976,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "834586": {
+    "player_id": 834586,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "905103": {
+    "player_id": 905103,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1595518": {
+    "player_id": 1595518,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "267523": {
+    "player_id": 267523,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "804183": {
+    "player_id": 804183,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "69362": {
+    "player_id": 69362,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1595759": {
+    "player_id": 1595759,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1865408": {
+    "player_id": 1865408,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1584983": {
+    "player_id": 1584983,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1446160": {
+    "player_id": 1446160,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "988549": {
+    "player_id": 988549,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1392796": {
+    "player_id": 1392796,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "837894": {
+    "player_id": 837894,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1937361": {
+    "player_id": 1937361,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1093731": {
+    "player_id": 1093731,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1102161": {
+    "player_id": 1102161,
+    "current_team_id": 58689,
+    "current_team_name": "Baniyas",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795871": {
+    "player_id": 795871,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1165834": {
+    "player_id": 1165834,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "840862": {
+    "player_id": 840862,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "943362": {
+    "player_id": 943362,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "956793": {
+    "player_id": 956793,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "799015": {
+    "player_id": 799015,
+    "current_team_id": 37064,
+    "current_team_name": "FK Sloga Doboj",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "267473": {
+    "player_id": 267473,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "799152": {
+    "player_id": 799152,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "998786": {
+    "player_id": 998786,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1153959": {
+    "player_id": 1153959,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1109778": {
+    "player_id": 1109778,
+    "current_team_id": 228024,
+    "current_team_name": "FK Trayal Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "889448": {
+    "player_id": 889448,
+    "current_team_id": 5143,
+    "current_team_name": "FK Budu\u0107nost Podgorica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "937992": {
+    "player_id": 937992,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1598539": {
+    "player_id": 1598539,
+    "current_team_id": 369195,
+    "current_team_name": "FK Jedinstvo 1936 Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1846383": {
+    "player_id": 1846383,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147879": {
+    "player_id": 1147879,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1102136": {
+    "player_id": 1102136,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1855771": {
+    "player_id": 1855771,
+    "current_team_id": 374281,
+    "current_team_name": "OFK Bor 1919",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "807251": {
+    "player_id": 807251,
+    "current_team_id": 5407,
+    "current_team_name": "FK Sileks Kratovo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "267437": {
+    "player_id": 267437,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "905167": {
+    "player_id": 905167,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1001880": {
+    "player_id": 1001880,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1146281": {
+    "player_id": 1146281,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1466631": {
+    "player_id": 1466631,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "988828": {
+    "player_id": 988828,
+    "current_team_id": 5136,
+    "current_team_name": "Vizela",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166015": {
+    "player_id": 1166015,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1007254": {
+    "player_id": 1007254,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1885765": {
+    "player_id": 1885765,
+    "current_team_id": 1892,
+    "current_team_name": "Malm\u00f6 FF",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "876873": {
+    "player_id": 876873,
+    "current_team_id": 5403,
+    "current_team_name": "FK Vardar Skopje",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1146227": {
+    "player_id": 1146227,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "869693": {
+    "player_id": 869693,
+    "current_team_id": 195174,
+    "current_team_name": "Hwaseong FC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1013994": {
+    "player_id": 1013994,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166001": {
+    "player_id": 1166001,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1121629": {
+    "player_id": 1121629,
+    "current_team_id": 2207,
+    "current_team_name": "SK Sigma Olomouc",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1417509": {
+    "player_id": 1417509,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "111456": {
+    "player_id": 111456,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1017661": {
+    "player_id": 1017661,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1427157": {
+    "player_id": 1427157,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1001851": {
+    "player_id": 1001851,
+    "current_team_id": 305165,
+    "current_team_name": "Stade Reims II",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1479042": {
+    "player_id": 1479042,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "844305": {
+    "player_id": 844305,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1150389": {
+    "player_id": 1150389,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1427163": {
+    "player_id": 1427163,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147544": {
+    "player_id": 1147544,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "555538": {
+    "player_id": 555538,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "286121": {
+    "player_id": 286121,
+    "current_team_id": 1892,
+    "current_team_name": "Malm\u00f6 FF",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1012248": {
+    "player_id": 1012248,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1500276": {
+    "player_id": 1500276,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1166188": {
+    "player_id": 1166188,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1154491": {
+    "player_id": 1154491,
+    "current_team_id": 2534,
+    "current_team_name": "SV Werder Bremen",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "19191": {
+    "player_id": 19191,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "801067": {
+    "player_id": 801067,
+    "current_team_id": 251278,
+    "current_team_name": "Nantong Zhiyun",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1427161": {
+    "player_id": 1427161,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1819171": {
+    "player_id": 1819171,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1005605": {
+    "player_id": 1005605,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1500279": {
+    "player_id": 1500279,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "888701": {
+    "player_id": 888701,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1493919": {
+    "player_id": 1493919,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1429960": {
+    "player_id": 1429960,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1584964": {
+    "player_id": 1584964,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "805932": {
+    "player_id": 805932,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "807245": {
+    "player_id": 807245,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1152919": {
+    "player_id": 1152919,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "876751": {
+    "player_id": 876751,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1518953": {
+    "player_id": 1518953,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "987618": {
+    "player_id": 987618,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "978293": {
+    "player_id": 978293,
+    "current_team_id": 2318,
+    "current_team_name": "Rotor Volgograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1046779": {
+    "player_id": 1046779,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1000815": {
+    "player_id": 1000815,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1382153": {
+    "player_id": 1382153,
+    "current_team_id": 35268,
+    "current_team_name": "Rak\u00f3w Cz\u0119stochowa",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "858238": {
+    "player_id": 858238,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1005356": {
+    "player_id": 1005356,
+    "current_team_id": 295152,
+    "current_team_name": "Wuhan Three Towns",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "999008": {
+    "player_id": 999008,
+    "current_team_id": 287019,
+    "current_team_name": "Surkhon Termez",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1595656": {
+    "player_id": 1595656,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1063157": {
+    "player_id": 1063157,
+    "current_team_id": 200776,
+    "current_team_name": "Kolos Kovalivka",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "79383": {
+    "player_id": 79383,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1159434": {
+    "player_id": 1159434,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1022058": {
+    "player_id": 1022058,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1158017": {
+    "player_id": 1158017,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "13691": {
+    "player_id": 13691,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1802942": {
+    "player_id": 1802942,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1616139": {
+    "player_id": 1616139,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1853855": {
+    "player_id": 1853855,
+    "current_team_id": 263765,
+    "current_team_name": "FK Radnicki 1923 Kragujevac U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1912461": {
+    "player_id": 1912461,
+    "current_team_id": 5151,
+    "current_team_name": "FK Smederevo 1924",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "796223": {
+    "player_id": 796223,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1047325": {
+    "player_id": 1047325,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "948696": {
+    "player_id": 948696,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1981962": {
+    "player_id": 1981962,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "941050": {
+    "player_id": 941050,
+    "current_team_id": 5171,
+    "current_team_name": "Dinamo Tbilisi",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "799179": {
+    "player_id": 799179,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1147753": {
+    "player_id": 1147753,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1102770": {
+    "player_id": 1102770,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1175945": {
+    "player_id": 1175945,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1100966": {
+    "player_id": 1100966,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1003429": {
+    "player_id": 1003429,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1617764": {
+    "player_id": 1617764,
+    "current_team_id": 3009,
+    "current_team_name": "Vit\u00f3ria SC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "39587": {
+    "player_id": 39587,
+    "current_team_id": 5237,
+    "current_team_name": "FK Sarajevo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "887054": {
+    "player_id": 887054,
+    "current_team_id": 5363,
+    "current_team_name": "FK Zhenys",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "907763": {
+    "player_id": 907763,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1152937": {
+    "player_id": 1152937,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1982067": {
+    "player_id": 1982067,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1023999": {
+    "player_id": 1023999,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1153954": {
+    "player_id": 1153954,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2189932": {
+    "player_id": 2189932,
+    "current_team_id": 37065,
+    "current_team_name": "FK Romanija Pale",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795839": {
+    "player_id": 795839,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "927295": {
+    "player_id": 927295,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1910796": {
+    "player_id": 1910796,
+    "current_team_id": 6146,
+    "current_team_name": "NK \u010celik Zenica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "112020": {
+    "player_id": 112020,
+    "current_team_id": 229348,
+    "current_team_name": "FK Tekstilac Od\u017eaci",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1444568": {
+    "player_id": 1444568,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "137698": {
+    "player_id": 137698,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1957264": {
+    "player_id": 1957264,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1104503": {
+    "player_id": 1104503,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1165958": {
+    "player_id": 1165958,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1566364": {
+    "player_id": 1566364,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "177037": {
+    "player_id": 177037,
+    "current_team_id": 5160,
+    "current_team_name": "FK Borac 1926 \u010ca\u010dak",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "997184": {
+    "player_id": 997184,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "851599": {
+    "player_id": 851599,
+    "current_team_id": 382024,
+    "current_team_name": "Shijiazhuang Gongfu",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "997194": {
+    "player_id": 997194,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1030841": {
+    "player_id": 1030841,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1032770": {
+    "player_id": 1032770,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1983681": {
+    "player_id": 1983681,
+    "current_team_id": 263770,
+    "current_team_name": "FK Vojvodina U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1478247": {
+    "player_id": 1478247,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1068813": {
+    "player_id": 1068813,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1104741": {
+    "player_id": 1104741,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1087489": {
+    "player_id": 1087489,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1145915": {
+    "player_id": 1145915,
+    "current_team_id": 291738,
+    "current_team_name": "Leningradets",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "807593": {
+    "player_id": 807593,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1937553": {
+    "player_id": 1937553,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "955061": {
+    "player_id": 955061,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1406109": {
+    "player_id": 1406109,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1183887": {
+    "player_id": 1183887,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1047458": {
+    "player_id": 1047458,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2196365": {
+    "player_id": 2196365,
+    "current_team_id": 312342,
+    "current_team_name": "FK FAP Priboj",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1090985": {
+    "player_id": 1090985,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2208696": {
+    "player_id": 2208696,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1388249": {
+    "player_id": 1388249,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1165845": {
+    "player_id": 1165845,
+    "current_team_id": 362051,
+    "current_team_name": "OFK Vrbas",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1967206": {
+    "player_id": 1967206,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "899302": {
+    "player_id": 899302,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "307458": {
+    "player_id": 307458,
+    "current_team_id": 409200,
+    "current_team_name": "Ariana FC",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "940100": {
+    "player_id": 940100,
+    "current_team_id": 5362,
+    "current_team_name": "FC Tobol",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "999049": {
+    "player_id": 999049,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1405262": {
+    "player_id": 1405262,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1429959": {
+    "player_id": 1429959,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "984877": {
+    "player_id": 984877,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "842735": {
+    "player_id": 842735,
+    "current_team_id": 39946,
+    "current_team_name": "Muang Thong United",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "252121": {
+    "player_id": 252121,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1147561": {
+    "player_id": 1147561,
+    "current_team_id": 34318,
+    "current_team_name": "Al-Ettifaq",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "987250": {
+    "player_id": 987250,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "879829": {
+    "player_id": 879829,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "80236": {
+    "player_id": 80236,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "795861": {
+    "player_id": 795861,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "929727": {
+    "player_id": 929727,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1217033": {
+    "player_id": 1217033,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1399471": {
+    "player_id": 1399471,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1022054": {
+    "player_id": 1022054,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1417030": {
+    "player_id": 1417030,
+    "current_team_id": 44355,
+    "current_team_name": "Menemen FK",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1639816": {
+    "player_id": 1639816,
+    "current_team_id": 4499,
+    "current_team_name": "Kar\u015f\u0131yaka",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "947437": {
+    "player_id": 947437,
+    "current_team_id": 33584,
+    "current_team_name": "Floriana FC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1518929": {
+    "player_id": 1518929,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "54775": {
+    "player_id": 54775,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1981982": {
+    "player_id": 1981982,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1493918": {
+    "player_id": 1493918,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1516318": {
+    "player_id": 1516318,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1136280": {
+    "player_id": 1136280,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2207346": {
+    "player_id": 2207346,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1019641": {
+    "player_id": 1019641,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1049576": {
+    "player_id": 1049576,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "997191": {
+    "player_id": 997191,
+    "current_team_id": 3248,
+    "current_team_name": "Panathinaikos FC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1892868": {
+    "player_id": 1892868,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "50306": {
+    "player_id": 50306,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "938000": {
+    "player_id": 938000,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "881211": {
+    "player_id": 881211,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "341339": {
+    "player_id": 341339,
+    "current_team_id": 229348,
+    "current_team_name": "FK Tekstilac Od\u017eaci",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1974511": {
+    "player_id": 1974511,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1939188": {
+    "player_id": 1939188,
+    "current_team_id": 5160,
+    "current_team_name": "FK Borac 1926 \u010ca\u010dak",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1939194": {
+    "player_id": 1939194,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1584981": {
+    "player_id": 1584981,
+    "current_team_id": 5160,
+    "current_team_name": "FK Borac 1926 \u010ca\u010dak",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1590928": {
+    "player_id": 1590928,
+    "current_team_id": 197184,
+    "current_team_name": "FK Crvena zvezda U19",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1515308": {
+    "player_id": 1515308,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "814301": {
+    "player_id": 814301,
+    "current_team_id": 270973,
+    "current_team_name": "RFK Grafi\u010dar Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1957203": {
+    "player_id": 1957203,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1595696": {
+    "player_id": 1595696,
+    "current_team_id": 246604,
+    "current_team_name": "FK Dinamo 1945 Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1982078": {
+    "player_id": 1982078,
+    "current_team_id": 229348,
+    "current_team_name": "FK Tekstilac Od\u017eaci",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1111781": {
+    "player_id": 1111781,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1859501": {
+    "player_id": 1859501,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1859502": {
+    "player_id": 1859502,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1893370": {
+    "player_id": 1893370,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "895905": {
+    "player_id": 895905,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "21927": {
+    "player_id": 21927,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1133882": {
+    "player_id": 1133882,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1425301": {
+    "player_id": 1425301,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1409357": {
+    "player_id": 1409357,
+    "current_team_id": 24356,
+    "current_team_name": "Rayo Cantabria",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1124029": {
+    "player_id": 1124029,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1907123": {
+    "player_id": 1907123,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "990630": {
+    "player_id": 990630,
+    "current_team_id": 32870,
+    "current_team_name": "Andr\u00e9zieux-Bouth\u00e9on FC",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2237640": {
+    "player_id": 2237640,
+    "current_team_id": 263764,
+    "current_team_name": "FK Radni\u010dki Ni\u0161 U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "797763": {
+    "player_id": 797763,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2237641": {
+    "player_id": 2237641,
+    "current_team_id": 353746,
+    "current_team_name": "FK IMT Beograd U19",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "966572": {
+    "player_id": 966572,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "942147": {
+    "player_id": 942147,
+    "current_team_id": 466776,
+    "current_team_name": "Altay Oskemen",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "357742": {
+    "player_id": 357742,
+    "current_team_id": 241802,
+    "current_team_name": "No team",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "862199": {
+    "player_id": 862199,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "971009": {
+    "player_id": 971009,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1165919": {
+    "player_id": 1165919,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "224466": {
+    "player_id": 224466,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1063790": {
+    "player_id": 1063790,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1131048": {
+    "player_id": 1131048,
+    "current_team_id": 5149,
+    "current_team_name": "FK Crvena zvezda",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2063215": {
+    "player_id": 2063215,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1149283": {
+    "player_id": 1149283,
+    "current_team_id": 6224,
+    "current_team_name": "FK Sutjeska Nik\u0161i\u0107",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1005774": {
+    "player_id": 1005774,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1126871": {
+    "player_id": 1126871,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "926607": {
+    "player_id": 926607,
+    "current_team_id": 3403,
+    "current_team_name": "Anorthosis Famagusta",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "98436": {
+    "player_id": 98436,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1149291": {
+    "player_id": 1149291,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "312170": {
+    "player_id": 312170,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1398550": {
+    "player_id": 1398550,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1165848": {
+    "player_id": 1165848,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "939791": {
+    "player_id": 939791,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1218053": {
+    "player_id": 1218053,
+    "current_team_id": 77629,
+    "current_team_name": "\u00c7orum FK",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1468038": {
+    "player_id": 1468038,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1013823": {
+    "player_id": 1013823,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1846384": {
+    "player_id": 1846384,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1427154": {
+    "player_id": 1427154,
+    "current_team_id": 37125,
+    "current_team_name": "FK Teleoptik Zemun",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1137495": {
+    "player_id": 1137495,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "99533": {
+    "player_id": 99533,
+    "current_team_id": 245405,
+    "current_team_name": "Mes Rafsanjan FC",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "356190": {
+    "player_id": 356190,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "905454": {
+    "player_id": 905454,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1656646": {
+    "player_id": 1656646,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "267591": {
+    "player_id": 267591,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "150667": {
+    "player_id": 150667,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795850": {
+    "player_id": 795850,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1617763": {
+    "player_id": 1617763,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1937368": {
+    "player_id": 1937368,
+    "current_team_id": 263772,
+    "current_team_name": "Napredak Kru\u0161evac U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2296728": {
+    "player_id": 2296728,
+    "current_team_id": 263772,
+    "current_team_name": "Napredak Kru\u0161evac U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1130255": {
+    "player_id": 1130255,
+    "current_team_id": 369195,
+    "current_team_name": "FK Jedinstvo 1936 Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2049924": {
+    "player_id": 2049924,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2189184": {
+    "player_id": 2189184,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1429523": {
+    "player_id": 1429523,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2319703": {
+    "player_id": 2319703,
+    "current_team_id": 1210144,
+    "current_team_name": "FK IMT U17",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1146082": {
+    "player_id": 1146082,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2035083": {
+    "player_id": 2035083,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1981883": {
+    "player_id": 1981883,
+    "current_team_id": 802392,
+    "current_team_name": "FK TSC Ba\u010dka Topola U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1851627": {
+    "player_id": 1851627,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "80250": {
+    "player_id": 80250,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1149060": {
+    "player_id": 1149060,
+    "current_team_id": 5235,
+    "current_team_name": "FK Borac Banja Luka",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1942888": {
+    "player_id": 1942888,
+    "current_team_id": 312342,
+    "current_team_name": "FK FAP Priboj",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1865415": {
+    "player_id": 1865415,
+    "current_team_id": 324865,
+    "current_team_name": "FK Mladost Lu\u010dani U19",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1463374": {
+    "player_id": 1463374,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1656945": {
+    "player_id": 1656945,
+    "current_team_id": 802392,
+    "current_team_name": "FK TSC Ba\u010dka Topola U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1981903": {
+    "player_id": 1981903,
+    "current_team_id": 263764,
+    "current_team_name": "FK Radni\u010dki Ni\u0161 U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1981810": {
+    "player_id": 1981810,
+    "current_team_id": 263765,
+    "current_team_name": "FK Radnicki 1923 Kragujevac U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2334058": {
+    "player_id": 2334058,
+    "current_team_id": 232533,
+    "current_team_name": "FK \u010cukari\u010dki U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1917883": {
+    "player_id": 1917883,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "2334125": {
+    "player_id": 2334125,
+    "current_team_id": 353746,
+    "current_team_name": "FK IMT Beograd U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2334130": {
+    "player_id": 2334130,
+    "current_team_id": 353746,
+    "current_team_name": "FK IMT Beograd U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1515520": {
+    "player_id": 1515520,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1424357": {
+    "player_id": 1424357,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1985774": {
+    "player_id": 1985774,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "948694": {
+    "player_id": 948694,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2256607": {
+    "player_id": 2256607,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2399348": {
+    "player_id": 2399348,
+    "current_team_id": 74323,
+    "current_team_name": "FK Timok 1919 Zaje\u010dar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1801667": {
+    "player_id": 1801667,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1865407": {
+    "player_id": 1865407,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1803851": {
+    "player_id": 1803851,
+    "current_team_id": 253775,
+    "current_team_name": "FK Brodarac Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2266917": {
+    "player_id": 2266917,
+    "current_team_id": 197184,
+    "current_team_name": "FK Crvena zvezda U19",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1584984": {
+    "player_id": 1584984,
+    "current_team_id": 197184,
+    "current_team_name": "FK Crvena zvezda U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1893331": {
+    "player_id": 1893331,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2356743": {
+    "player_id": 2356743,
+    "current_team_id": 1210144,
+    "current_team_name": "FK IMT U17",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1982084": {
+    "player_id": 1982084,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "936134": {
+    "player_id": 936134,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2456101": {
+    "player_id": 2456101,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1150815": {
+    "player_id": 1150815,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1473508": {
+    "player_id": 1473508,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "799178": {
+    "player_id": 799178,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2456095": {
+    "player_id": 2456095,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "804844": {
+    "player_id": 804844,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "801236": {
+    "player_id": 801236,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1865381": {
+    "player_id": 1865381,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "795899": {
+    "player_id": 795899,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "791176": {
+    "player_id": 791176,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "152339": {
+    "player_id": 152339,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "229722": {
+    "player_id": 229722,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "915043": {
+    "player_id": 915043,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "836919": {
+    "player_id": 836919,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "39733": {
+    "player_id": 39733,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1655273": {
+    "player_id": 1655273,
+    "current_team_id": 37125,
+    "current_team_name": "FK Teleoptik Zemun",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2235877": {
+    "player_id": 2235877,
+    "current_team_id": 37125,
+    "current_team_name": "FK Teleoptik Zemun",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1584966": {
+    "player_id": 1584966,
+    "current_team_id": 37125,
+    "current_team_name": "FK Teleoptik Zemun",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1983654": {
+    "player_id": 1983654,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "370644": {
+    "player_id": 370644,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1000276": {
+    "player_id": 1000276,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "873419": {
+    "player_id": 873419,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1384025": {
+    "player_id": 1384025,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "989351": {
+    "player_id": 989351,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2456158": {
+    "player_id": 2456158,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "987906": {
+    "player_id": 987906,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1087748": {
+    "player_id": 1087748,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2239937": {
+    "player_id": 2239937,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2216578": {
+    "player_id": 2216578,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1513253": {
+    "player_id": 1513253,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2276490": {
+    "player_id": 2276490,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1046939": {
+    "player_id": 1046939,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "2456275": {
+    "player_id": 2456275,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "798091": {
+    "player_id": 798091,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1133676": {
+    "player_id": 1133676,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1981820": {
+    "player_id": 1981820,
+    "current_team_id": 418770,
+    "current_team_name": "FK Novi Pazar U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2287918": {
+    "player_id": 2287918,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "606608": {
+    "player_id": 606608,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "315190": {
+    "player_id": 315190,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "890060": {
+    "player_id": 890060,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1457404": {
+    "player_id": 1457404,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "885516": {
+    "player_id": 885516,
+    "current_team_id": 7771,
+    "current_team_name": "FK Mladost Lu\u010dani",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1818867": {
+    "player_id": 1818867,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "77678": {
+    "player_id": 77678,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "799711": {
+    "player_id": 799711,
+    "current_team_id": 263360,
+    "current_team_name": "FK TSC Ba\u010dka Topola",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1983676": {
+    "player_id": 1983676,
+    "current_team_id": 802392,
+    "current_team_name": "FK TSC Ba\u010dka Topola U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1520997": {
+    "player_id": 1520997,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1120865": {
+    "player_id": 1120865,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1457564": {
+    "player_id": 1457564,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1047505": {
+    "player_id": 1047505,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "931313": {
+    "player_id": 931313,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "108736": {
+    "player_id": 108736,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "188115": {
+    "player_id": 188115,
+    "current_team_id": 5152,
+    "current_team_name": "FK Partizan",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1946155": {
+    "player_id": 1946155,
+    "current_team_id": 37125,
+    "current_team_name": "FK Teleoptik Zemun",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "605446": {
+    "player_id": 605446,
+    "current_team_id": 25737,
+    "current_team_name": "FK Radni\u010dki Ni\u0161",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1897363": {
+    "player_id": 1897363,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1588141": {
+    "player_id": 1588141,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1133670": {
+    "player_id": 1133670,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1111989": {
+    "player_id": 1111989,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1544669": {
+    "player_id": 1544669,
+    "current_team_id": 282203,
+    "current_team_name": "FK \u017delezni\u010dar Pan\u010devo",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "940827": {
+    "player_id": 940827,
+    "current_team_id": 2321,
+    "current_team_name": "Zenit St. Petersburg",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "796184": {
+    "player_id": 796184,
+    "current_team_id": 25736,
+    "current_team_name": "FK Novi Pazar",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2468591": {
+    "player_id": 2468591,
+    "current_team_id": 39404,
+    "current_team_name": "FC Chauray",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1005616": {
+    "player_id": 1005616,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1186804": {
+    "player_id": 1186804,
+    "current_team_id": 5153,
+    "current_team_name": "OFK Beograd",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1894096": {
+    "player_id": 1894096,
+    "current_team_id": 263738,
+    "current_team_name": "OFK Beograd Mozzart Bet U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2476341": {
+    "player_id": 2476341,
+    "current_team_id": 271341,
+    "current_team_name": "FK Spartak Subotica U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1146073": {
+    "player_id": 1146073,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1924383": {
+    "player_id": 1924383,
+    "current_team_id": 43981,
+    "current_team_name": "FK Radni\u010dki 1923",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "578112": {
+    "player_id": 578112,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1006673": {
+    "player_id": 1006673,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "1387178": {
+    "player_id": 1387178,
+    "current_team_id": 7674,
+    "current_team_name": "FK Napredak Kru\u0161evac",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2140222": {
+    "player_id": 2140222,
+    "current_team_id": 263738,
+    "current_team_name": "OFK Beograd Mozzart Bet U19",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2222933": {
+    "player_id": 2222933,
+    "current_team_id": 263738,
+    "current_team_name": "OFK Beograd Mozzart Bet U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1008297": {
+    "player_id": 1008297,
+    "current_team_id": 5150,
+    "current_team_name": "FK Vojvodina",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "797144": {
+    "player_id": 797144,
+    "current_team_id": 5148,
+    "current_team_name": "FK \u010cukari\u010dki",
+    "retired": false,
+    "preferredFoot": "Both"
+  },
+  "1113474": {
+    "player_id": 1113474,
+    "current_team_id": 5144,
+    "current_team_name": "FK Javor Ivanjica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "588974": {
+    "player_id": 588974,
+    "current_team_id": 111127,
+    "current_team_name": "FK Radnik Surdulica",
+    "retired": false,
+    "preferredFoot": "Right"
+  },
+  "2497279": {
+    "player_id": 2497279,
+    "current_team_id": 263764,
+    "current_team_name": "FK Radni\u010dki Ni\u0161 U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2507087": {
+    "player_id": 2507087,
+    "current_team_id": 271341,
+    "current_team_name": "FK Spartak Subotica U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2507085": {
+    "player_id": 2507085,
+    "current_team_id": 36967,
+    "current_team_name": "FK Spartak Subotica",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2162300": {
+    "player_id": 2162300,
+    "current_team_id": 271341,
+    "current_team_name": "FK Spartak Subotica U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "2507088": {
+    "player_id": 2507088,
+    "current_team_id": 271341,
+    "current_team_name": "FK Spartak Subotica U19",
+    "retired": false,
+    "preferredFoot": null
+  },
+  "1974326": {
+    "player_id": 1974326,
+    "current_team_id": 308176,
+    "current_team_name": "FK IMT Beograd",
+    "retired": false,
+    "preferredFoot": "Left"
+  },
+  "1853867": {
+    "player_id": 1853867,
+    "current_team_id": 515378,
+    "current_team_name": "Real Sapphire Fc",
+    "retired": false,
+    "preferredFoot": null
+  }
+}

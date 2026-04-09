@@ -1,0 +1,1787 @@
+match_id,team_id,team_name,team_side,player_id,player_name,player_position,metric_key,category,metric,value,secondary,denominator,percentage,display
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,accuratePass,General,Accurate passes,14.0,,29.0,48.275862068965516,14/29 (48%)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,total_duels,General,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,touches,Attacking,Touches,36.0,,,,36
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,ballRecovery,Defending,Ball recoveries,7.0,,,,7
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,accuratePass,Passing,Accurate passes,14.0,,29.0,48.275862068965516,14/29 (48%)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,accurateLongBalls,Passing,Accurate long balls,10.0,,24.0,41.66666666666667,10/24 (42%)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,accurateOwnHalfPasses,Passing,Passes own half,10.0,,13.0,76.92307692307693,10/13 (77%)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,accurateOppositionHalfPasses,Passing,Passes opposition half,4.0,,16.0,25.0,4/16 (25%)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,possessionLostCtrl,Duels,Possession lost,16.0,,,,16
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,saves,Goalkeeping,Saves,4.0,,,,4
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,795899,Ognjen Čančarević,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,totalTackle,General,Tackles (won),4.0,3.0,,,4 (3)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,accuratePass,General,Accurate passes,23.0,,29.0,79.3103448275862,23/29 (79%)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,total_duels,General,Duels (won),8.0,5.0,,,8 (5)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,ground_duels_total,General,Ground duels (won),6.0,5.0,,,6 (5)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,aerial_duels_total,General,Aerial duels (won),2.0,,,,2
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,touches,Attacking,Touches,64.0,,,,64
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,totalTackle,Defending,Tackles (won),4.0,3.0,,,4 (3)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,interceptionWon,Defending,Interceptions,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,ballRecovery,Defending,Ball recoveries,5.0,,,,5
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,accuratePass,Passing,Accurate passes,23.0,,29.0,79.3103448275862,23/29 (79%)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,accurateLongBalls,Passing,Accurate long balls,4.0,,6.0,66.66666666666666,4/6 (67%)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,accurateCross,Passing,Accurate crosses,1.0,,3.0,33.33333333333333,1/3 (33%)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,accurateOwnHalfPasses,Passing,Passes own half,8.0,,10.0,80.0,8/10 (80%)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,accurateOppositionHalfPasses,Passing,Passes opposition half,15.0,,19.0,78.94736842105263,15/19 (79%)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,keyPass,Passing,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,total_duels,Duels,Duels (won),8.0,5.0,,,8 (5)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,ground_duels_total,Duels,Ground duels (won),6.0,5.0,,,6 (5)
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,aerial_duels_total,Duels,Aerial duels (won),2.0,,,,2
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,possessionLostCtrl,Duels,Possession lost,15.0,,,,15
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,966572,Ismael Casas,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,goals,General,Goals,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,goalAssist,General,Assists,0.0,,,,0
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,totalTackle,General,Tackles (won),,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,accuratePass,General,Accurate passes,14.0,,18.0,77.77777777777779,14/18 (78%)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,total_duels,General,Duels (won),5.0,2.0,,,5 (2)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,ground_duels_total,General,Ground duels (won),1.0,0.0,,,1 (0)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,goals,Attacking,Goals,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,keyPass,Attacking,Key passes,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,touches,Attacking,Touches,26.0,,,,26
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,wasFouled,Attacking,Was fouled,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,totalTackle,Defending,Tackles (won),,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,interceptionWon,Defending,Interceptions,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,totalClearance,Defending,Clearances,5.0,,,,5
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,outfielderBlock,Defending,Blocks,1.0,,,,1
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,ownGoals,Defending,Own goals,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,accuratePass,Passing,Accurate passes,14.0,,18.0,77.77777777777779,14/18 (78%)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,accurateLongBalls,Passing,Accurate long balls,4.0,,5.0,80.0,4/5 (80%)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,accurateCross,Passing,Accurate crosses,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,accurateOwnHalfPasses,Passing,Passes own half,9.0,,11.0,81.81818181818183,9/11 (82%)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,7.0,71.42857142857143,5/7 (71%)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,keyPass,Passing,Key passes,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,total_duels,Duels,Duels (won),5.0,2.0,,,5 (2)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,ground_duels_total,Duels,Ground duels (won),1.0,0.0,,,1 (0)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,wasFouled,Duels,Was fouled,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,fouls,Duels,Fouls committed,1.0,,,,1
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,possessionLostCtrl,Duels,Possession lost,4.0,,,,4
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,saves,Goalkeeping,Saves,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,353746,FK IMT Beograd,home,2334130,Andrej Milanović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,totalTackle,General,Tackles (won),2.0,1.0,,,2 (1)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,accuratePass,General,Accurate passes,10.0,,16.0,62.5,10/16 (62%)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,total_duels,General,Duels (won),7.0,5.0,,,7 (5)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,ground_duels_total,General,Ground duels (won),4.0,2.0,,,4 (2)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,aerial_duels_total,General,Aerial duels (won),3.0,3.0,,,3 (3)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,minutesPlayed,General,Minutes played,80.0,,,,80
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,totalShots,Attacking,Shots (on target),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,totalContest,Attacking,Dribbles (successful),2.0,,,,2
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,touches,Attacking,Touches,27.0,,,,27
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,totalTackle,Defending,Tackles (won),2.0,1.0,,,2 (1)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,totalClearance,Defending,Clearances,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,accuratePass,Passing,Accurate passes,10.0,,16.0,62.5,10/16 (62%)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,accurateLongBalls,Passing,Accurate long balls,,,2.0,,/2
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,accurateOwnHalfPasses,Passing,Passes own half,8.0,,10.0,80.0,8/10 (80%)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,6.0,33.33333333333333,2/6 (33%)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,total_duels,Duels,Duels (won),7.0,5.0,,,7 (5)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,ground_duels_total,Duels,Ground duels (won),4.0,2.0,,,4 (2)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,aerial_duels_total,Duels,Aerial duels (won),3.0,3.0,,,3 (3)
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,possessionLostCtrl,Duels,Possession lost,8.0,,,,8
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,836919,Stefan Šapić,D,minutesPlayed,Goalkeeping,Minutes played,80.0,,,,80
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,totalTackle,General,Tackles (won),4.0,1.0,,,4 (1)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,accuratePass,General,Accurate passes,13.0,,22.0,59.09090909090909,13/22 (59%)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,total_duels,General,Duels (won),5.0,4.0,,,5 (4)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,ground_duels_total,General,Ground duels (won),4.0,4.0,,,4 (4)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,aerial_duels_total,General,Aerial duels (won),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,touches,Attacking,Touches,42.0,,,,42
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,totalTackle,Defending,Tackles (won),4.0,1.0,,,4 (1)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,interceptionWon,Defending,Interceptions,4.0,,,,4
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,totalClearance,Defending,Clearances,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,accuratePass,Passing,Accurate passes,13.0,,22.0,59.09090909090909,13/22 (59%)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,accurateLongBalls,Passing,Accurate long balls,4.0,,9.0,44.44444444444444,4/9 (44%)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,accurateCross,Passing,Accurate crosses,,,2.0,,/2
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,accurateOwnHalfPasses,Passing,Passes own half,9.0,,10.0,90.0,9/10 (90%)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,accurateOppositionHalfPasses,Passing,Passes opposition half,4.0,,12.0,33.33333333333333,4/12 (33%)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,total_duels,Duels,Duels (won),5.0,4.0,,,5 (4)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,ground_duels_total,Duels,Ground duels (won),4.0,4.0,,,4 (4)
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,aerial_duels_total,Duels,Aerial duels (won),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,possessionLostCtrl,Duels,Possession lost,12.0,,,,12
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,915043,Iván Martos,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,totalTackle,General,Tackles (won),4.0,,,,4
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,accuratePass,General,Accurate passes,12.0,,19.0,63.1578947368421,12/19 (63%)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,total_duels,General,Duels (won),12.0,6.0,,,12 (6)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,ground_duels_total,General,Ground duels (won),9.0,6.0,,,9 (6)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,aerial_duels_total,General,Aerial duels (won),3.0,,,,3
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,minutesPlayed,General,Minutes played,59.0,,,,59
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,totalShots,Attacking,Shots (on target),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,totalContest,Attacking,Dribbles (successful),2.0,2.0,,100.0,2 (2)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,touches,Attacking,Touches,33.0,,,,33
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,totalTackle,Defending,Tackles (won),4.0,,,,4
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,accuratePass,Passing,Accurate passes,12.0,,19.0,63.1578947368421,12/19 (63%)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,accurateCross,Passing,Accurate crosses,,,4.0,,/4
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,accurateOwnHalfPasses,Passing,Passes own half,6.0,,8.0,75.0,6/8 (75%)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,accurateOppositionHalfPasses,Passing,Passes opposition half,6.0,,11.0,54.54545454545454,6/11 (55%)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,total_duels,Duels,Duels (won),12.0,6.0,,,12 (6)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,ground_duels_total,Duels,Ground duels (won),9.0,6.0,,,9 (6)
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,aerial_duels_total,Duels,Aerial duels (won),3.0,,,,3
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,fouls,Duels,Fouls committed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,possessionLostCtrl,Duels,Possession lost,14.0,,,,14
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,2059299,Dušan Zagar,M,minutesPlayed,Goalkeeping,Minutes played,59.0,,,,59
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,accuratePass,General,Accurate passes,20.0,,26.0,76.92307692307693,20/26 (77%)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,total_duels,General,Duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,ground_duels_total,General,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,touches,Attacking,Touches,40.0,,,,40
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,interceptionWon,Defending,Interceptions,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,ballRecovery,Defending,Ball recoveries,7.0,,,,7
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,totalClearance,Defending,Clearances,7.0,,,,7
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,outfielderBlock,Defending,Blocks,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,dispossessed,Defending,Dispossessed,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,accuratePass,Passing,Accurate passes,20.0,,26.0,76.92307692307693,20/26 (77%)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,accurateLongBalls,Passing,Accurate long balls,2.0,,4.0,50.0,2/4 (50%)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,accurateOwnHalfPasses,Passing,Passes own half,10.0,,12.0,83.33333333333334,10/12 (83%)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,accurateOppositionHalfPasses,Passing,Passes opposition half,10.0,,14.0,71.42857142857143,10/14 (71%)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,total_duels,Duels,Duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,ground_duels_total,Duels,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,dispossessed,Duels,Dispossessed,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,possessionLostCtrl,Duels,Possession lost,7.0,,,,7
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,904998,Moussa Sissako,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,totalTackle,General,Tackles (won),2.0,1.0,,,2 (1)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,accuratePass,General,Accurate passes,14.0,,20.0,70.0,14/20 (70%)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,total_duels,General,Duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,ground_duels_total,General,Ground duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,totalShots,Attacking,Shots (on target),2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,shotOffTarget,Attacking,Shots off target,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,touches,Attacking,Touches,33.0,,,,33
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,totalTackle,Defending,Tackles (won),2.0,1.0,,,2 (1)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,accuratePass,Passing,Accurate passes,14.0,,20.0,70.0,14/20 (70%)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,accurateLongBalls,Passing,Accurate long balls,3.0,,8.0,37.5,3/8 (38%)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,accurateCross,Passing,Accurate crosses,2.0,,4.0,50.0,2/4 (50%)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,accurateOwnHalfPasses,Passing,Passes own half,6.0,,8.0,75.0,6/8 (75%)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,accurateOppositionHalfPasses,Passing,Passes opposition half,8.0,,12.0,66.66666666666666,8/12 (67%)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,keyPass,Passing,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,total_duels,Duels,Duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,ground_duels_total,Duels,Ground duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,fouls,Duels,Fouls committed,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,possessionLostCtrl,Duels,Possession lost,10.0,,,,10
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1897363,Josué Tiendrebeogo,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,accuratePass,General,Accurate passes,,,2.0,,/2
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,total_duels,General,Duels (won),4.0,,,,4
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,ground_duels_total,General,Ground duels (won),3.0,0.0,,,3 (0)
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,aerial_duels_total,General,Aerial duels (won),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,minutesPlayed,General,Minutes played,59.0,,,,59
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,touches,Attacking,Touches,8.0,,,,8
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,dispossessed,Defending,Dispossessed,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,accuratePass,Passing,Accurate passes,,,2.0,,/2
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,2.0,,/2
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,keyPass,Passing,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,total_duels,Duels,Duels (won),4.0,,,,4
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,ground_duels_total,Duels,Ground duels (won),3.0,0.0,,,3 (0)
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,aerial_duels_total,Duels,Aerial duels (won),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,fouls,Duels,Fouls committed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,dispossessed,Duels,Dispossessed,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,possessionLostCtrl,Duels,Possession lost,5.0,,,,5
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1588141,Rafael Batista da Silva Junior,M,minutesPlayed,Goalkeeping,Minutes played,59.0,,,,59
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,goalAssist,General,Assists,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,accuratePass,General,Accurate passes,8.0,,16.0,50.0,8/16 (50%)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,total_duels,General,Duels (won),14.0,3.0,,,14 (3)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,ground_duels_total,General,Ground duels (won),3.0,1.0,,,3 (1)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,aerial_duels_total,General,Aerial duels (won),11.0,2.0,,,11 (2)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,totalShots,Attacking,Shots (on target),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,goalAssist,Attacking,Assists,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,touches,Attacking,Touches,32.0,,,,32
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,ballRecovery,Defending,Ball recoveries,4.0,,,,4
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,dispossessed,Defending,Dispossessed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,accuratePass,Passing,Accurate passes,8.0,,16.0,50.0,8/16 (50%)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,accurateLongBalls,Passing,Accurate long balls,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,accurateCross,Passing,Accurate crosses,1.0,,1.0,100.0,1/1 (100%)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,accurateOwnHalfPasses,Passing,Passes own half,5.0,,5.0,100.0,5/5 (100%)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,accurateOppositionHalfPasses,Passing,Passes opposition half,3.0,,11.0,27.27272727272727,3/11 (27%)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,keyPass,Passing,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,total_duels,Duels,Duels (won),14.0,3.0,,,14 (3)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,ground_duels_total,Duels,Ground duels (won),3.0,1.0,,,3 (1)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,aerial_duels_total,Duels,Aerial duels (won),11.0,2.0,,,11 (2)
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,dispossessed,Duels,Dispossessed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,possessionLostCtrl,Duels,Possession lost,16.0,,,,16
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1917883,Oriyomi Lebi,F,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,goals,General,Goals,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,totalTackle,General,Tackles (won),4.0,3.0,,,4 (3)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,accuratePass,General,Accurate passes,13.0,,16.0,81.25,13/16 (81%)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,total_duels,General,Duels (won),13.0,7.0,,,13 (7)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,ground_duels_total,General,Ground duels (won),11.0,5.0,,,11 (5)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,aerial_duels_total,General,Aerial duels (won),2.0,2.0,,,2 (2)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,minutesPlayed,General,Minutes played,59.0,,,,59
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,goals,Attacking,Goals,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,totalShots,Attacking,Shots (on target),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,totalContest,Attacking,Dribbles (successful),2.0,1.0,,50.0,2 (1)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,touches,Attacking,Touches,27.0,,,,27
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,totalTackle,Defending,Tackles (won),4.0,3.0,,,4 (3)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,accuratePass,Passing,Accurate passes,13.0,,16.0,81.25,13/16 (81%)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,accurateOwnHalfPasses,Passing,Passes own half,8.0,,9.0,88.88888888888889,8/9 (89%)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,7.0,71.42857142857143,5/7 (71%)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,total_duels,Duels,Duels (won),13.0,7.0,,,13 (7)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,ground_duels_total,Duels,Ground duels (won),11.0,5.0,,,11 (5)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,aerial_duels_total,Duels,Aerial duels (won),2.0,2.0,,,2 (2)
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,fouls,Duels,Fouls committed,5.0,,,,5
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,possessionLostCtrl,Duels,Possession lost,6.0,,,,6
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1444568,Sankara Karamoko,F,minutesPlayed,Goalkeeping,Minutes played,59.0,,,,59
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,accuratePass,General,Accurate passes,4.0,,6.0,66.66666666666666,4/6 (67%)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,total_duels,General,Duels (won),6.0,2.0,,,6 (2)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,ground_duels_total,General,Ground duels (won),2.0,0.0,,,2 (0)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,minutesPlayed,General,Minutes played,31.0,,,,31
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,totalShots,Attacking,Shots (on target),2.0,2.0,,,2 (2)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,touches,Attacking,Touches,10.0,,,,10
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,accuratePass,Passing,Accurate passes,4.0,,6.0,66.66666666666666,4/6 (67%)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,accurateOwnHalfPasses,Passing,Passes own half,2.0,,3.0,66.66666666666666,2/3 (67%)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,3.0,66.66666666666666,2/3 (67%)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,keyPass,Passing,Key passes,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,total_duels,Duels,Duels (won),6.0,2.0,,,6 (2)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,ground_duels_total,Duels,Ground duels (won),2.0,0.0,,,2 (0)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,fouls,Duels,Fouls committed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1137495,Charly Keita,F,minutesPlayed,Goalkeeping,Minutes played,31.0,,,,31
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,accuratePass,General,Accurate passes,2.0,,3.0,66.66666666666666,2/3 (67%)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,total_duels,General,Duels (won),7.0,4.0,,,7 (4)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,ground_duels_total,General,Ground duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,aerial_duels_total,General,Aerial duels (won),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,minutesPlayed,General,Minutes played,31.0,,,,31
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,totalContest,Attacking,Dribbles (successful),4.0,2.0,,50.0,4 (2)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,touches,Attacking,Touches,13.0,,,,13
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,accuratePass,Passing,Accurate passes,2.0,,3.0,66.66666666666666,2/3 (67%)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,accurateLongBalls,Passing,Accurate long balls,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,accurateCross,Passing,Accurate crosses,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,accurateOwnHalfPasses,Passing,Passes own half,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,accurateOppositionHalfPasses,Passing,Passes opposition half,2.0,,2.0,100.0,2/2 (100%)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,total_duels,Duels,Duels (won),7.0,4.0,,,7 (4)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,ground_duels_total,Duels,Ground duels (won),6.0,3.0,,,6 (3)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,aerial_duels_total,Duels,Aerial duels (won),1.0,1.0,,,1 (1)
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,fouls,Duels,Fouls committed,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,possessionLostCtrl,Duels,Possession lost,6.0,,,,6
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1405262,Vicky Kiankaulua,F,minutesPlayed,Goalkeeping,Minutes played,31.0,,,,31
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,accuratePass,General,Accurate passes,1.0,,1.0,100.0,1/1 (100%)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,total_duels,General,Duels (won),8.0,3.0,,,8 (3)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,ground_duels_total,General,Ground duels (won),8.0,3.0,,,8 (3)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,minutesPlayed,General,Minutes played,31.0,,,,31
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,totalContest,Attacking,Dribbles (successful),2.0,2.0,,100.0,2 (2)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,touches,Attacking,Touches,8.0,,,,8
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,dispossessed,Defending,Dispossessed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,accuratePass,Passing,Accurate passes,1.0,,1.0,100.0,1/1 (100%)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,accurateOppositionHalfPasses,Passing,Passes opposition half,1.0,,1.0,100.0,1/1 (100%)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,total_duels,Duels,Duels (won),8.0,3.0,,,8 (3)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,ground_duels_total,Duels,Ground duels (won),8.0,3.0,,,8 (3)
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,fouls,Duels,Fouls committed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,dispossessed,Duels,Dispossessed,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,possessionLostCtrl,Duels,Possession lost,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1974326,Miloš Bakić,F,minutesPlayed,Goalkeeping,Minutes played,31.0,,,,31
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,goalAssist,General,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,accuratePass,General,Accurate passes,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,total_duels,General,Duels (won),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,ground_duels_total,General,Ground duels (won),1.0,0.0,,,1 (0)
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,minutesPlayed,General,Minutes played,10.0,,,,10
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,totalContest,Attacking,Dribbles (successful),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,touches,Attacking,Touches,3.0,,,,3
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,accuratePass,Passing,Accurate passes,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,accurateOwnHalfPasses,Passing,Passes own half,,,1.0,,/1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,total_duels,Duels,Duels (won),1.0,,,,1
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,ground_duels_total,Duels,Ground duels (won),1.0,0.0,,,1 (0)
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,229722,Farid Boulaya,M,minutesPlayed,Goalkeeping,Minutes played,10.0,,,,10
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,goalAssist,General,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,accuratePass,General,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,total_duels,General,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,minutesPlayed,General,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,goalAssist,Attacking,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,touches,Attacking,Touches,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,accuratePass,Passing,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,886182,Marko Jevtić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,goalAssist,General,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,accuratePass,General,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,total_duels,General,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,minutesPlayed,General,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,goalAssist,Attacking,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,touches,Attacking,Touches,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,accuratePass,Passing,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1957264,Kadir Gicić,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,goalAssist,General,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,accuratePass,General,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,total_duels,General,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,minutesPlayed,General,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,goalAssist,Attacking,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,touches,Attacking,Touches,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,accuratePass,Passing,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,929727,Vladimir Radočaj,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,goals,General,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,goalAssist,General,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,totalTackle,General,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,accuratePass,General,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,total_duels,General,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,minutesPlayed,General,Minutes played,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,goals,Attacking,Goals,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,goalAssist,Attacking,Assists,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,keyPass,Attacking,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,touches,Attacking,Touches,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,wasFouled,Attacking,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,totalClearance,Defending,Clearances,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,dispossessed,Defending,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,ownGoals,Defending,Own goals,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,accuratePass,Passing,Accurate passes,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,accurateCross,Passing,Accurate crosses,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,keyPass,Passing,Key passes,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,wasFouled,Duels,Was fouled,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,fouls,Duels,Fouls committed,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,dispossessed,Duels,Dispossessed,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,saves,Goalkeeping,Saves,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,308176,FK IMT Beograd,home,1217033,Kenroy Campbell,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,accuratePass,General,Accurate passes,29.0,,37.0,78.37837837837837,29/37 (78%)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,total_duels,General,Duels (won),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,aerial_duels_total,General,Aerial duels (won),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,touches,Attacking,Touches,46.0,,,,46
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,ballRecovery,Defending,Ball recoveries,13.0,,,,13
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,accuratePass,Passing,Accurate passes,29.0,,37.0,78.37837837837837,29/37 (78%)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,accurateLongBalls,Passing,Accurate long balls,3.0,,11.0,27.27272727272727,3/11 (27%)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,accurateOwnHalfPasses,Passing,Passes own half,28.0,,29.0,96.55172413793103,28/29 (97%)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,accurateOppositionHalfPasses,Passing,Passes opposition half,1.0,,8.0,12.5,1/8 (12%)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,total_duels,Duels,Duels (won),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,aerial_duels_total,Duels,Aerial duels (won),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,possessionLostCtrl,Duels,Possession lost,8.0,,,,8
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,saves,Goalkeeping,Saves,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),1.0,1.0,,100.0,1 (1)
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,goodHighClaim,Goalkeeping,Good high claims,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,603946,Matheus,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,totalTackle,General,Tackles (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,accuratePass,General,Accurate passes,66.0,,69.0,95.65217391304348,66/69 (96%)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,total_duels,General,Duels (won),9.0,6.0,,,9 (6)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,ground_duels_total,General,Ground duels (won),7.0,5.0,,,7 (5)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,aerial_duels_total,General,Aerial duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,touches,Attacking,Touches,91.0,,,,91
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,wasFouled,Attacking,Was fouled,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,totalTackle,Defending,Tackles (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,ballRecovery,Defending,Ball recoveries,7.0,,,,7
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,dispossessed,Defending,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,accuratePass,Passing,Accurate passes,66.0,,69.0,95.65217391304348,66/69 (96%)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,accurateLongBalls,Passing,Accurate long balls,2.0,,3.0,66.66666666666666,2/3 (67%)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,accurateCross,Passing,Accurate crosses,,,1.0,,/1
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,accurateOwnHalfPasses,Passing,Passes own half,36.0,,36.0,100.0,36/36 (100%)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,accurateOppositionHalfPasses,Passing,Passes opposition half,30.0,,33.0,90.9090909090909,30/33 (91%)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,total_duels,Duels,Duels (won),9.0,6.0,,,9 (6)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,ground_duels_total,Duels,Ground duels (won),7.0,5.0,,,7 (5)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,aerial_duels_total,Duels,Aerial duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,wasFouled,Duels,Was fouled,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,fouls,Duels,Fouls committed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,dispossessed,Duels,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,possessionLostCtrl,Duels,Possession lost,7.0,,,,7
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1019333,Young-woo Seol,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,accuratePass,General,Accurate passes,64.0,,69.0,92.7536231884058,64/69 (93%)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,total_duels,General,Duels (won),8.0,4.0,,,8 (4)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,ground_duels_total,General,Ground duels (won),4.0,2.0,,,4 (2)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,aerial_duels_total,General,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,totalShots,Attacking,Shots (on target),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,touches,Attacking,Touches,82.0,,,,82
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,wasFouled,Attacking,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,ballRecovery,Defending,Ball recoveries,4.0,,,,4
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,totalClearance,Defending,Clearances,6.0,,,,6
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,dispossessed,Defending,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,accuratePass,Passing,Accurate passes,64.0,,69.0,92.7536231884058,64/69 (93%)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,accurateLongBalls,Passing,Accurate long balls,5.0,,7.0,71.42857142857143,5/7 (71%)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,accurateOwnHalfPasses,Passing,Passes own half,43.0,,43.0,100.0,43/43 (100%)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,accurateOppositionHalfPasses,Passing,Passes opposition half,21.0,,26.0,80.76923076923077,21/26 (81%)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,total_duels,Duels,Duels (won),8.0,4.0,,,8 (4)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,ground_duels_total,Duels,Ground duels (won),4.0,2.0,,,4 (2)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,aerial_duels_total,Duels,Aerial duels (won),4.0,2.0,,,4 (2)
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,wasFouled,Duels,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,fouls,Duels,Fouls committed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,dispossessed,Duels,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,possessionLostCtrl,Duels,Possession lost,6.0,,,,6
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,227224,Miloš Veljković,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,goals,General,Goals,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,goalAssist,General,Assists,0.0,,,,0
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,totalTackle,General,Tackles (won),2.0,1.0,,,2 (1)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,accuratePass,General,Accurate passes,67.0,,71.0,94.36619718309859,67/71 (94%)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,total_duels,General,Duels (won),12.0,8.0,,,12 (8)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,ground_duels_total,General,Ground duels (won),4.0,3.0,,,4 (3)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,aerial_duels_total,General,Aerial duels (won),8.0,5.0,,,8 (5)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,goals,Attacking,Goals,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,keyPass,Attacking,Key passes,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,totalContest,Attacking,Dribbles (successful),1.0,,,,1
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,touches,Attacking,Touches,94.0,,,,94
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,totalTackle,Defending,Tackles (won),2.0,1.0,,,2 (1)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,interceptionWon,Defending,Interceptions,2.0,,,,2
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,totalClearance,Defending,Clearances,5.0,,,,5
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,ownGoals,Defending,Own goals,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,accuratePass,Passing,Accurate passes,67.0,,71.0,94.36619718309859,67/71 (94%)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,accurateLongBalls,Passing,Accurate long balls,2.0,,2.0,100.0,2/2 (100%)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,accurateCross,Passing,Accurate crosses,,,1.0,,/1
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,accurateOwnHalfPasses,Passing,Passes own half,38.0,,42.0,90.47619047619048,38/42 (90%)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,accurateOppositionHalfPasses,Passing,Passes opposition half,29.0,,29.0,100.0,29/29 (100%)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,keyPass,Passing,Key passes,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,total_duels,Duels,Duels (won),12.0,8.0,,,12 (8)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,ground_duels_total,Duels,Ground duels (won),4.0,3.0,,,4 (3)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,aerial_duels_total,Duels,Aerial duels (won),8.0,5.0,,,8 (5)
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,fouls,Duels,Fouls committed,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,possessionLostCtrl,Duels,Possession lost,12.0,,,,12
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,saves,Goalkeeping,Saves,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,2321,FK Crvena zvezda,away,940827,Strahinja Eraković,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,totalTackle,General,Tackles (won),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,accuratePass,General,Accurate passes,22.0,,24.0,91.66666666666666,22/24 (92%)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,total_duels,General,Duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,ground_duels_total,General,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,minutesPlayed,General,Minutes played,68.0,,,,68
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,totalContest,Attacking,Dribbles (successful),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,touches,Attacking,Touches,33.0,,,,33
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,totalTackle,Defending,Tackles (won),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,totalClearance,Defending,Clearances,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,accuratePass,Passing,Accurate passes,22.0,,24.0,91.66666666666666,22/24 (92%)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,accurateLongBalls,Passing,Accurate long balls,2.0,,3.0,66.66666666666666,2/3 (67%)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,accurateCross,Passing,Accurate crosses,1.0,,1.0,100.0,1/1 (100%)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,accurateOwnHalfPasses,Passing,Passes own half,6.0,,6.0,100.0,6/6 (100%)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,16.0,,18.0,88.88888888888889,16/18 (89%)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,keyPass,Passing,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,total_duels,Duels,Duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,ground_duels_total,Duels,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,possessionLostCtrl,Duels,Possession lost,6.0,,,,6
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1029788,Vladimir Lučić,M,minutesPlayed,Goalkeeping,Minutes played,68.0,,,,68
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,totalTackle,General,Tackles (won),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,accuratePass,General,Accurate passes,67.0,,76.0,88.1578947368421,67/76 (88%)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,total_duels,General,Duels (won),13.0,9.0,,,13 (9)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,ground_duels_total,General,Ground duels (won),7.0,5.0,,,7 (5)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,aerial_duels_total,General,Aerial duels (won),6.0,4.0,,,6 (4)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,totalShots,Attacking,Shots (on target),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,totalContest,Attacking,Dribbles (successful),1.0,1.0,,100.0,1 (1)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,touches,Attacking,Touches,92.0,,,,92
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,wasFouled,Attacking,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,totalTackle,Defending,Tackles (won),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,ballRecovery,Defending,Ball recoveries,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,totalClearance,Defending,Clearances,4.0,,,,4
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,outfielderBlock,Defending,Blocks,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,accuratePass,Passing,Accurate passes,67.0,,76.0,88.1578947368421,67/76 (88%)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,accurateLongBalls,Passing,Accurate long balls,1.0,,3.0,33.33333333333333,1/3 (33%)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,accurateOwnHalfPasses,Passing,Passes own half,22.0,,28.0,78.57142857142857,22/28 (79%)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,45.0,,48.0,93.75,45/48 (94%)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,total_duels,Duels,Duels (won),13.0,9.0,,,13 (9)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,ground_duels_total,Duels,Ground duels (won),7.0,5.0,,,7 (5)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,aerial_duels_total,Duels,Aerial duels (won),6.0,4.0,,,6 (4)
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,wasFouled,Duels,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,possessionLostCtrl,Duels,Possession lost,9.0,,,,9
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,155449,Rade Krunić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,accuratePass,General,Accurate passes,53.0,,62.0,85.48387096774194,53/62 (85%)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,total_duels,General,Duels (won),9.0,4.0,,,9 (4)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,ground_duels_total,General,Ground duels (won),6.0,2.0,,,6 (2)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,aerial_duels_total,General,Aerial duels (won),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,minutesPlayed,General,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,totalShots,Attacking,Shots (on target),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,keyPass,Attacking,Key passes,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,totalContest,Attacking,Dribbles (successful),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,touches,Attacking,Touches,80.0,,,,80
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,wasFouled,Attacking,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,ballRecovery,Defending,Ball recoveries,6.0,,,,6
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,dispossessed,Defending,Dispossessed,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,accuratePass,Passing,Accurate passes,53.0,,62.0,85.48387096774194,53/62 (85%)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,accurateLongBalls,Passing,Accurate long balls,1.0,,5.0,20.0,1/5 (20%)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,accurateCross,Passing,Accurate crosses,3.0,,6.0,50.0,3/6 (50%)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,accurateOwnHalfPasses,Passing,Passes own half,17.0,,18.0,94.44444444444444,17/18 (94%)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,accurateOppositionHalfPasses,Passing,Passes opposition half,36.0,,44.0,81.81818181818183,36/44 (82%)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,keyPass,Passing,Key passes,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,total_duels,Duels,Duels (won),9.0,4.0,,,9 (4)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,ground_duels_total,Duels,Ground duels (won),6.0,2.0,,,6 (2)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,aerial_duels_total,Duels,Aerial duels (won),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,wasFouled,Duels,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,fouls,Duels,Fouls committed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,dispossessed,Duels,Dispossessed,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,possessionLostCtrl,Duels,Possession lost,16.0,,,,16
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,827371,Timi Max Elšnik,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,accuratePass,General,Accurate passes,21.0,,28.0,75.0,21/28 (75%)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,total_duels,General,Duels (won),16.0,6.0,,,16 (6)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,ground_duels_total,General,Ground duels (won),12.0,3.0,,,12 (3)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,aerial_duels_total,General,Aerial duels (won),4.0,3.0,,,4 (3)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,minutesPlayed,General,Minutes played,68.0,,,,68
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,totalShots,Attacking,Shots (on target),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,totalContest,Attacking,Dribbles (successful),4.0,2.0,,50.0,4 (2)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,touches,Attacking,Touches,58.0,,,,58
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,totalClearance,Defending,Clearances,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,outfielderBlock,Defending,Blocks,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,dispossessed,Defending,Dispossessed,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,accuratePass,Passing,Accurate passes,21.0,,28.0,75.0,21/28 (75%)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,accurateLongBalls,Passing,Accurate long balls,2.0,,2.0,100.0,2/2 (100%)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,accurateCross,Passing,Accurate crosses,2.0,,4.0,50.0,2/4 (50%)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,accurateOwnHalfPasses,Passing,Passes own half,8.0,,10.0,80.0,8/10 (80%)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,13.0,,18.0,72.22222222222221,13/18 (72%)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,total_duels,Duels,Duels (won),16.0,6.0,,,16 (6)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,ground_duels_total,Duels,Ground duels (won),12.0,3.0,,,12 (3)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,aerial_duels_total,Duels,Aerial duels (won),4.0,3.0,,,4 (3)
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,fouls,Duels,Fouls committed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,dispossessed,Duels,Dispossessed,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,possessionLostCtrl,Duels,Possession lost,17.0,,,,17
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1493918,Adem Avdić,M,minutesPlayed,Goalkeeping,Minutes played,68.0,,,,68
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,goals,General,Goals,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,totalTackle,General,Tackles (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,accuratePass,General,Accurate passes,34.0,,39.0,87.17948717948718,34/39 (87%)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,total_duels,General,Duels (won),7.0,4.0,,,7 (4)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,ground_duels_total,General,Ground duels (won),7.0,4.0,,,7 (4)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,minutesPlayed,General,Minutes played,87.0,,,,87
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,goals,Attacking,Goals,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,totalShots,Attacking,Shots (on target),3.0,1.0,,,3 (1)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,shotOffTarget,Attacking,Shots off target,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,totalContest,Attacking,Dribbles (successful),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,touches,Attacking,Touches,56.0,,,,56
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,wasFouled,Attacking,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,totalTackle,Defending,Tackles (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,ballRecovery,Defending,Ball recoveries,5.0,,,,5
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,dispossessed,Defending,Dispossessed,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,accuratePass,Passing,Accurate passes,34.0,,39.0,87.17948717948718,34/39 (87%)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,accurateLongBalls,Passing,Accurate long balls,2.0,,2.0,100.0,2/2 (100%)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,accurateCross,Passing,Accurate crosses,3.0,,4.0,75.0,3/4 (75%)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,accurateOwnHalfPasses,Passing,Passes own half,17.0,,18.0,94.44444444444444,17/18 (94%)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,accurateOppositionHalfPasses,Passing,Passes opposition half,17.0,,21.0,80.95238095238095,17/21 (81%)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,keyPass,Passing,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,total_duels,Duels,Duels (won),7.0,4.0,,,7 (4)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,ground_duels_total,Duels,Ground duels (won),7.0,4.0,,,7 (4)
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,wasFouled,Duels,Was fouled,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,dispossessed,Duels,Dispossessed,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,possessionLostCtrl,Duels,Possession lost,10.0,,,,10
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1825955,Vasilije Kostov,F,minutesPlayed,Goalkeeping,Minutes played,87.0,,,,87
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,goalAssist,General,Assists,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,accuratePass,General,Accurate passes,12.0,,15.0,80.0,12/15 (80%)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,total_duels,General,Duels (won),5.0,2.0,,,5 (2)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,ground_duels_total,General,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,aerial_duels_total,General,Aerial duels (won),3.0,1.0,,,3 (1)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,minutesPlayed,General,Minutes played,78.0,,,,78
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,totalShots,Attacking,Shots (on target),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,goalAssist,Attacking,Assists,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,keyPass,Attacking,Key passes,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,touches,Attacking,Touches,20.0,,,,20
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,dispossessed,Defending,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,accuratePass,Passing,Accurate passes,12.0,,15.0,80.0,12/15 (80%)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,accurateLongBalls,Passing,Accurate long balls,,,1.0,,/1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,accurateOwnHalfPasses,Passing,Passes own half,4.0,,7.0,57.14285714285714,4/7 (57%)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,8.0,,8.0,100.0,8/8 (100%)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,keyPass,Passing,Key passes,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,total_duels,Duels,Duels (won),5.0,2.0,,,5 (2)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,ground_duels_total,Duels,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,aerial_duels_total,Duels,Aerial duels (won),3.0,1.0,,,3 (1)
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,dispossessed,Duels,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,possessionLostCtrl,Duels,Possession lost,6.0,,,,6
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,21927,Marko Arnautović,F,minutesPlayed,Goalkeeping,Minutes played,78.0,,,,78
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,goals,General,Goals,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,accuratePass,General,Accurate passes,23.0,,35.0,65.71428571428571,23/35 (66%)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,total_duels,General,Duels (won),6.0,4.0,,,6 (4)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,ground_duels_total,General,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,aerial_duels_total,General,Aerial duels (won),4.0,3.0,,,4 (3)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,minutesPlayed,General,Minutes played,78.0,,,,78
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,goals,Attacking,Goals,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,totalShots,Attacking,Shots (on target),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,totalContest,Attacking,Dribbles (successful),1.0,1.0,,100.0,1 (1)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,touches,Attacking,Touches,47.0,,,,47
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,ballRecovery,Defending,Ball recoveries,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,dispossessed,Defending,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,accuratePass,Passing,Accurate passes,23.0,,35.0,65.71428571428571,23/35 (66%)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,accurateLongBalls,Passing,Accurate long balls,1.0,,3.0,33.33333333333333,1/3 (33%)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,accurateCross,Passing,Accurate crosses,,,1.0,,/1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,accurateOwnHalfPasses,Passing,Passes own half,4.0,,7.0,57.14285714285714,4/7 (57%)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,accurateOppositionHalfPasses,Passing,Passes opposition half,19.0,,28.0,67.85714285714286,19/28 (68%)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,total_duels,Duels,Duels (won),6.0,4.0,,,6 (4)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,ground_duels_total,Duels,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,aerial_duels_total,Duels,Aerial duels (won),4.0,3.0,,,4 (3)
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,dispossessed,Duels,Dispossessed,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,possessionLostCtrl,Duels,Possession lost,17.0,,,,17
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,110701,Aleksandar Katai,F,minutesPlayed,Goalkeeping,Minutes played,78.0,,,,78
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,totalTackle,General,Tackles (won),2.0,2.0,,,2 (2)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,accuratePass,General,Accurate passes,9.0,,11.0,81.81818181818183,9/11 (82%)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,total_duels,General,Duels (won),2.0,2.0,,,2 (2)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,ground_duels_total,General,Ground duels (won),2.0,2.0,,,2 (2)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,minutesPlayed,General,Minutes played,22.0,,,,22
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,touches,Attacking,Touches,21.0,,,,21
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,totalTackle,Defending,Tackles (won),2.0,2.0,,,2 (2)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,interceptionWon,Defending,Interceptions,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,totalClearance,Defending,Clearances,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,accuratePass,Passing,Accurate passes,9.0,,11.0,81.81818181818183,9/11 (82%)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,accurateLongBalls,Passing,Accurate long balls,1.0,,1.0,100.0,1/1 (100%)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,accurateCross,Passing,Accurate crosses,1.0,,2.0,50.0,1/2 (50%)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,accurateOwnHalfPasses,Passing,Passes own half,3.0,,3.0,100.0,3/3 (100%)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,accurateOppositionHalfPasses,Passing,Passes opposition half,6.0,,8.0,75.0,6/8 (75%)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,keyPass,Passing,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,total_duels,Duels,Duels (won),2.0,2.0,,,2 (2)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,ground_duels_total,Duels,Ground duels (won),2.0,2.0,,,2 (2)
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,possessionLostCtrl,Duels,Possession lost,4.0,,,,4
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,904400,Nair Tiknizyan,D,minutesPlayed,Goalkeeping,Minutes played,22.0,,,,22
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,accuratePass,General,Accurate passes,6.0,,7.0,85.71428571428571,6/7 (86%)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,total_duels,General,Duels (won),5.0,1.0,,,5 (1)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,ground_duels_total,General,Ground duels (won),5.0,1.0,,,5 (1)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,minutesPlayed,General,Minutes played,22.0,,,,22
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,totalShots,Attacking,Shots (on target),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,shotOffTarget,Attacking,Shots off target,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,totalContest,Attacking,Dribbles (successful),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,touches,Attacking,Touches,16.0,,,,16
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,dispossessed,Defending,Dispossessed,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,accuratePass,Passing,Accurate passes,6.0,,7.0,85.71428571428571,6/7 (86%)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,accurateLongBalls,Passing,Accurate long balls,,,1.0,,/1
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,accurateCross,Passing,Accurate crosses,1.0,,1.0,100.0,1/1 (100%)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,accurateOwnHalfPasses,Passing,Passes own half,1.0,,1.0,100.0,1/1 (100%)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,6.0,83.33333333333334,5/6 (83%)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,total_duels,Duels,Duels (won),5.0,1.0,,,5 (1)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,ground_duels_total,Duels,Ground duels (won),5.0,1.0,,,5 (1)
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,dispossessed,Duels,Dispossessed,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,possessionLostCtrl,Duels,Possession lost,5.0,,,,5
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1916326,Douglas Owusu,M,minutesPlayed,Goalkeeping,Minutes played,22.0,,,,22
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,accuratePass,General,Accurate passes,5.0,,7.0,71.42857142857143,5/7 (71%)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,total_duels,General,Duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,ground_duels_total,General,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,minutesPlayed,General,Minutes played,12.0,,,,12
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,totalShots,Attacking,Shots (on target),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,blockedScoringAttempt,Attacking,Shots blocked,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,touches,Attacking,Touches,11.0,,,,11
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,ballRecovery,Defending,Ball recoveries,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,accuratePass,Passing,Accurate passes,5.0,,7.0,71.42857142857143,5/7 (71%)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,accurateLongBalls,Passing,Accurate long balls,,,1.0,,/1
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,7.0,71.42857142857143,5/7 (71%)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,total_duels,Duels,Duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,ground_duels_total,Duels,Ground duels (won),2.0,1.0,,,2 (1)
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1974511,Luka Zarić,M,minutesPlayed,Goalkeeping,Minutes played,12.0,,,,12
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,accuratePass,General,Accurate passes,7.0,,8.0,87.5,7/8 (88%)
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,total_duels,General,Duels (won),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,ground_duels_total,General,Ground duels (won),1.0,0.0,,,1 (0)
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,aerial_duels_total,General,Aerial duels (won),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,minutesPlayed,General,Minutes played,12.0,,,,12
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,keyPass,Attacking,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,totalContest,Attacking,Dribbles (successful),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,touches,Attacking,Touches,9.0,,,,9
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,accuratePass,Passing,Accurate passes,7.0,,8.0,87.5,7/8 (88%)
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,accurateOwnHalfPasses,Passing,Passes own half,2.0,,2.0,100.0,2/2 (100%)
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,accurateOppositionHalfPasses,Passing,Passes opposition half,5.0,,6.0,83.33333333333334,5/6 (83%)
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,keyPass,Passing,Key passes,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,total_duels,Duels,Duels (won),2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,ground_duels_total,Duels,Ground duels (won),1.0,0.0,,,1 (0)
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,aerial_duels_total,Duels,Aerial duels (won),1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,878830,Bruno Duarte,F,minutesPlayed,Goalkeeping,Minutes played,12.0,,,,12
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,goalAssist,General,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,totalTackle,General,Tackles (won),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,accuratePass,General,Accurate passes,6.0,,8.0,75.0,6/8 (75%)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,total_duels,General,Duels (won),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,ground_duels_total,General,Ground duels (won),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,minutesPlayed,General,Minutes played,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,goalAssist,Attacking,Assists,0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,touches,Attacking,Touches,10.0,,,,10
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,wasFouled,Attacking,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,totalTackle,Defending,Tackles (won),1.0,1.0,,,1 (1)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,accuratePass,Passing,Accurate passes,6.0,,8.0,75.0,6/8 (75%)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,accurateOwnHalfPasses,Passing,Passes own half,2.0,,2.0,100.0,2/2 (100%)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,accurateOppositionHalfPasses,Passing,Passes opposition half,4.0,,6.0,66.66666666666666,4/6 (67%)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,total_duels,Duels,Duels (won),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,ground_duels_total,Duels,Ground duels (won),3.0,2.0,,,3 (2)
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,wasFouled,Duels,Was fouled,1.0,,,,1
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,possessionLostCtrl,Duels,Possession lost,2.0,,,,2
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1131048,Tomás Händel,M,minutesPlayed,Goalkeeping,Minutes played,3.0,,,,3
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,goalAssist,General,Assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,accuratePass,General,Accurate passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,total_duels,General,Duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,minutesPlayed,General,Minutes played,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,goalAssist,Attacking,Assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,touches,Attacking,Touches,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,accuratePass,Passing,Accurate passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1516318,Mahmudu Bajo,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,goalAssist,General,Assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,accuratePass,General,Accurate passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,total_duels,General,Duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,minutesPlayed,General,Minutes played,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,goalAssist,Attacking,Assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,touches,Attacking,Touches,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,accuratePass,Passing,Accurate passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,1406109,Vuk Draškić,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,goals,General,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,goalAssist,General,Assists,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,totalTackle,General,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,accuratePass,General,Accurate passes,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,total_duels,General,Duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,minutesPlayed,General,Minutes played,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,goals,Attacking,Goals,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,shotOffTarget,Attacking,Shots off target,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,expectedGoals,Attacking,Expected goals,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,goalAssist,Attacking,Assists,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,expectedAssists,Attacking,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,keyPass,Attacking,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,totalContest,Attacking,Dribbles (successful),,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,touches,Attacking,Touches,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,wasFouled,Attacking,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,totalTackle,Defending,Tackles (won),,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,interceptionWon,Defending,Interceptions,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,ballRecovery,Defending,Ball recoveries,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,totalClearance,Defending,Clearances,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,outfielderBlock,Defending,Blocks,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,dispossessed,Defending,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,ownGoals,Defending,Own goals,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,accuratePass,Passing,Accurate passes,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,accurateCross,Passing,Accurate crosses,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,keyPass,Passing,Key passes,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,expectedAssists,Passing,Expected assists,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,total_duels,Duels,Duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,wasFouled,Duels,Was fouled,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,fouls,Duels,Fouls committed,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,dispossessed,Duels,Dispossessed,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,possessionLostCtrl,Duels,Possession lost,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,saves,Goalkeeping,Saves,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+14015617,5149,FK Crvena zvezda,away,867608,Rodrigão,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
