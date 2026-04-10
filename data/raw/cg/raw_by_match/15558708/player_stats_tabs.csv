@@ -1,0 +1,1834 @@
+match_id,team_id,team_name,team_side,player_id,player_name,player_position,metric_key,category,metric,value,secondary,denominator,percentage,display
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,1405738,Benjamin Krijestarac,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,1392904,Velimir Ljutica,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,189001,Jovan Baošić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,286837,Ilija Martinović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,171431,Nikola Stijepović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,1005622,Jovan Dašić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,94261,Andrija Kaluđerović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,goals,General,Goals,1.0,,,,1
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,goals,Attacking,Goals,1.0,,,,1
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,154655,Darko Zorić,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,804419,Demir Skrijelj,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,95583,Stefan Denković,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,goals,General,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,goals,Attacking,Goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,856483,Balša Sekulić,F,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,843005,Marko Đurišić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,894450,Yann Michael Yao,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,1484678,Vukas Dragović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,941133,Petar Vukčević,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,357708,Nikola Vujnović,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,187341,Stefan Popović,G,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,goals,General,Goals,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,goalAssist,General,Assists,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,totalTackle,General,Tackles (won),,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,accuratePass,General,Accurate passes,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,minutesPlayed,General,Minutes played,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,goals,Attacking,Goals,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,goalAssist,Attacking,Assists,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,keyPass,Attacking,Key passes,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,touches,Attacking,Touches,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,totalClearance,Defending,Clearances,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,ownGoals,Defending,Own goals,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,keyPass,Passing,Key passes,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,wasFouled,Duels,Was fouled,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,fouls,Duels,Fouls committed,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,saves,Goalkeeping,Saves,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,241802,FK Mornar Bar,home,839271,Nemanja Vlahović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,1404815,Matija Rovčanin,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,goals,General,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,goalAssist,General,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,totalTackle,General,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,accuratePass,General,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,minutesPlayed,General,Minutes played,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,goals,Attacking,Goals,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,totalShots,Attacking,Shots (on target),,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,goalAssist,Attacking,Assists,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,keyPass,Attacking,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,touches,Attacking,Touches,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,totalClearance,Defending,Clearances,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,ownGoals,Defending,Own goals,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,keyPass,Passing,Key passes,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,wasFouled,Duels,Was fouled,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,fouls,Duels,Fouls committed,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,saves,Goalkeeping,Saves,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,36019,FK Mornar Bar,home,1214474,Nikola Vuković,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,57363,Vladan Giljen,G,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1149283,Milos Vracar,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138937,Boris Kopitović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,893161,Anto Babić,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,goals,General,Goals,1.0,,,,1
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,goals,Attacking,Goals,1.0,,,,1
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1000770,Andrija Ražnatović,D,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,850088,Jovan Čađenović,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,138947,Deni Hočko,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1479109,Marko Simun,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,929998,Ivan Vukčević,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1381358,Petar Anicic,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,goals,General,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,minutesPlayed,General,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,goals,Attacking,Goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,totalShots,Attacking,Shots (on target),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,ownGoals,Defending,Own goals,0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,962100,Vasilije Cavor,M,minutesPlayed,Goalkeeping,Minutes played,90.0,,,,90
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1005753,Marko Mrvaljević,F,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,goals,General,Goals,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,goalAssist,General,Assists,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,totalTackle,General,Tackles (won),,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,accuratePass,General,Accurate passes,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,minutesPlayed,General,Minutes played,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,goals,Attacking,Goals,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,goalAssist,Attacking,Assists,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,keyPass,Attacking,Key passes,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,touches,Attacking,Touches,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,totalClearance,Defending,Clearances,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,ownGoals,Defending,Own goals,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,keyPass,Passing,Key passes,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,wasFouled,Duels,Was fouled,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,fouls,Duels,Fouls committed,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,saves,Goalkeeping,Saves,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,481825,FK Sutjeska Nikšić,away,2055858,Andrija Kecojević,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1896811,Medo Jukovic,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1030493,Aleksa Golubovic,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,172957,Vasko Kalezić,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1063207,Rados Dedic,D,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1067578,Igor Pajović,M,minutesPlayed,Goalkeeping,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,goals,General,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,goalAssist,General,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,totalTackle,General,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,accuratePass,General,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,total_duels,General,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,ground_duels_total,General,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,aerial_duels_total,General,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,minutesPlayed,General,Minutes played,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,goals,Attacking,Goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,totalShots,Attacking,Shots (on target),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,shotOffTarget,Attacking,Shots off target,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,blockedScoringAttempt,Attacking,Shots blocked,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,expectedGoals,Attacking,Expected goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,goalAssist,Attacking,Assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,expectedAssists,Attacking,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,keyPass,Attacking,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,totalContest,Attacking,Dribbles (successful),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,touches,Attacking,Touches,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,wasFouled,Attacking,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,totalTackle,Defending,Tackles (won),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,interceptionWon,Defending,Interceptions,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,ballRecovery,Defending,Ball recoveries,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,totalClearance,Defending,Clearances,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,outfielderBlock,Defending,Blocks,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,dispossessed,Defending,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,errorLeadToAShot,Defending,Errors leading to shot,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,ownGoals,Defending,Own goals,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,accuratePass,Passing,Accurate passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,accurateLongBalls,Passing,Accurate long balls,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,accurateCross,Passing,Accurate crosses,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,accurateOwnHalfPasses,Passing,Passes own half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,accurateOppositionHalfPasses,Passing,Passes opposition half,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,keyPass,Passing,Key passes,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,expectedAssists,Passing,Expected assists,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,total_duels,Duels,Duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,ground_duels_total,Duels,Ground duels (won),0.0,0.0,,,0 (0)
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,aerial_duels_total,Duels,Aerial duels (won),0.0,,,,0
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,wasFouled,Duels,Was fouled,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,fouls,Duels,Fouls committed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,dispossessed,Duels,Dispossessed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,possessionLostCtrl,Duels,Possession lost,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,saves,Goalkeeping,Saves,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,savedShotsFromInsideTheBox,Goalkeeping,Saves (inside box),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,totalKeeperSweeper,Goalkeeping,Keeper sweepers (accurate),,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,goodHighClaim,Goalkeeping,Good high claims,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,crossNotClaimed,Goalkeeping,Crosses not claimed,,,,,
+15558708,6224,FK Sutjeska Nikšić,away,1032030,Stojan Vukcevic,G,minutesPlayed,Goalkeeping,Minutes played,,,,,

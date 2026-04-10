@@ -3,7 +3,9 @@
     "allow": [
       "Bash(python -c \":*)",
       "Bash(python:*)",
-      "Bash(python3 -c \"import json; nb = json.load\\(open\\('/c/Users/PC/Desktop/GitHub/Polutka_Lab/notebooks/03_xg_over_under.ipynb'\\)\\); print\\('\\\\\\\\n'.join\\([cell['source'][0][:80] if cell['source'] else '' for cell in nb['cells'][:5]]\\)\\)\")"
+      "Bash(python3 -c \"import json; nb = json.load\\(open\\('/c/Users/PC/Desktop/GitHub/Polutka_Lab/notebooks/03_xg_over_under.ipynb'\\)\\); print\\('\\\\\\\\n'.join\\([cell['source'][0][:80] if cell['source'] else '' for cell in nb['cells'][:5]]\\)\\)\")",
+      "Bash(python3 -c ':*)",
+      "Bash(python3)"
     ]
   }
 }
